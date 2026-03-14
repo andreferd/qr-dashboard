@@ -1,0 +1,67 @@
+name: Update Auction Data
+
+on:
+  schedule:
+    # Run daily at 2 AM UTC (8 hours after midnight auctions close)
+    - cron: '0 2 * * *'
+  # Allow manual trigger from GitHub UI
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run parse-winners script
+        run: npx ts-node scripts/parse-winners.ts
+
+      - name: Run research-projects script
+        run: npx ts-node scripts/research-projects.ts
+
+      - name: Configure git
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet data/; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          git add data/auctions.json data/projects.json
+          git commit -m "chore: update auction data - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create deployment
+        if: steps.changes.outputs.has_changes == 'true'
+        run: |
+          echo "✅ Data updated successfully"
+          echo "Changes pushed to GitHub - Vercel will auto-deploy"
+
+      - name: No changes
+        if: steps.changes.outputs.has_changes == 'false'
+        run: |
+          echo "ℹ️ No new auctions or data changes"

@@ -1,0 +1,4418 @@
+{
+  "opencredits.xyz": {
+    "name": "OpenCredits - Wallet-native AI Credits",
+    "tagline": "Wallet-native AI credits",
+    "summary": "OpenCredits — a wallet-native system for purchasing and using AI credits.",
+    "category": "Tool/Utility",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 204,
+    "firstWin": "2026-03-12",
+    "lastWin": "2026-03-12",
+    "auctionIds": [
+      371
+    ],
+    "favicon": "https://opencredits.xyz/favicon.svg"
+  },
+  "traitorsamongtraitors.gg": {
+    "name": "Among",
+    "tagline": "traitorsamongtraitors.gg",
+    "summary": "Among promoted through the QR auction. Won auction for $157.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 157,
+    "firstWin": "2026-03-11",
+    "lastWin": "2026-03-11",
+    "auctionIds": [
+      370
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=traitorsamongtraitors.gg&sz=64"
+  },
+  "fc-miniapp:pizza-party": {
+    "name": "Pizza Party",
+    "tagline": "Social pizza ordering game on Farcaster",
+    "summary": "A fun social mini app where Farcaster users can order and share virtual pizza with friends. Won 2 QR auctions ($543 total).",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 543,
+    "firstWin": "2026-03-10",
+    "lastWin": "2026-01-30",
+    "auctionIds": [
+      369,
+      330
+    ],
+    "favicon": "https://i.postimg.cc/Y2bLKkdC/E49A4767_F207_4D3C_9CE7_226129385659.png"
+  },
+  "fc-miniapp:money-games": {
+    "name": "MONEY GAMES",
+    "tagline": "Snake game with crypto rewards",
+    "summary": "A blockchain-powered snake game on Farcaster where players can earn crypto rewards.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 171,
+    "firstWin": "2026-03-09",
+    "lastWin": "2026-03-09",
+    "auctionIds": [
+      368
+    ],
+    "favicon": "https://like.trifle.life/fc-miniapp-icon-1024x1024-1.png"
+  },
+  "play.fun": {
+    "name": "Bizarre Bounce - BizarreBeasts | Play.fun | Play to Earn Games on Solana",
+    "tagline": "Web3 gaming platform",
+    "summary": "Play.fun — a Web3 gaming platform featuring casual games with crypto rewards.",
+    "category": "Game",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 171,
+    "firstWin": "2026-03-08",
+    "lastWin": "2026-03-08",
+    "auctionIds": [
+      367
+    ],
+    "favicon": "https://cdn.opengameprotocol.com/favicons/mushroom-180x180.png"
+  },
+  "calendarhigher.zip": {
+    "name": "HIGHER.ZIP",
+    "tagline": "HIGHER ecosystem calendar",
+    "summary": "HIGHER.ZIP Calendar — a calendar and event tool for the HIGHER token ecosystem.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 222,
+    "firstWin": "2026-03-07",
+    "lastWin": "2026-03-07",
+    "auctionIds": [
+      366
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=calendarhigher.zip&sz=64"
+  },
+  "vercel.app": {
+    "name": "Vercel: Build and deploy the best web experiences with the AI Cloud – Vercel",
+    "tagline": "Cloud deployment platform",
+    "summary": "Vercel — a cloud platform for deploying web applications with zero configuration.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1772,
+    "firstWin": "2026-03-06",
+    "lastWin": "2026-03-06",
+    "auctionIds": [
+      365
+    ],
+    "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png"
+  },
+  "x-account:ledgerville": {
+    "name": "@ledgerville's tweet",
+    "tagline": "X/Twitter account @ledgerville",
+    "summary": "Posts from @ledgerville on X (Twitter) promoted through the QR auction. 2 promotions totaling $430.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 430,
+    "firstWin": "2026-03-05",
+    "lastWin": "2026-03-04",
+    "auctionIds": [
+      364,
+      363
+    ],
+    "favicon": "https://pbs.twimg.com/profile_images/1911328923394158592/5bkopMI4_400x400.jpg"
+  },
+  "yourviews.org": {
+    "name": "Yourviews — Onchain Journal of the Day",
+    "tagline": "Onchain journaling platform",
+    "summary": "Yourviews — an onchain journaling platform for recording daily thoughts and experiences.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 235,
+    "firstWin": "2026-03-03",
+    "lastWin": "2026-03-03",
+    "auctionIds": [
+      362
+    ],
+    "favicon": "https://yourviews.org/apple-touch-icon.png"
+  },
+  "apps.apple.com": {
+    "name": "Rev for Vercel App - App Store",
+    "tagline": "iOS app on App Store",
+    "summary": "An iOS application promoted through the QR auction, available on the Apple App Store.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 161,
+    "firstWin": "2026-03-02",
+    "lastWin": "2026-03-02",
+    "auctionIds": [
+      361
+    ],
+    "favicon": "https://apps.apple.com/assets/favicon/favicon-180.png"
+  },
+  "waligpt.com": {
+    "name": "WaliGPT - OpenClaw Launcher | Deploy and manage OpenClaw AI agents",
+    "tagline": "AI agent deployment platform",
+    "summary": "WaliGPT OpenClaw — a platform for deploying and managing AI agents onchain. Won 3 QR auctions ($838 total).",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 3,
+    "totalSpentUSD": 838,
+    "firstWin": "2026-03-01",
+    "lastWin": "2026-02-06",
+    "auctionIds": [
+      360,
+      352,
+      337
+    ],
+    "favicon": "https://waligpt.com/assets/wali-robot-logo-4x.png"
+  },
+  "truthpolltruthpoll.com": {
+    "name": "truthpolltruthpoll.com",
+    "tagline": "Onchain polling platform",
+    "summary": "TruthPoll — an onchain polling and voting platform for community decision-making.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 153,
+    "firstWin": "2026-02-28",
+    "lastWin": "2026-02-28",
+    "auctionIds": [
+      359
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=truthpolltruthpoll.com&sz=64"
+  },
+  "adverse.app": {
+    "name": "Adverse - The World's First Advertising Marketplace You Own",
+    "tagline": "Decentralized ad marketplace",
+    "summary": "Adverse — a decentralized advertising marketplace where users own their attention data.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 175,
+    "firstWin": "2026-02-27",
+    "lastWin": "2026-02-27",
+    "auctionIds": [
+      358
+    ],
+    "favicon": "https://adverse.app/assets/adverse-logo-DAmCrzr4.jpg"
+  },
+  "x-account:clawdvine": {
+    "name": "@clawdvine's tweet",
+    "tagline": "X/Twitter account @clawdvine",
+    "summary": "Posts from @clawdvine on X (Twitter) promoted through the QR auction. Single promotion for $273.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 273,
+    "firstWin": "2026-02-26",
+    "lastWin": "2026-02-26",
+    "auctionIds": [
+      357
+    ],
+    "favicon": "https://unavatar.io/twitter/clawdvine"
+  },
+  "dex:0xc99add2ddf": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Won auction for $191.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 191,
+    "firstWin": "2026-02-25",
+    "lastWin": "2026-02-25",
+    "auctionIds": [
+      356
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "grokipedia.com": {
+    "name": "DebtReliefBot — Grokipedia",
+    "tagline": "AI-powered knowledge base",
+    "summary": "Grokipedia featuring DebtReliefBot — an AI-powered resource for financial information and debt relief guidance. Won 2 QR auctions ($1012 total).",
+    "category": "Tool/Utility",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 1012,
+    "firstWin": "2026-02-24",
+    "lastWin": "2026-01-16",
+    "auctionIds": [
+      355,
+      316
+    ],
+    "favicon": "https://grokipedia.com/favicon.ico"
+  },
+  "lobstersonchainlobsters.xyz": {
+    "name": "Onchain",
+    "tagline": "lobstersonchainlobsters.xyz",
+    "summary": "Onchain promoted through the QR auction. Won auction for $201.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 201,
+    "firstWin": "2026-02-23",
+    "lastWin": "2026-02-23",
+    "auctionIds": [
+      354
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=lobstersonchainlobsters.xyz&sz=64"
+  },
+  "fc-miniapp:sovereignty": {
+    "name": "Sovereignty",
+    "tagline": "Governance mini app",
+    "summary": "A Farcaster mini app focused on governance and community decision-making.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 200,
+    "firstWin": "2026-02-22",
+    "lastWin": "2026-02-22",
+    "auctionIds": [
+      353
+    ],
+    "favicon": "https://svrnty.co/icon.png"
+  },
+  "fc-miniapp:vendyz": {
+    "name": "Vendyz",
+    "tagline": "Virtual vending machine",
+    "summary": "A virtual vending machine mini app where users can buy and sell digital items on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 248,
+    "firstWin": "2026-02-20",
+    "lastWin": "2026-02-20",
+    "auctionIds": [
+      351
+    ],
+    "favicon": "https://vendyz.vercel.app/icon.png"
+  },
+  "fc-cast:letshaveaword": {
+    "name": "@letshaveaword's cast",
+    "tagline": "Farcaster post by @letshaveaword",
+    "summary": "A Farcaster cast by @letshaveaword that was promoted via the QR auction. Won auction for $327.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 327,
+    "firstWin": "2026-02-19",
+    "lastWin": "2026-02-19",
+    "auctionIds": [
+      350
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2556ed85-7b57-4f5a-c1c6-683a2477fe00/original"
+  },
+  "fc-miniapp:claim": {
+    "name": "Claim —  Fees are yours!",
+    "tagline": "Fee claiming tool",
+    "summary": "A mini app that helps users claim their earned protocol fees and rewards on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1374,
+    "firstWin": "2026-02-18",
+    "lastWin": "2026-02-18",
+    "auctionIds": [
+      349
+    ],
+    "favicon": "https://farcaster.xyz/og-logo-v3.png"
+  },
+  "fc-miniapp:volt": {
+    "name": "VOLT",
+    "tagline": "Energy-themed social game",
+    "summary": "A VOLT-themed mini app on Farcaster for social engagement and community building.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 212,
+    "firstWin": "2026-02-17",
+    "lastWin": "2026-02-17",
+    "auctionIds": [
+      348
+    ],
+    "favicon": "https://miniapp.voltperps.com/icon.png"
+  },
+  "x-account:0xsonarbot": {
+    "name": "@0xsonarbot on X",
+    "tagline": "X/Twitter account @0xsonarbot",
+    "summary": "Posts from @0xsonarbot on X (Twitter) promoted through the QR auction. Single promotion for $375.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 375,
+    "firstWin": "2026-02-16",
+    "lastWin": "2026-02-16",
+    "auctionIds": [
+      347
+    ],
+    "favicon": "https://unavatar.io/twitter/0xsonarbot"
+  },
+  "fc-miniapp:framedl": {
+    "name": "Framedl",
+    "tagline": "Wordle-style word game",
+    "summary": "A Wordle-inspired word puzzle game built as a Farcaster mini app.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 250,
+    "firstWin": "2026-02-15",
+    "lastWin": "2026-02-15",
+    "auctionIds": [
+      346
+    ],
+    "favicon": "https://framedl.com/icon-v2.png"
+  },
+  "dex:0x0a30f9b286": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Won auction for $291.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 291,
+    "firstWin": "2026-02-14",
+    "lastWin": "2026-02-14",
+    "auctionIds": [
+      345
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "fc-miniapp:teller": {
+    "name": "Teller",
+    "tagline": "Fortune telling on Farcaster",
+    "summary": "A fortune-telling mini app that provides fun predictions and readings to Farcaster users. Won 2 QR auctions ($761 total).",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 761,
+    "firstWin": "2026-02-13",
+    "lastWin": "2026-01-27",
+    "auctionIds": [
+      344,
+      327
+    ],
+    "favicon": "https://app.teller.org/assets/app-icon.png"
+  },
+  "merkle.bot": {
+    "name": "Merkle 🌿 - Digital Familiar",
+    "tagline": "Digital identity verification",
+    "summary": "Merkle — a digital identity and verification platform using merkle tree technology.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 508,
+    "firstWin": "2026-02-12",
+    "lastWin": "2026-02-12",
+    "auctionIds": [
+      343
+    ],
+    "favicon": "https://merkle.bot/apple-touch-icon.png"
+  },
+  "fc-miniapp:gm-farcaster": {
+    "name": "GM Farcaster",
+    "tagline": "Daily GM (good morning) ritual",
+    "summary": "A mini app for the daily GM greeting ritual on Farcaster, building community through daily check-ins. Won 2 QR auctions ($623 total).",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 623,
+    "firstWin": "2026-02-11",
+    "lastWin": "2026-02-01",
+    "auctionIds": [
+      342,
+      332
+    ],
+    "favicon": "https://miniapp.gmfarcaster.com/images/gmfc_logo_1024_1024.png"
+  },
+  "x-account:tellrbot": {
+    "name": "@tellrbot on X",
+    "tagline": "X/Twitter account @tellrbot",
+    "summary": "Posts from @tellrbot on X (Twitter) promoted through the QR auction. Single promotion for $420.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 420,
+    "firstWin": "2026-02-10",
+    "lastWin": "2026-02-10",
+    "auctionIds": [
+      341
+    ],
+    "favicon": "https://unavatar.io/twitter/tellrbot"
+  },
+  "dex:0x0f4a85526e": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Appeared 2 times with $522 total in auction bids.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 522,
+    "firstWin": "2026-02-09",
+    "lastWin": "2025-09-26",
+    "auctionIds": [
+      340,
+      204
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "superbowlsquares.app": {
+    "name": "Football - Ultimate Football Squares and Pick&#x27;em Experience",
+    "tagline": "Onchain football squares",
+    "summary": "An onchain football squares game for community betting on NFL games.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 365,
+    "firstWin": "2026-02-08",
+    "lastWin": "2026-02-08",
+    "auctionIds": [
+      339
+    ],
+    "favicon": "https://superbowlsquares.app/favicon.ico?favicon.e1f93d55.ico"
+  },
+  "x-account:wwxpost": {
+    "name": "@wwxpost on X",
+    "tagline": "X/Twitter account @wwxpost",
+    "summary": "Posts from @wwxpost on X (Twitter) promoted through the QR auction. Single promotion for $342.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 342,
+    "firstWin": "2026-02-07",
+    "lastWin": "2026-02-07",
+    "auctionIds": [
+      338
+    ],
+    "favicon": "https://unavatar.io/twitter/wwxpost"
+  },
+  "clawmegle.xyz": {
+    "name": "Clawmegle - Talk to strangers!",
+    "tagline": "Anonymous chat roulette",
+    "summary": "Clawmegle — a talk-to-strangers style anonymous chat platform for the Farcaster community.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 421,
+    "firstWin": "2026-02-05",
+    "lastWin": "2026-02-05",
+    "auctionIds": [
+      336
+    ],
+    "favicon": "https://clawmegle.xyz/logo.png?v=4"
+  },
+  "walletchanbankrwallet.app": {
+    "name": "walletchanbankrwallet.app",
+    "tagline": "walletchanbankrwallet.app",
+    "summary": "walletchanbankrwallet.app promoted through the QR auction. Won auction for $410.",
+    "category": "Tool/Utility",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 410,
+    "firstWin": "2026-02-04",
+    "lastWin": "2026-02-04",
+    "auctionIds": [
+      335
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=walletchanbankrwallet.app&sz=64"
+  },
+  "clawdvineclawdvine.sh": {
+    "name": "clawdvineclawdvine.sh",
+    "tagline": "clawdvineclawdvine.sh",
+    "summary": "clawdvineclawdvine.sh promoted through the QR auction. Won auction for $536.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 536,
+    "firstWin": "2026-02-03",
+    "lastWin": "2026-02-03",
+    "auctionIds": [
+      334
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=clawdvineclawdvine.sh&sz=64"
+  },
+  "fc-miniapp:neynartodes": {
+    "name": "NEYNARtodes",
+    "tagline": "Neynar-powered social tool",
+    "summary": "A social tool built on the Neynar API for enhanced Farcaster interactions. Won 3 QR auctions ($1187 total).",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 3,
+    "totalSpentUSD": 1187,
+    "firstWin": "2026-02-02",
+    "lastWin": "2025-12-09",
+    "auctionIds": [
+      333,
+      299,
+      278
+    ],
+    "favicon": "https://frame-opal-eight.vercel.app/neynartode-sticker.png"
+  },
+  "clawcaster.com": {
+    "name": "Clawcaster - Where agents go social",
+    "tagline": "Farcaster client",
+    "summary": "Clawcaster — an alternative Farcaster client focused on discovery and engagement.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 600,
+    "firstWin": "2026-01-31",
+    "lastWin": "2026-01-31",
+    "auctionIds": [
+      331
+    ],
+    "favicon": "https://clawcaster.com/logo.png"
+  },
+  "Regent Platformregent.cx+4 others": {
+    "name": "Regent Platformregent.cx+4 others",
+    "tagline": "Web project",
+    "summary": "Regent Platformregent.cx+4 others promoted through the QR auction. Won auction for $829.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 829,
+    "firstWin": "2026-01-29",
+    "lastWin": "2026-01-29",
+    "auctionIds": [
+      329
+    ],
+    "favicon": ""
+  },
+  "dex:0xd7e82c1026": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Appeared 2 times with $2822 total in auction bids.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 2822,
+    "firstWin": "2026-01-28",
+    "lastWin": "2025-09-15",
+    "auctionIds": [
+      328,
+      193
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "x-account:theneetguy": {
+    "name": "@theneetguy on X",
+    "tagline": "X/Twitter account @theneetguy",
+    "summary": "Posts from @theneetguy on X (Twitter) promoted through the QR auction. Single promotion for $336.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 336,
+    "firstWin": "2026-01-26",
+    "lastWin": "2026-01-26",
+    "auctionIds": [
+      326
+    ],
+    "favicon": "https://unavatar.io/twitter/theneetguy"
+  },
+  "occupynodefoundation.com": {
+    "name": "occupynodefoundation.com",
+    "tagline": "occupynodefoundation.com",
+    "summary": "occupynodefoundation.com promoted through the QR auction. Won auction for $327.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 327,
+    "firstWin": "2026-01-25",
+    "lastWin": "2026-01-25",
+    "auctionIds": [
+      325
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=occupynodefoundation.com&sz=64"
+  },
+  "fc-cast:lotry": {
+    "name": "@lotry's cast",
+    "tagline": "Farcaster post by @lotry",
+    "summary": "A Farcaster cast by @lotry that was promoted via the QR auction. Promoted 2 times with $811 total spent.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 811,
+    "firstWin": "2026-01-24",
+    "lastWin": "2026-01-22",
+    "auctionIds": [
+      324,
+      322
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7c0598e6-9d7f-4b10-4723-a19b887ac900/original"
+  },
+  "fc-miniapp:lotryfun": {
+    "name": "Lotry.fun",
+    "tagline": "Lottery game platform",
+    "summary": "Lotry.fun — a decentralized lottery game on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 333,
+    "firstWin": "2026-01-23",
+    "lastWin": "2026-01-23",
+    "auctionIds": [
+      323
+    ],
+    "favicon": "https://farcaster.xyz/og-logo-v3.png"
+  },
+  "fc-miniapp:likesfun": {
+    "name": "likes.fun",
+    "tagline": "Social likes game",
+    "summary": "A mini app that gamifies social engagement through likes on Farcaster. Won 3 QR auctions ($1072 total).",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 3,
+    "totalSpentUSD": 1072,
+    "firstWin": "2026-01-21",
+    "lastWin": "2026-01-11",
+    "auctionIds": [
+      321,
+      319,
+      311
+    ],
+    "favicon": "https://likes.fun/new_logo.png"
+  },
+  "fc-channel:moonshot-on-base": {
+    "name": "$MoonShot Channel on Farcaster",
+    "tagline": "Farcaster channel: moonshot-on-base",
+    "summary": "A Farcaster channel (moonshot-on-base) promoted through the QR auction. Won for $360.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 360,
+    "firstWin": "2026-01-20",
+    "lastWin": "2026-01-20",
+    "auctionIds": [
+      320
+    ],
+    "favicon": "https://farcaster.xyz/og-logo-v3.png"
+  },
+  "walletlink.so": {
+    "name": "walletlink.so",
+    "tagline": "walletlink.so",
+    "summary": "walletlink.so promoted through the QR auction. Won auction for $340.",
+    "category": "Tool/Utility",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 340,
+    "firstWin": "2026-01-18",
+    "lastWin": "2026-01-18",
+    "auctionIds": [
+      318
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=walletlink.so&sz=64"
+  },
+  "toadgod.xyz": {
+    "name": "$toby - cute frog of base | $toby - the frog of base",
+    "tagline": "toadgod.xyz",
+    "summary": "$toby - cute frog of base | $toby - the frog of base promoted through the QR auction. Won auction for $807.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 807,
+    "firstWin": "2026-01-17",
+    "lastWin": "2026-01-17",
+    "auctionIds": [
+      317
+    ],
+    "favicon": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=180,h=180,fit=crop,f=png/Yg25V2x6JviO83we/satoby-AoPe185Xa9sJ85Q9.jpeg"
+  },
+  "glazecorpglazecorp.io": {
+    "name": "glazecorpglazecorp.io",
+    "tagline": "glazecorpglazecorp.io",
+    "summary": "glazecorpglazecorp.io promoted through the QR auction. Won auction for $458.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 458,
+    "firstWin": "2026-01-15",
+    "lastWin": "2026-01-15",
+    "auctionIds": [
+      315
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=glazecorpglazecorp.io&sz=64"
+  },
+  "dex:0xf44ab962d7": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Won auction for $478.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 478,
+    "firstWin": "2026-01-14",
+    "lastWin": "2026-01-14",
+    "auctionIds": [
+      314
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "fc-cast:skippywalks": {
+    "name": "@skippywalks's cast",
+    "tagline": "Farcaster post by @skippywalks",
+    "summary": "A Farcaster cast by @skippywalks that was promoted via the QR auction. Won auction for $622.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 622,
+    "firstWin": "2026-01-13",
+    "lastWin": "2026-01-13",
+    "auctionIds": [
+      313
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0bf096ad-763e-4742-0749-f3333fd67900/original"
+  },
+  "fc-miniapp:senpi--mirror-trading": {
+    "name": "Senpi — Mirror Trading",
+    "tagline": "Mirror trading social tool",
+    "summary": "Senpi enables mirror trading on Farcaster, letting users follow and copy trading strategies. Won 2 QR auctions ($715 total).",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 715,
+    "firstWin": "2026-01-12",
+    "lastWin": "2026-01-05",
+    "auctionIds": [
+      312,
+      305
+    ],
+    "favicon": "https://miniapp.senpi.ai/senpi-icon.png"
+  },
+  "fc-miniapp:pubhouse": {
+    "name": "Pubhouse",
+    "tagline": "Social pub experience",
+    "summary": "A virtual pub mini app where Farcaster users can hang out and interact socially.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 522,
+    "firstWin": "2026-01-10",
+    "lastWin": "2026-01-10",
+    "auctionIds": [
+      310
+    ],
+    "favicon": "https://pubhouse.xyz/fc_icon.png"
+  },
+  "fc-miniapp:chat": {
+    "name": "chat",
+    "tagline": "Real-time chat mini app",
+    "summary": "A real-time messaging mini app for direct communication within Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 500,
+    "firstWin": "2026-01-09",
+    "lastWin": "2026-01-09",
+    "auctionIds": [
+      309
+    ],
+    "favicon": "https://chatbytaylor.vercel.app/icon.png"
+  },
+  "fc-miniapp:onchat": {
+    "name": "OnChat",
+    "tagline": "Onchain chat platform",
+    "summary": "An onchain messaging mini app for decentralized communication on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 454,
+    "firstWin": "2026-01-08",
+    "lastWin": "2026-01-08",
+    "auctionIds": [
+      308
+    ],
+    "favicon": "https://onchat.sebayaki.com/app-icon-black-bg.png"
+  },
+  "x-account:veildotcash": {
+    "name": "@Veildotcash's tweet",
+    "tagline": "X/Twitter account @veildotcash",
+    "summary": "Posts from @veildotcash on X (Twitter) promoted through the QR auction. Single promotion for $500.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 500,
+    "firstWin": "2026-01-07",
+    "lastWin": "2026-01-07",
+    "auctionIds": [
+      307
+    ],
+    "favicon": "https://unavatar.io/twitter/Veildotcash"
+  },
+  "fc-miniapp:znon": {
+    "name": "$znon",
+    "tagline": "$ZNON token mini app",
+    "summary": "A mini app for the $ZNON token on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 334,
+    "firstWin": "2026-01-06",
+    "lastWin": "2026-01-06",
+    "auctionIds": [
+      306
+    ],
+    "favicon": "https://znon.fun/znon-icon.png"
+  },
+  "fc-miniapp:sprinkles": {
+    "name": "farcaster",
+    "tagline": "Social rewards game",
+    "summary": "A mini app that distributes 'sprinkles' rewards to Farcaster users for engagement.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 373,
+    "firstWin": "2026-01-04",
+    "lastWin": "2026-01-04",
+    "auctionIds": [
+      304
+    ],
+    "favicon": "https://farcaster.xyz/favicon.ico"
+  },
+  "fc-miniapp:fcweed": {
+    "name": "FCWeed",
+    "tagline": "Virtual gardening game",
+    "summary": "A virtual weed-growing game on Farcaster with social elements. Won 3 QR auctions ($1236 total).",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 3,
+    "totalSpentUSD": 1236,
+    "firstWin": "2026-01-03",
+    "lastWin": "2025-12-27",
+    "auctionIds": [
+      303,
+      298,
+      296
+    ],
+    "favicon": "https://fcweed-minikitapp.vercel.app/icon.png"
+  },
+  "fc-miniapp:lets-have-a-word": {
+    "name": "Let’s Have A Word!",
+    "tagline": "Word game challenge",
+    "summary": "Let's Have A Word — a collaborative word game on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 525,
+    "firstWin": "2026-01-02",
+    "lastWin": "2026-01-02",
+    "auctionIds": [
+      302
+    ],
+    "favicon": "https://letshaveaword.fun/LHAW-icon.png"
+  },
+  "zora-coin:0xf1fc9580": {
+    "name": "horse",
+    "tagline": "Digital art/collectible on Zora",
+    "summary": "horse minted on Zora, a platform for creating and collecting onchain media. Promoted for $555.",
+    "category": "NFT/Art",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 555,
+    "firstWin": "2026-01-01",
+    "lastWin": "2026-01-01",
+    "auctionIds": [
+      301
+    ],
+    "favicon": "https://zora.co/assets/favicon/apple-touch-icon.png"
+  },
+  "fc-user:theneetguy.eth": {
+    "name": "@theneetguy.eth on Farcaster",
+    "tagline": "Farcaster profile: theneetguy.eth",
+    "summary": "A Farcaster profile (theneetguy.eth) promoted through the QR auction. Won for $400.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 400,
+    "firstWin": "2025-12-31",
+    "lastWin": "2025-12-31",
+    "auctionIds": [
+      300
+    ],
+    "favicon": ""
+  },
+  "fc-miniapp:the-world-own-the-message": {
+    "name": "The World: Own the Message",
+    "tagline": "Message ownership game",
+    "summary": "A game where users compete to own and display messages to the world.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 331,
+    "firstWin": "2025-12-28",
+    "lastWin": "2025-12-28",
+    "auctionIds": [
+      297
+    ],
+    "favicon": "https://www.worldworldworld.com/themap_icon_1024.jpeg"
+  },
+  "fc-miniapp:waffles": {
+    "name": "Waffles",
+    "tagline": "Social waffle-making game",
+    "summary": "A fun waffle-themed social game on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 440,
+    "firstWin": "2025-12-26",
+    "lastWin": "2025-12-26",
+    "auctionIds": [
+      295
+    ],
+    "favicon": "https://miniapp.playwaffles.fun/icon.png"
+  },
+  "fc-miniapp:the-apostles": {
+    "name": "The Apostles",
+    "tagline": "Community-driven social game",
+    "summary": "A social strategy game on Farcaster with community-driven gameplay.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 800,
+    "firstWin": "2025-12-25",
+    "lastWin": "2025-12-25",
+    "auctionIds": [
+      294
+    ],
+    "favicon": "https://theapostles-sepia.vercel.app/logo.png"
+  },
+  "fc-miniapp:eat-coin": {
+    "name": "EAT Coin",
+    "tagline": "EAT token mini app",
+    "summary": "A Farcaster mini app centered around the EAT coin and food-themed social interactions.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 402,
+    "firstWin": "2025-12-24",
+    "lastWin": "2025-12-24",
+    "auctionIds": [
+      293
+    ],
+    "favicon": "https://eat-farcaster.vercel.app/logo.png"
+  },
+  "fc-miniapp:adsterix": {
+    "name": "Adsterix",
+    "tagline": "Decentralized advertising",
+    "summary": "An advertising mini app that brings decentralized ad placement to Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 369,
+    "firstWin": "2025-12-23",
+    "lastWin": "2025-12-23",
+    "auctionIds": [
+      292
+    ],
+    "favicon": "https://adsterix.xyz/icon.png"
+  },
+  "fc-miniapp:die-hard-the-game": {
+    "name": "Die Hard: The Game",
+    "tagline": "Die Hard themed action game",
+    "summary": "An action game inspired by the Die Hard franchise, playable on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 458,
+    "firstWin": "2025-12-22",
+    "lastWin": "2025-12-22",
+    "auctionIds": [
+      291
+    ],
+    "favicon": "https://miniapp-generator-fid-4167-251214024905831.neynar.app/app-logo.png"
+  },
+  "fc-miniapp:songcast": {
+    "name": "SongCast",
+    "tagline": "Music discovery & sharing",
+    "summary": "A music-focused mini app for discovering and sharing songs within the Farcaster community.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 333,
+    "firstWin": "2025-12-21",
+    "lastWin": "2025-12-21",
+    "auctionIds": [
+      290
+    ],
+    "favicon": "https://songcast.vercel.app/icon.png"
+  },
+  "fc-miniapp:pizza-city": {
+    "name": "Pizza City",
+    "tagline": "Pizza empire builder",
+    "summary": "A city-building game centered around running pizza restaurants on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 405,
+    "firstWin": "2025-12-20",
+    "lastWin": "2025-12-20",
+    "auctionIds": [
+      289
+    ],
+    "favicon": "https://www.pizzacity.app/assets/pizza-city/logo/pizza-city-icon-512.png"
+  },
+  "fc-miniapp:franchiser": {
+    "name": "Franchiser",
+    "tagline": "Franchise delegation tool",
+    "summary": "A governance tool that lets token holders delegate voting power in a chain of trust.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 2518,
+    "firstWin": "2025-12-19",
+    "lastWin": "2025-12-19",
+    "auctionIds": [
+      288
+    ],
+    "favicon": "https://glazecorp-franchise.vercel.app/media/icon.png"
+  },
+  "fc-cast:thebestpizza.eth": {
+    "name": "@thebestpizza.eth's cast",
+    "tagline": "Farcaster post by @thebestpizza.eth",
+    "summary": "A Farcaster cast by @thebestpizza.eth that was promoted via the QR auction. Won auction for $409.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 409,
+    "firstWin": "2025-12-18",
+    "lastWin": "2025-12-18",
+    "auctionIds": [
+      287
+    ],
+    "favicon": ""
+  },
+  "fc-miniapp:x-quo": {
+    "name": "unflat",
+    "tagline": "Social quoting tool",
+    "summary": "Unflat — a social quoting and content curation mini app on Farcaster. Won 3 QR auctions ($1215 total).",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 3,
+    "totalSpentUSD": 1215,
+    "firstWin": "2025-12-17",
+    "lastWin": "2025-11-28",
+    "auctionIds": [
+      286,
+      271,
+      267
+    ],
+    "favicon": "https://x-quo.app/icon.png"
+  },
+  "fc-miniapp:tysm": {
+    "name": "TYSM",
+    "tagline": "Gratitude and tipping tool",
+    "summary": "TYSM (Thank You So Much) — a tipping and gratitude mini app for Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 734,
+    "firstWin": "2025-12-16",
+    "lastWin": "2025-12-16",
+    "auctionIds": [
+      285
+    ],
+    "favicon": "https://tysm1.vercel.app/icon.png"
+  },
+  "bankr.bot": {
+    "name": "Bankr - Your Friendly AI-Powered Crypto Banker",
+    "tagline": "bankr.bot",
+    "summary": "Bankr - Your Friendly AI-Powered Crypto Banker promoted through the QR auction. Won auction for $876.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 876,
+    "firstWin": "2025-12-15",
+    "lastWin": "2025-12-15",
+    "auctionIds": [
+      284
+    ],
+    "favicon": "https://bankr.bot/pwa-icon-192.png"
+  },
+  "fc-miniapp:howlers": {
+    "name": "Howlers",
+    "tagline": "Social howling game",
+    "summary": "A fun social game on Farcaster where users howl and engage with the community. Won 2 QR auctions ($785 total).",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 785,
+    "firstWin": "2025-12-14",
+    "lastWin": "2025-12-13",
+    "auctionIds": [
+      283,
+      282
+    ],
+    "favicon": "https://howlers.vercel.app/icon_how2.png"
+  },
+  "fc-miniapp:eggs": {
+    "name": "$EGGS",
+    "tagline": "Viral $EGGS token mini app",
+    "summary": "A Farcaster mini app for the $EGGS token, enabling social interaction around the memecoin.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 3573,
+    "firstWin": "2025-12-12",
+    "lastWin": "2025-12-12",
+    "auctionIds": [
+      281
+    ],
+    "favicon": "https://eggs.name/frames/logo.png"
+  },
+  "dex:0x2a0f410422": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Appeared 3 times with $2077 total in auction bids.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 3,
+    "totalSpentUSD": 2077,
+    "firstWin": "2025-12-11",
+    "lastWin": "2025-12-01",
+    "auctionIds": [
+      280,
+      274,
+      270
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "fc-miniapp:other-eth": {
+    "name": "Other ETH",
+    "tagline": "Alternative ETH experiences",
+    "summary": "A mini app exploring alternative Ethereum experiences on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 676,
+    "firstWin": "2025-12-10",
+    "lastWin": "2025-12-10",
+    "auctionIds": [
+      279
+    ],
+    "favicon": "https://oeth.app/icon.png"
+  },
+  "fc-miniapp:qr": {
+    "name": "$QR",
+    "tagline": "$QR token mini app",
+    "summary": "The official $QR token mini app for the QR auction community on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 362,
+    "firstWin": "2025-12-08",
+    "lastWin": "2025-12-08",
+    "auctionIds": [
+      277
+    ],
+    "favicon": "https://qrcoin.fun/qrLogo.png"
+  },
+  "fc-cast:scanqrbase.eth": {
+    "name": "@scanqrbase.eth's cast",
+    "tagline": "Farcaster post by @scanqrbase.eth",
+    "summary": "A Farcaster cast by @scanqrbase.eth that was promoted via the QR auction. Won auction for $1111.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1111,
+    "firstWin": "2025-12-07",
+    "lastWin": "2025-12-07",
+    "auctionIds": [
+      276
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f006efd2-c50a-4743-601e-5f2f897ec200/original"
+  },
+  "fc-miniapp:peeples-donuts": {
+    "name": "Peeples Donuts",
+    "tagline": "Virtual donut shop",
+    "summary": "A virtual donut shop mini app where Farcaster users can buy and share donuts.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 660,
+    "firstWin": "2025-12-06",
+    "lastWin": "2025-12-06",
+    "auctionIds": [
+      275
+    ],
+    "favicon": "https://peeplesdonuts.com/media/peeples_donuts.png"
+  },
+  "fc-cast:starl3xx.eth": {
+    "name": "@starl3xx.eth's cast",
+    "tagline": "Farcaster post by @starl3xx.eth",
+    "summary": "A Farcaster cast by @starl3xx.eth that was promoted via the QR auction. Promoted 2 times with $12586 total spent.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 12586,
+    "firstWin": "2025-12-04",
+    "lastWin": "2025-11-06",
+    "auctionIds": [
+      273,
+      245
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/93c6223a-2df9-4411-7750-c9fb21cfa400/original"
+  },
+  "fc-miniapp:qrbase": {
+    "name": "QRbase",
+    "tagline": "QR Base scanner tool",
+    "summary": "A QR code scanning and tracking tool built for the Base ecosystem on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 555,
+    "firstWin": "2025-12-03",
+    "lastWin": "2025-12-03",
+    "auctionIds": [
+      272
+    ],
+    "favicon": "https://www.qrbase.xyz/icon.png"
+  },
+  "netnetprotocol.app": {
+    "name": "netnetprotocol.app",
+    "tagline": "netnetprotocol.app",
+    "summary": "netnetprotocol.app promoted through the QR auction. Won auction for $305.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 305,
+    "firstWin": "2025-11-30",
+    "lastWin": "2025-11-30",
+    "auctionIds": [
+      269
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=netnetprotocol.app&sz=64"
+  },
+  "fc-miniapp:farpixel-cats-minter-online": {
+    "name": "Farpixel Cats Minter Online",
+    "tagline": "Pixel cat NFT minter",
+    "summary": "Farpixel Cats — a pixel art cat NFT minting tool on Farcaster. Won 2 QR auctions ($631 total).",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 631,
+    "firstWin": "2025-11-29",
+    "lastWin": "2025-11-23",
+    "auctionIds": [
+      268,
+      262
+    ],
+    "favicon": "https://farcaster.xyz/og-logo-v3.png"
+  },
+  "geckoterminal.com": {
+    "name": "geckoterminal",
+    "tagline": "geckoterminal.com",
+    "summary": "geckoterminal promoted through the QR auction. Won auction for $370.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 370,
+    "firstWin": "2025-11-27",
+    "lastWin": "2025-11-27",
+    "auctionIds": [
+      266
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=geckoterminal.com&sz=64"
+  },
+  "gbm.auction": {
+    "name": "GBM Auction",
+    "tagline": "GBM incentivized auction protocol",
+    "summary": "GBM Auction (IDA) — an incentivized auction system where every bid is rewarded, even losing ones. Won 3 QR auctions ($2489 total).",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 3,
+    "totalSpentUSD": 2489,
+    "firstWin": "2025-11-26",
+    "lastWin": "2025-11-24",
+    "auctionIds": [
+      265,
+      264,
+      263
+    ],
+    "favicon": "https://cdn.prod.website-files.com/6888c641f356197dbab74cdb/6895c792e19029415ca14e52_web2-webclip.jpg"
+  },
+  "highermarket.xyz": {
+    "name": "Higher Market",
+    "tagline": "highermarket.xyz",
+    "summary": "Higher Market promoted through the QR auction. Won auction for $402.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 402,
+    "firstWin": "2025-11-22",
+    "lastWin": "2025-11-22",
+    "auctionIds": [
+      261
+    ],
+    "favicon": "https://highermarket.xyz/assets/favicon.ico"
+  },
+  "beeperbeep.works": {
+    "name": "beeperbeep.works",
+    "tagline": "beeperbeep.works",
+    "summary": "beeperbeep.works promoted through the QR auction. Won auction for $410.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 410,
+    "firstWin": "2025-11-21",
+    "lastWin": "2025-11-21",
+    "auctionIds": [
+      260
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=beeperbeep.works&sz=64"
+  },
+  "fc-miniapp:hypesino": {
+    "name": "Hypesino",
+    "tagline": "Social casino game on Farcaster",
+    "summary": "A casino-style gaming mini app on Farcaster where users can play social betting games. Won 6 QR auctions ($2184 total).",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 6,
+    "totalSpentUSD": 2184,
+    "firstWin": "2025-11-20",
+    "lastWin": "2025-10-21",
+    "auctionIds": [
+      259,
+      249,
+      248,
+      232,
+      231,
+      229
+    ],
+    "favicon": "https://vrf-frontend-alpha.vercel.app/hypesino_logo.png"
+  },
+  "fc-cast:vocast": {
+    "name": "@vocast's cast",
+    "tagline": "Farcaster post by @vocast",
+    "summary": "A Farcaster cast by @vocast that was promoted via the QR auction. Promoted 2 times with $611 total spent.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 611,
+    "firstWin": "2025-11-19",
+    "lastWin": "2025-11-14",
+    "auctionIds": [
+      258,
+      253
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dbc48ff7-c677-4242-3436-48b5b2bdc300/original"
+  },
+  "fc-miniapp:newclankwhodis": {
+    "name": "404: NOT_FOUND",
+    "tagline": "New Clank discovery tool",
+    "summary": "A Farcaster mini app for discovering new Clanker-launched tokens.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 330,
+    "firstWin": "2025-11-18",
+    "lastWin": "2025-11-18",
+    "auctionIds": [
+      257
+    ],
+    "favicon": "https://farcaster.xyz/og-logo-v3.png"
+  },
+  "fc-miniapp:minted-merch": {
+    "name": "Minted Merch",
+    "tagline": "Onchain merchandise store",
+    "summary": "Minted Merch — a platform for creating and buying onchain-verified merchandise. Won 2 QR auctions ($1123 total).",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 1123,
+    "firstWin": "2025-11-17",
+    "lastWin": "2025-10-02",
+    "auctionIds": [
+      256,
+      210
+    ],
+    "favicon": "https://app.mintedmerch.shop/logo.png"
+  },
+  "zora.co": {
+    "name": "Zora",
+    "tagline": "zora.co",
+    "summary": "Zora promoted through the QR auction. Appeared 5 times with $2635 total in bids.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 5,
+    "totalSpentUSD": 2635,
+    "firstWin": "2025-11-16",
+    "lastWin": "2025-05-12",
+    "auctionIds": [
+      255,
+      158,
+      157,
+      147,
+      67
+    ],
+    "favicon": "https://zora.co/assets/favicon/apple-touch-icon.png"
+  },
+  "scanqrbase.xyz": {
+    "name": "QRBase -$",
+    "tagline": "$QR ecosystem scanner",
+    "summary": "QRBase — a scanning and analytics tool for the QR coin ecosystem on Base. Won 4 QR auctions ($2577 total).",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 4,
+    "totalSpentUSD": 2577,
+    "firstWin": "2025-11-15",
+    "lastWin": "2025-03-11",
+    "auctionIds": [
+      254,
+      162,
+      160,
+      5
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=scanqrbase.xyz&sz=64"
+  },
+  "fc-cast:sahil": {
+    "name": "@sahil's cast",
+    "tagline": "Farcaster post by @sahil",
+    "summary": "A Farcaster cast by @sahil that was promoted via the QR auction. Won auction for $386.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 386,
+    "firstWin": "2025-11-13",
+    "lastWin": "2025-11-13",
+    "auctionIds": [
+      252
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1d7b15c6-2848-483f-1f74-9efef0ebeb00/original"
+  },
+  "fc-cast:regent": {
+    "name": "@regent's cast",
+    "tagline": "Farcaster post by @regent",
+    "summary": "A Farcaster cast by @regent that was promoted via the QR auction. Won auction for $450.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 450,
+    "firstWin": "2025-11-12",
+    "lastWin": "2025-11-12",
+    "auctionIds": [
+      251
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1d7e5a9a-9be9-47ee-0525-7413f12dab00/original"
+  },
+  "fc-miniapp:glazecorp": {
+    "name": "GlazeCorp",
+    "tagline": "GlazeCorp community game",
+    "summary": "GlazeCorp — a community-driven game and social platform on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 650,
+    "firstWin": "2025-11-11",
+    "lastWin": "2025-11-11",
+    "auctionIds": [
+      250
+    ],
+    "favicon": "https://glazecorp.vercel.app/media/icon.png"
+  },
+  "pickemgame.app": {
+    "name": "PICKEM - NFL Pick&#x27;em Game",
+    "tagline": "pickemgame.app",
+    "summary": "PICKEM - NFL Pick&#x27;em Game promoted through the QR auction. Won auction for $300.",
+    "category": "Game",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 300,
+    "firstWin": "2025-11-08",
+    "lastWin": "2025-11-08",
+    "auctionIds": [
+      247
+    ],
+    "favicon": "https://pickemgame.app/favicon.ico"
+  },
+  "fc-miniapp:rep": {
+    "name": "REP",
+    "tagline": "Reputation scoring system",
+    "summary": "REP — a reputation scoring mini app that tracks and rewards engagement on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 411,
+    "firstWin": "2025-11-07",
+    "lastWin": "2025-11-07",
+    "auctionIds": [
+      246
+    ],
+    "favicon": "https://app.r3p.xyz/img/icon.png"
+  },
+  "x-account:neet_sol": {
+    "name": "@neet_sol's tweet",
+    "tagline": "X/Twitter account @neet_sol",
+    "summary": "Posts from @neet_sol on X (Twitter) promoted through the QR auction. 2 promotions totaling $744.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 744,
+    "firstWin": "2025-11-05",
+    "lastWin": "2025-08-03",
+    "auctionIds": [
+      244,
+      150
+    ],
+    "favicon": "https://unavatar.io/twitter/neet_sol"
+  },
+  "x-account:wydeorg": {
+    "name": "@wydeorg's tweet",
+    "tagline": "X/Twitter account @wydeorg",
+    "summary": "Posts from @wydeorg on X (Twitter) promoted through the QR auction. Single promotion for $403.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 403,
+    "firstWin": "2025-11-04",
+    "lastWin": "2025-11-04",
+    "auctionIds": [
+      243
+    ],
+    "favicon": "https://pbs.twimg.com/profile_images/1980490088917168128/83dvXq4d_400x400.jpg"
+  },
+  "fc-miniapp:creeper": {
+    "name": "farcaster",
+    "tagline": "Social exploration game",
+    "summary": "Creeper — a social exploration game on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 900,
+    "firstWin": "2025-11-03",
+    "lastWin": "2025-11-03",
+    "auctionIds": [
+      242
+    ],
+    "favicon": "https://farcaster.xyz/favicon.ico"
+  },
+  "a0a0.design": {
+    "name": "a0a0.design",
+    "tagline": "a0a0.design",
+    "summary": "a0a0.design promoted through the QR auction. Won auction for $331.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 331,
+    "firstWin": "2025-11-02",
+    "lastWin": "2025-11-02",
+    "auctionIds": [
+      241
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=a0a0.design&sz=64"
+  },
+  "x-account:pubhousexyz": {
+    "name": "@PubhouseXYZ's tweet",
+    "tagline": "X/Twitter account @pubhousexyz",
+    "summary": "Posts from @pubhousexyz on X (Twitter) promoted through the QR auction. Single promotion for $470.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 470,
+    "firstWin": "2025-11-01",
+    "lastWin": "2025-11-01",
+    "auctionIds": [
+      240
+    ],
+    "favicon": "https://unavatar.io/twitter/PubhouseXYZ"
+  },
+  "fc-miniapp:megaphone": {
+    "name": "Megaphone",
+    "tagline": "Message amplification tool",
+    "summary": "Megaphone — a mini app for amplifying important messages across Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 251,
+    "firstWin": "2025-10-31",
+    "lastWin": "2025-10-31",
+    "auctionIds": [
+      239
+    ],
+    "favicon": "https://0xmegaphone.com/favicon-1024.jpg"
+  },
+  "x-account:whatthefirkin": {
+    "name": "@whatthefirkin's tweet",
+    "tagline": "X/Twitter account @whatthefirkin",
+    "summary": "Posts from @whatthefirkin on X (Twitter) promoted through the QR auction. Single promotion for $606.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 606,
+    "firstWin": "2025-10-30",
+    "lastWin": "2025-10-30",
+    "auctionIds": [
+      238
+    ],
+    "favicon": "https://unavatar.io/twitter/whatthefirkin"
+  },
+  "fc-cast:collectr": {
+    "name": "@collectr's cast",
+    "tagline": "Farcaster post by @collectr",
+    "summary": "A Farcaster cast by @collectr that was promoted via the QR auction. Promoted 2 times with $1742 total spent.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 1742,
+    "firstWin": "2025-10-29",
+    "lastWin": "2025-10-01",
+    "auctionIds": [
+      237,
+      209
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8dcf8608-9b42-496b-f9b9-e7acc30ef300/original"
+  },
+  "x-account:faircaster": {
+    "name": "@faircaster on X",
+    "tagline": "X/Twitter account @faircaster",
+    "summary": "Posts from @faircaster on X (Twitter) promoted through the QR auction. Single promotion for $616.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 616,
+    "firstWin": "2025-10-28",
+    "lastWin": "2025-10-28",
+    "auctionIds": [
+      236
+    ],
+    "favicon": "https://unavatar.io/twitter/faircaster"
+  },
+  "dex:0x53932cbd6c": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Won auction for $2519.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 2519,
+    "firstWin": "2025-10-27",
+    "lastWin": "2025-10-27",
+    "auctionIds": [
+      235
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "x-account:noiceagent": {
+    "name": "@noiceagent on X",
+    "tagline": "X/Twitter account @noiceagent",
+    "summary": "Posts from @noiceagent on X (Twitter) promoted through the QR auction. 2 promotions totaling $1488.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 1488,
+    "firstWin": "2025-10-26",
+    "lastWin": "2025-10-25",
+    "auctionIds": [
+      234,
+      233
+    ],
+    "favicon": "https://unavatar.io/twitter/noiceagent"
+  },
+  "x-account:skycastletokens": {
+    "name": "@skycastletokens on X",
+    "tagline": "X/Twitter account @skycastletokens",
+    "summary": "Posts from @skycastletokens on X (Twitter) promoted through the QR auction. Single promotion for $275.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 275,
+    "firstWin": "2025-10-22",
+    "lastWin": "2025-10-22",
+    "auctionIds": [
+      230
+    ],
+    "favicon": "https://unavatar.io/twitter/skycastletokens"
+  },
+  "fc-user:iamtheoneapp.eth": {
+    "name": "@iamtheoneapp.eth on Farcaster",
+    "tagline": "Farcaster profile: iamtheoneapp.eth",
+    "summary": "A Farcaster profile (iamtheoneapp.eth) promoted through the QR auction. Won for $450.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 450,
+    "firstWin": "2025-10-20",
+    "lastWin": "2025-10-20",
+    "auctionIds": [
+      228
+    ],
+    "favicon": ""
+  },
+  "fc-miniapp:signet": {
+    "name": "Signet",
+    "tagline": "Digital signature tool",
+    "summary": "Signet — a digital signing and verification tool on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 270,
+    "firstWin": "2025-10-19",
+    "lastWin": "2025-10-19",
+    "auctionIds": [
+      227
+    ],
+    "favicon": "https://signet.sebayaki.com/signet.png"
+  },
+  "fc-miniapp:emerge": {
+    "name": "Emerge",
+    "tagline": "Project launch platform",
+    "summary": "Emerge — a platform for launching and discovering new projects on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 241,
+    "firstWin": "2025-10-18",
+    "lastWin": "2025-10-18",
+    "auctionIds": [
+      226
+    ],
+    "favicon": "https://emerge-mini-app.vercel.app/logo.webp"
+  },
+  "x-account:clearlyrepute": {
+    "name": "@clearlyrepute's tweet",
+    "tagline": "X/Twitter account @clearlyrepute",
+    "summary": "Posts from @clearlyrepute on X (Twitter) promoted through the QR auction. Single promotion for $250.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 250,
+    "firstWin": "2025-10-17",
+    "lastWin": "2025-10-17",
+    "auctionIds": [
+      225
+    ],
+    "favicon": "https://pbs.twimg.com/profile_images/1976315117185945600/a1T9aHGt_400x400.jpg"
+  },
+  "fc-cast:lior": {
+    "name": "@lior's cast",
+    "tagline": "Farcaster post by @lior",
+    "summary": "A Farcaster cast by @lior that was promoted via the QR auction. Won auction for $330.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 330,
+    "firstWin": "2025-10-16",
+    "lastWin": "2025-10-16",
+    "auctionIds": [
+      224
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f2641cdd-906e-4cdd-ca3e-845ae2dfc900/original"
+  },
+  "codyf.co": {
+    "name": "codyf.co",
+    "tagline": "codyf.co",
+    "summary": "codyf.co promoted through the QR auction. Appeared 2 times with $544 total in bids.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 544,
+    "firstWin": "2025-10-15",
+    "lastWin": "2025-09-28",
+    "auctionIds": [
+      223,
+      206
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=codyf.co&sz=64"
+  },
+  "fc-miniapp:take0ver-tv": {
+    "name": "404: NOT_FOUND",
+    "tagline": "Community TV takeover",
+    "summary": "Take0ver TV — a community-driven live streaming mini app on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 251,
+    "firstWin": "2025-10-14",
+    "lastWin": "2025-10-14",
+    "auctionIds": [
+      222
+    ],
+    "favicon": "https://farcaster.xyz/og-logo-v3.png"
+  },
+  "apphash.horse": {
+    "name": "HashHorse - Mini",
+    "tagline": "apphash.horse",
+    "summary": "HashHorse - Mini promoted through the QR auction. Won auction for $300.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 300,
+    "firstWin": "2025-10-13",
+    "lastWin": "2025-10-13",
+    "auctionIds": [
+      221
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=apphash.horse&sz=64"
+  },
+  "x-account:songcastxyz": {
+    "name": "@songcastxyz on X",
+    "tagline": "X/Twitter account @songcastxyz",
+    "summary": "Posts from @songcastxyz on X (Twitter) promoted through the QR auction. Single promotion for $321.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 321,
+    "firstWin": "2025-10-12",
+    "lastWin": "2025-10-12",
+    "auctionIds": [
+      220
+    ],
+    "favicon": "https://unavatar.io/twitter/songcastxyz"
+  },
+  "fc-miniapp:pickem": {
+    "name": "PICKEM",
+    "tagline": "Sports prediction game",
+    "summary": "PICKEM — a sports pick'em prediction game on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 420,
+    "firstWin": "2025-10-11",
+    "lastWin": "2025-10-11",
+    "auctionIds": [
+      219
+    ],
+    "favicon": "https://pickemgame.app/icon.png"
+  },
+  "fc-miniapp:policast": {
+    "name": "POLICAST",
+    "tagline": "Political discussion tool",
+    "summary": "Policast — a mini app for structured political discussions on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 440,
+    "firstWin": "2025-10-10",
+    "lastWin": "2025-10-10",
+    "auctionIds": [
+      218
+    ],
+    "favicon": "https://buster-mkt.vercel.app/icon2.jpg"
+  },
+  "x-account:goattradingdex": {
+    "name": "@GoatTradingDex's tweet",
+    "tagline": "X/Twitter account @goattradingdex",
+    "summary": "Posts from @goattradingdex on X (Twitter) promoted through the QR auction. Single promotion for $450.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 450,
+    "firstWin": "2025-10-09",
+    "lastWin": "2025-10-09",
+    "auctionIds": [
+      217
+    ],
+    "favicon": "https://pbs.twimg.com/profile_images/1764821648484794368/bJG12bQT_400x400.jpg"
+  },
+  "fc-miniapp:hashhorse": {
+    "name": "HashHorse",
+    "tagline": "Horse racing prediction game",
+    "summary": "A hash-based horse racing game where users bet on outcomes on Farcaster. Won 3 QR auctions ($1411 total).",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 3,
+    "totalSpentUSD": 1411,
+    "firstWin": "2025-10-08",
+    "lastWin": "2025-08-22",
+    "auctionIds": [
+      216,
+      211,
+      169
+    ],
+    "favicon": "https://hash.horse/logo_icon.png"
+  },
+  "x-account:stormecoin": {
+    "name": "@STORMEcoin on X",
+    "tagline": "X/Twitter account @stormecoin",
+    "summary": "Posts from @stormecoin on X (Twitter) promoted through the QR auction. 2 promotions totaling $744.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 744,
+    "firstWin": "2025-10-07",
+    "lastWin": "2025-09-12",
+    "auctionIds": [
+      215,
+      190
+    ],
+    "favicon": "https://unavatar.io/twitter/STORMEcoin"
+  },
+  "x-account:zxbt_labs": {
+    "name": "@zxbt_labs's tweet",
+    "tagline": "X/Twitter account @zxbt_labs",
+    "summary": "Posts from @zxbt_labs on X (Twitter) promoted through the QR auction. Single promotion for $1380.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1380,
+    "firstWin": "2025-10-06",
+    "lastWin": "2025-10-06",
+    "auctionIds": [
+      214
+    ],
+    "favicon": "https://pbs.twimg.com/profile_images/1968750129495564288/zNIfaWMA_400x400.jpg"
+  },
+  "punkstrategy.fun": {
+    "name": "PunkStrategy™",
+    "tagline": "Strategy game",
+    "summary": "PunkStrategy — a strategic gameplay experience with punk aesthetics.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 288,
+    "firstWin": "2025-10-05",
+    "lastWin": "2025-10-05",
+    "auctionIds": [
+      213
+    ],
+    "favicon": "https://punkstrategy.fun/punks/punk3017.png"
+  },
+  "x-account:helloworld_base": {
+    "name": "@helloworld_base on X",
+    "tagline": "X/Twitter account @helloworld_base",
+    "summary": "Posts from @helloworld_base on X (Twitter) promoted through the QR auction. 2 promotions totaling $667.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 667,
+    "firstWin": "2025-10-04",
+    "lastWin": "2025-08-26",
+    "auctionIds": [
+      212,
+      173
+    ],
+    "favicon": "https://unavatar.io/twitter/helloworld_base"
+  },
+  "nodenodefoundation.com": {
+    "name": "nodenodefoundation.com",
+    "tagline": "nodenodefoundation.com",
+    "summary": "nodenodefoundation.com promoted through the QR auction. Won auction for $622.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 622,
+    "firstWin": "2025-09-30",
+    "lastWin": "2025-09-30",
+    "auctionIds": [
+      208
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=nodenodefoundation.com&sz=64"
+  },
+  "fc-cast:firkin.eth": {
+    "name": "@firkin.eth's cast",
+    "tagline": "Farcaster post by @firkin.eth",
+    "summary": "A Farcaster cast by @firkin.eth that was promoted via the QR auction. Won auction for $361.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 361,
+    "firstWin": "2025-09-29",
+    "lastWin": "2025-09-29",
+    "auctionIds": [
+      207
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0b71ffb2-59e4-4ab6-3836-aaed3e918d00/original"
+  },
+  "fc-cast:fromtiktok": {
+    "name": "@fromtiktok's cast",
+    "tagline": "Farcaster post by @fromtiktok",
+    "summary": "A Farcaster cast by @fromtiktok that was promoted via the QR auction. Won auction for $476.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 476,
+    "firstWin": "2025-09-27",
+    "lastWin": "2025-09-27",
+    "auctionIds": [
+      205
+    ],
+    "favicon": ""
+  },
+  "x-account:reserveprotocol": {
+    "name": "@reserveprotocol's tweet",
+    "tagline": "X/Twitter account @reserveprotocol",
+    "summary": "Posts from @reserveprotocol on X (Twitter) promoted through the QR auction. 2 promotions totaling $1300.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 1300,
+    "firstWin": "2025-09-25",
+    "lastWin": "2025-05-26",
+    "auctionIds": [
+      203,
+      81
+    ],
+    "favicon": "https://pbs.twimg.com/profile_images/1904558510601273344/O9MElJpi_400x400.jpg"
+  },
+  "x-account:playminiapp": {
+    "name": "@playminiapp's tweet",
+    "tagline": "X/Twitter account @playminiapp",
+    "summary": "Posts from @playminiapp on X (Twitter) promoted through the QR auction. Single promotion for $492.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 492,
+    "firstWin": "2025-09-24",
+    "lastWin": "2025-09-24",
+    "auctionIds": [
+      202
+    ],
+    "favicon": "https://unavatar.io/twitter/playminiapp"
+  },
+  "native.fun": {
+    "name": "Native • Chat, Play, Earn",
+    "tagline": "Chat and play platform",
+    "summary": "Native — a platform for chatting, playing games, and socializing in Web3.",
+    "category": "Game",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 365,
+    "firstWin": "2025-09-23",
+    "lastWin": "2025-09-23",
+    "auctionIds": [
+      201
+    ],
+    "favicon": "https://native.fun/apple-icon.png?d38e0d8a69d0c40f"
+  },
+  "mintedmerch.sh": {
+    "name": "MintedMerch - Where…coin.",
+    "tagline": "mintedmerch.sh",
+    "summary": "MintedMerch - Where…coin. promoted through the QR auction. Won auction for $343.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 343,
+    "firstWin": "2025-09-22",
+    "lastWin": "2025-09-22",
+    "auctionIds": [
+      200
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=mintedmerch.sh&sz=64"
+  },
+  "PoolFans - Onchain …pool.fans+14 others": {
+    "name": "PoolFans - Onchain …pool.fans+14 others",
+    "tagline": "Web project",
+    "summary": "PoolFans - Onchain …pool.fans+14 others promoted through the QR auction. Won auction for $367.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 367,
+    "firstWin": "2025-09-21",
+    "lastWin": "2025-09-21",
+    "auctionIds": [
+      199
+    ],
+    "favicon": ""
+  },
+  "emergetryemerge.xyz": {
+    "name": "emergetryemerge.xyz",
+    "tagline": "emergetryemerge.xyz",
+    "summary": "emergetryemerge.xyz promoted through the QR auction. Appeared 2 times with $910 total in bids.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 910,
+    "firstWin": "2025-09-20",
+    "lastWin": "2025-08-01",
+    "auctionIds": [
+      198,
+      148
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=emergetryemerge.xyz&sz=64"
+  },
+  "daoapp.sh": {
+    "name": "ShapeShift",
+    "tagline": "daoapp.sh",
+    "summary": "ShapeShift promoted through the QR auction. Won auction for $650.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 650,
+    "firstWin": "2025-09-19",
+    "lastWin": "2025-09-19",
+    "auctionIds": [
+      197
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=daoapp.sh&sz=64"
+  },
+  "dex-sol:96tpukyw1u": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Won auction for $715.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 715,
+    "firstWin": "2025-09-18",
+    "lastWin": "2025-09-18",
+    "auctionIds": [
+      196
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "vibechain.com": {
+    "name": "Buy BASE DISK ($BSDSK) on vibe.market",
+    "tagline": "vibechain.com",
+    "summary": "Buy BASE DISK ($BSDSK) on vibe.market promoted through the QR auction. Appeared 2 times with $903 total in bids.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 903,
+    "firstWin": "2025-09-17",
+    "lastWin": "2025-09-13",
+    "auctionIds": [
+      195,
+      191
+    ],
+    "favicon": "https://vibechain.com/vibemarket/assets/logo/favicon.ico"
+  },
+  "pigeon.trade": {
+    "name": "Pigeon—Your AI quant for infinite markets",
+    "tagline": "AI-powered quant trading",
+    "summary": "Pigeon — an AI quantitative trading assistant for navigating crypto markets.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1058,
+    "firstWin": "2025-09-16",
+    "lastWin": "2025-09-16",
+    "auctionIds": [
+      194
+    ],
+    "favicon": "https://pigeon.trade/favicon/apple-touch-icon.png"
+  },
+  "memeticsignalprotocol.com": {
+    "name": "Memetic Signal Protocol - Tokens MC Prediction Reputation System",
+    "tagline": "Meme signal analysis",
+    "summary": "Memetic Signal Protocol — a tool for analyzing meme trends and social signals in crypto.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 454,
+    "firstWin": "2025-09-14",
+    "lastWin": "2025-09-14",
+    "auctionIds": [
+      192
+    ],
+    "favicon": "https://memeticsignalprotocol.com/icon.png"
+  },
+  "likes.fun": {
+    "name": "likes.fun",
+    "tagline": "Social engagement rewards",
+    "summary": "likes.fun — a platform that gamifies and rewards social media engagement.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 777,
+    "firstWin": "2025-09-11",
+    "lastWin": "2025-09-11",
+    "auctionIds": [
+      189
+    ],
+    "favicon": "https://likes.fun/favicon.ico"
+  },
+  "x-account:theborklar": {
+    "name": "@theborklar's tweet",
+    "tagline": "X/Twitter account @theborklar",
+    "summary": "Posts from @theborklar on X (Twitter) promoted through the QR auction. Single promotion for $290.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 290,
+    "firstWin": "2025-09-10",
+    "lastWin": "2025-09-10",
+    "auctionIds": [
+      188
+    ],
+    "favicon": "https://pbs.twimg.com/profile_images/2025920849652654081/ptKJpY3c_400x400.jpg"
+  },
+  "zora-coin:0xdd817283": {
+    "name": "Running Wild",
+    "tagline": "Digital art/collectible on Zora",
+    "summary": "Running Wild minted on Zora, a platform for creating and collecting onchain media. Featured 2 times, $687 total.",
+    "category": "NFT/Art",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 687,
+    "firstWin": "2025-09-09",
+    "lastWin": "2025-09-08",
+    "auctionIds": [
+      187,
+      186
+    ],
+    "favicon": "https://zora.co/assets/favicon/apple-touch-icon.png"
+  },
+  "dex:0xe610ddc70e": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Appeared 2 times with $852 total in auction bids.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 852,
+    "firstWin": "2025-09-07",
+    "lastWin": "2025-08-19",
+    "auctionIds": [
+      185,
+      166
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "discography.arweave.net": {
+    "name": "discography",
+    "tagline": "discography.arweave.net",
+    "summary": "discography promoted through the QR auction. Won auction for $280.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 280,
+    "firstWin": "2025-09-06",
+    "lastWin": "2025-09-06",
+    "auctionIds": [
+      184
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=discography.arweave.net&sz=64"
+  },
+  "fc-cast:asylum": {
+    "name": "@asylum's cast",
+    "tagline": "Farcaster post by @asylum",
+    "summary": "A Farcaster cast by @asylum that was promoted via the QR auction. Won auction for $552.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 552,
+    "firstWin": "2025-09-05",
+    "lastWin": "2025-09-05",
+    "auctionIds": [
+      183
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/28127d2b-84d5-4a36-38fc-59bb2dcebf00/original"
+  },
+  "trifle.life": {
+    "name": "trifle ♧",
+    "tagline": "trifle.life",
+    "summary": "trifle ♧ promoted through the QR auction. Won auction for $485.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 485,
+    "firstWin": "2025-09-04",
+    "lastWin": "2025-09-04",
+    "auctionIds": [
+      182
+    ],
+    "favicon": "https://trifle.life/./assets/favicon.png"
+  },
+  "clanker.world": {
+    "name": "Big Bang (BANG) | Clanker",
+    "tagline": "clanker.world",
+    "summary": "Big Bang (BANG) | Clanker promoted through the QR auction. Won auction for $250.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 250,
+    "firstWin": "2025-09-03",
+    "lastWin": "2025-09-03",
+    "auctionIds": [
+      181
+    ],
+    "favicon": "https://clanker.world/favicon.ico?favicon.3510894c.ico"
+  },
+  "x-account:seedclubhq": {
+    "name": "@seedclubhq's tweet",
+    "tagline": "X/Twitter account @seedclubhq",
+    "summary": "Posts from @seedclubhq on X (Twitter) promoted through the QR auction. Single promotion for $469.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 469,
+    "firstWin": "2025-09-02",
+    "lastWin": "2025-09-02",
+    "auctionIds": [
+      180
+    ],
+    "favicon": "https://unavatar.io/twitter/seedclubhq"
+  },
+  "pubhouse.xyz": {
+    "name": "Pubhouse | Shake on Anything",
+    "tagline": "Social pub platform",
+    "summary": "Pubhouse — a social 'shake on it' platform for making and tracking onchain agreements.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 300,
+    "firstWin": "2025-09-01",
+    "lastWin": "2025-09-01",
+    "auctionIds": [
+      179
+    ],
+    "favicon": "https://pubhouse.xyz/favicon.ico?favicon.6f55386a.ico"
+  },
+  "offcreatorscore.app": {
+    "name": "Building Pays",
+    "tagline": "offcreatorscore.app",
+    "summary": "Building Pays promoted through the QR auction. Won auction for $456.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 456,
+    "firstWin": "2025-08-31",
+    "lastWin": "2025-08-31",
+    "auctionIds": [
+      178
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=offcreatorscore.app&sz=64"
+  },
+  "projectverdantprojectverdant.com": {
+    "name": "projectverdantprojectverdant.com",
+    "tagline": "projectverdantprojectverdant.com",
+    "summary": "projectverdantprojectverdant.com promoted through the QR auction. Won auction for $350.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 350,
+    "firstWin": "2025-08-30",
+    "lastWin": "2025-08-30",
+    "auctionIds": [
+      177
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=projectverdantprojectverdant.com&sz=64"
+  },
+  "fc-miniapp:pet-rock-life": {
+    "name": "Pet Rock Life",
+    "tagline": "Virtual pet rock game",
+    "summary": "A virtual pet game where users care for digital pet rocks on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 470,
+    "firstWin": "2025-08-29",
+    "lastWin": "2025-08-29",
+    "auctionIds": [
+      176
+    ],
+    "favicon": "https://petrock.life/icon.png"
+  },
+  "paragraph.com": {
+    "name": "Paragraph",
+    "tagline": "paragraph.com",
+    "summary": "Paragraph promoted through the QR auction. Won auction for $203.",
+    "category": "Content/Media",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 203,
+    "firstWin": "2025-08-28",
+    "lastWin": "2025-08-28",
+    "auctionIds": [
+      175
+    ],
+    "favicon": "https://paragraph.com/apple-icon.png?apple-icon.d6766fee.png"
+  },
+  "x-account:dry_tortuga": {
+    "name": "@dry_tortuga's tweet",
+    "tagline": "X/Twitter account @dry_tortuga",
+    "summary": "Posts from @dry_tortuga on X (Twitter) promoted through the QR auction. Single promotion for $386.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 386,
+    "firstWin": "2025-08-27",
+    "lastWin": "2025-08-27",
+    "auctionIds": [
+      174
+    ],
+    "favicon": "https://unavatar.io/twitter/dry_tortuga"
+  },
+  "x-account:joincreatordao": {
+    "name": "@joincreatordao on X",
+    "tagline": "X/Twitter account @joincreatordao",
+    "summary": "Posts from @joincreatordao on X (Twitter) promoted through the QR auction. Single promotion for $250.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 250,
+    "firstWin": "2025-08-25",
+    "lastWin": "2025-08-25",
+    "auctionIds": [
+      172
+    ],
+    "favicon": "https://unavatar.io/twitter/joincreatordao"
+  },
+  "drops.bot": {
+    "name": "Crypto Airdrop Checker - Check Any Wallet Address for Unclaimed Crypto Airdrops",
+    "tagline": "Airdrop discovery bot",
+    "summary": "Drops Bot — a tool for checking eligibility and claiming crypto airdrops. Won 2 QR auctions ($647 total).",
+    "category": "Tool/Utility",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 647,
+    "firstWin": "2025-08-24",
+    "lastWin": "2025-07-04",
+    "auctionIds": [
+      171,
+      120
+    ],
+    "favicon": "https://drops.bot/images/logos/app-icon-rounded.png"
+  },
+  "farcaster.xyz": {
+    "name": "Farcaster",
+    "tagline": "farcaster.xyz",
+    "summary": "Farcaster promoted through the QR auction. Won auction for $555.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 555,
+    "firstWin": "2025-08-23",
+    "lastWin": "2025-08-23",
+    "auctionIds": [
+      170
+    ],
+    "favicon": "https://farcaster.xyz/og-logo-v3.png"
+  },
+  "fc-cast:pita": {
+    "name": "@pita's cast",
+    "tagline": "Farcaster post by @pita",
+    "summary": "A Farcaster cast by @pita that was promoted via the QR auction. Won auction for $699.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 699,
+    "firstWin": "2025-08-21",
+    "lastWin": "2025-08-21",
+    "auctionIds": [
+      168
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85d094a5-f49d-405a-8a34-67d7dcde5700/original"
+  },
+  "butthole.stream": {
+    "name": "$BUTTHOLE – Weaponised Humiliation Protocol",
+    "tagline": "butthole.stream",
+    "summary": "$BUTTHOLE – Weaponised Humiliation Protocol promoted through the QR auction. Won auction for $666.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 666,
+    "firstWin": "2025-08-20",
+    "lastWin": "2025-08-20",
+    "auctionIds": [
+      167
+    ],
+    "favicon": "https://butthole.stream/apple-icon.png?f528023f11746969"
+  },
+  "dex-sol:5wnu5qhdpr": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Won auction for $1520.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1520,
+    "firstWin": "2025-08-18",
+    "lastWin": "2025-08-18",
+    "auctionIds": [
+      165
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "dex:0x0db97887b9": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Won auction for $777.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 777,
+    "firstWin": "2025-08-17",
+    "lastWin": "2025-08-17",
+    "auctionIds": [
+      164
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "opensea.io": {
+    "name": "opensea",
+    "tagline": "Leading NFT marketplace",
+    "summary": "OpenSea — the world's largest NFT marketplace for buying, selling, and discovering digital collectibles. Won 2 QR auctions ($2192 total).",
+    "category": "NFT/Art",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 2192,
+    "firstWin": "2025-08-16",
+    "lastWin": "2025-03-31",
+    "auctionIds": [
+      163,
+      25
+    ],
+    "favicon": "https://opensea.io/favicon.ico"
+  },
+  "dex:0xcc28456d4f": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Won auction for $1065.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1065,
+    "firstWin": "2025-08-14",
+    "lastWin": "2025-08-14",
+    "auctionIds": [
+      161
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "zora-coin:0x20429f73": {
+    "name": "SCAN",
+    "tagline": "Digital art/collectible on Zora",
+    "summary": "SCAN minted on Zora, a platform for creating and collecting onchain media. Promoted for $3333.",
+    "category": "NFT/Art",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 3333,
+    "firstWin": "2025-08-12",
+    "lastWin": "2025-08-12",
+    "auctionIds": [
+      159
+    ],
+    "favicon": "https://zora.co/assets/favicon/apple-touch-icon.png"
+  },
+  "dex:0xf02c421e15": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Appeared 7 times with $4581 total in auction bids.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 7,
+    "totalSpentUSD": 4581,
+    "firstWin": "2025-08-09",
+    "lastWin": "2025-05-01",
+    "auctionIds": [
+      156,
+      155,
+      153,
+      152,
+      131,
+      57,
+      56
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "fc-miniapp:daily-poll": {
+    "name": "Daily Questions",
+    "tagline": "Daily community polls",
+    "summary": "Daily Questions — a polling mini app for community engagement on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 669,
+    "firstWin": "2025-08-07",
+    "lastWin": "2025-08-07",
+    "auctionIds": [
+      154
+    ],
+    "favicon": "https://assets.boost.xyz/daily-questions/icon.png"
+  },
+  "apemanctoapemancto.com": {
+    "name": "apemanctoapemancto.com",
+    "tagline": "apemanctoapemancto.com",
+    "summary": "apemanctoapemancto.com promoted through the QR auction. Won auction for $665.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 665,
+    "firstWin": "2025-08-04",
+    "lastWin": "2025-08-04",
+    "auctionIds": [
+      151
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=apemanctoapemancto.com&sz=64"
+  },
+  "landbrnd.land": {
+    "name": "BRND",
+    "tagline": "landbrnd.land",
+    "summary": "BRND promoted through the QR auction. Won auction for $369.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 369,
+    "firstWin": "2025-08-02",
+    "lastWin": "2025-08-02",
+    "auctionIds": [
+      149
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=landbrnd.land&sz=64"
+  },
+  "fc-miniapp:daily-active-user": {
+    "name": "Daily Active User",
+    "tagline": "Activity tracking game",
+    "summary": "A gamified activity tracker rewarding daily active usage on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 757,
+    "firstWin": "2025-07-30",
+    "lastWin": "2025-07-30",
+    "auctionIds": [
+      146
+    ],
+    "favicon": "https://assets.boost.xyz/rewardkit/icon.png"
+  },
+  "testflight.apple.com": {
+    "name": "Join the Zapper: Social Wallet beta",
+    "tagline": "iOS beta testing platform",
+    "summary": "App promoted via Apple TestFlight, likely the Zapper social wallet beta for iOS.",
+    "category": "Tool/Utility",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1000,
+    "firstWin": "2025-07-29",
+    "lastWin": "2025-07-29",
+    "auctionIds": [
+      145
+    ],
+    "favicon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/97/79/d5977971-d2fa-3f7a-dec5-4e499fffe5c2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png"
+  },
+  "higheraimhigher.net": {
+    "name": "higheraimhigher.net",
+    "tagline": "higheraimhigher.net",
+    "summary": "higheraimhigher.net promoted through the QR auction. Won auction for $1000.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1000,
+    "firstWin": "2025-07-28",
+    "lastWin": "2025-07-28",
+    "auctionIds": [
+      144
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=higheraimhigher.net&sz=64"
+  },
+  "dex:0xb09877aa2a": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Won auction for $669.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 669,
+    "firstWin": "2025-07-27",
+    "lastWin": "2025-07-27",
+    "auctionIds": [
+      143
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "fc-miniapp:streme": {
+    "name": "Streme",
+    "tagline": "Token streaming platform",
+    "summary": "Streme enables token streaming and distribution on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1000,
+    "firstWin": "2025-07-26",
+    "lastWin": "2025-07-26",
+    "auctionIds": [
+      142
+    ],
+    "favicon": "https://streme.fun/icon.png"
+  },
+  "x-account:aavegotchi": {
+    "name": "@aavegotchi's tweet",
+    "tagline": "X/Twitter account @aavegotchi",
+    "summary": "Posts from @aavegotchi on X (Twitter) promoted through the QR auction. Single promotion for $1500.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1500,
+    "firstWin": "2025-07-25",
+    "lastWin": "2025-07-25",
+    "auctionIds": [
+      141
+    ],
+    "favicon": "https://unavatar.io/twitter/aavegotchi"
+  },
+  "flauntflaunt.meme": {
+    "name": "flauntflaunt.meme",
+    "tagline": "flauntflaunt.meme",
+    "summary": "flauntflaunt.meme promoted through the QR auction. Won auction for $815.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 815,
+    "firstWin": "2025-07-24",
+    "lastWin": "2025-07-24",
+    "auctionIds": [
+      140
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=flauntflaunt.meme&sz=64"
+  },
+  "x-account:xicojam": {
+    "name": "@xicojam's tweet",
+    "tagline": "X/Twitter account @xicojam",
+    "summary": "Posts from @xicojam on X (Twitter) promoted through the QR auction. 2 promotions totaling $3265.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 3265,
+    "firstWin": "2025-07-23",
+    "lastWin": "2025-07-16",
+    "auctionIds": [
+      139,
+      132
+    ],
+    "favicon": "https://unavatar.io/twitter/xicojam"
+  },
+  "fc-miniapp:inflynce": {
+    "name": "Inflynce",
+    "tagline": "Influence measurement tool",
+    "summary": "Inflynce measures and gamifies social influence on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1000,
+    "firstWin": "2025-07-22",
+    "lastWin": "2025-07-22",
+    "auctionIds": [
+      138
+    ],
+    "favicon": "https://miniapp.inflynce.com/logo_200x200.png"
+  },
+  "cultscults.fun": {
+    "name": "cultscults.fun",
+    "tagline": "Community cult creation platform",
+    "summary": "Cults — a platform for creating and joining onchain community 'cults' with shared goals. Won 2 QR auctions ($1878 total).",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 1878,
+    "firstWin": "2025-07-21",
+    "lastWin": "2025-05-31",
+    "auctionIds": [
+      137,
+      86
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=cultscults.fun&sz=64"
+  },
+  "fc-miniapp:hashhorse0xfa...e170": {
+    "name": "HashHorse",
+    "tagline": "Farcaster mini app",
+    "summary": "HashHorse — a Farcaster mini app promoted through the QR auction. Appeared 2 times, $1451 total spent.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 1451,
+    "firstWin": "2025-07-20",
+    "lastWin": "2025-07-18",
+    "auctionIds": [
+      136,
+      134
+    ],
+    "favicon": "https://hash.horse/logo_icon.png"
+  },
+  "x-account:blocktrader365": {
+    "name": "@blocktrader365's tweet",
+    "tagline": "X/Twitter account @blocktrader365",
+    "summary": "Posts from @blocktrader365 on X (Twitter) promoted through the QR auction. 2 promotions totaling $615.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 615,
+    "firstWin": "2025-07-19",
+    "lastWin": "2025-07-08",
+    "auctionIds": [
+      135,
+      124
+    ],
+    "favicon": "https://unavatar.io/twitter/blocktrader365"
+  },
+  "x-account:bvdani_el": {
+    "name": "@bvdani_el's tweet",
+    "tagline": "X/Twitter account @bvdani_el",
+    "summary": "Posts from @bvdani_el on X (Twitter) promoted through the QR auction. Single promotion for $870.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 870,
+    "firstWin": "2025-07-17",
+    "lastWin": "2025-07-17",
+    "auctionIds": [
+      133
+    ],
+    "favicon": "https://pbs.twimg.com/profile_images/2021364635761508356/w9_saOcI_400x400.jpg"
+  },
+  "indxsindxs.app": {
+    "name": "indxsindxs.app",
+    "tagline": "indxsindxs.app",
+    "summary": "indxsindxs.app promoted through the QR auction. Won auction for $402.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 402,
+    "firstWin": "2025-07-14",
+    "lastWin": "2025-07-14",
+    "auctionIds": [
+      130
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=indxsindxs.app&sz=64"
+  },
+  "dex:0xcc4511f353": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Won auction for $421.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 421,
+    "firstWin": "2025-07-13",
+    "lastWin": "2025-07-13",
+    "auctionIds": [
+      129
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "dex:0xfb192c68dc": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Won auction for $305.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 305,
+    "firstWin": "2025-07-12",
+    "lastWin": "2025-07-12",
+    "auctionIds": [
+      128
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "t.me": {
+    "name": "YHSSmokers",
+    "tagline": "t.me",
+    "summary": "YHSSmokers promoted through the QR auction. Appeared 2 times with $453 total in bids.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 453,
+    "firstWin": "2025-07-11",
+    "lastWin": "2025-03-24",
+    "auctionIds": [
+      127,
+      18
+    ],
+    "favicon": "https://telegram.org/img/apple-touch-icon.png"
+  },
+  "dex:0x41b4439d51": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Appeared 2 times with $658 total in auction bids.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 658,
+    "firstWin": "2025-07-10",
+    "lastWin": "2025-07-09",
+    "auctionIds": [
+      126,
+      125
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "doglogadog.xyz": {
+    "name": "Log a",
+    "tagline": "doglogadog.xyz",
+    "summary": "Log a promoted through the QR auction. Won auction for $275.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 275,
+    "firstWin": "2025-07-07",
+    "lastWin": "2025-07-07",
+    "auctionIds": [
+      123
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=doglogadog.xyz&sz=64"
+  },
+  "calendar3calendar.money": {
+    "name": "calendar3calendar.money",
+    "tagline": "calendar3calendar.money",
+    "summary": "calendar3calendar.money promoted through the QR auction. Won auction for $300.",
+    "category": "Tool/Utility",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 300,
+    "firstWin": "2025-07-06",
+    "lastWin": "2025-07-06",
+    "auctionIds": [
+      122
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=calendar3calendar.money&sz=64"
+  },
+  "songcast.xyz": {
+    "name": "SongCast - Music Attention Markets",
+    "tagline": "Music investment platform",
+    "summary": "SongCast — a platform for music discovery and passive investment in songs.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 386,
+    "firstWin": "2025-07-05",
+    "lastWin": "2025-07-05",
+    "auctionIds": [
+      121
+    ],
+    "favicon": "https://songcast.xyz/favicon.ico"
+  },
+  "fc-miniapp:megapot": {
+    "name": "Megapot",
+    "tagline": "Community jackpot game",
+    "summary": "A community lottery/jackpot game on Farcaster where users pool funds for big prizes.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 517,
+    "firstWin": "2025-07-03",
+    "lastWin": "2025-07-03",
+    "auctionIds": [
+      119
+    ],
+    "favicon": "https://frame.megapot.io/Frame_megapot-icon-large.png"
+  },
+  "fc-miniapp:reply": {
+    "name": "Reply",
+    "tagline": "Reply rewards mini app",
+    "summary": "A mini app that rewards quality replies and engagement on Farcaster.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 562,
+    "firstWin": "2025-07-02",
+    "lastWin": "2025-07-02",
+    "auctionIds": [
+      118
+    ],
+    "favicon": "https://reply-app.vercel.app/reply-1024.png"
+  },
+  "coinbase.com": {
+    "name": "coinbase",
+    "tagline": "Major crypto exchange",
+    "summary": "Coinbase — the largest US cryptocurrency exchange, used here for onramping.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 628,
+    "firstWin": "2025-07-01",
+    "lastWin": "2025-07-01",
+    "auctionIds": [
+      117
+    ],
+    "favicon": "https://coinbase.com/favicon.ico"
+  },
+  "fc-cast:sirsu.eth": {
+    "name": "@sirsu.eth's cast",
+    "tagline": "Farcaster post by @sirsu.eth",
+    "summary": "A Farcaster cast by @sirsu.eth that was promoted via the QR auction. Promoted 2 times with $1120 total spent.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 1120,
+    "firstWin": "2025-06-30",
+    "lastWin": "2025-06-28",
+    "auctionIds": [
+      116,
+      114
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/927b65ff-f302-444e-9d56-b34a81ca0e00/original"
+  },
+  "flipskiflipski.xyz": {
+    "name": "flipskiflipski.xyz",
+    "tagline": "flipskiflipski.xyz",
+    "summary": "flipskiflipski.xyz promoted through the QR auction. Won auction for $421.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 421,
+    "firstWin": "2025-06-29",
+    "lastWin": "2025-06-29",
+    "auctionIds": [
+      115
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=flipskiflipski.xyz&sz=64"
+  },
+  "x-account:grindingpoet": {
+    "name": "@GrindingPoet's tweet",
+    "tagline": "X/Twitter account @grindingpoet",
+    "summary": "Posts from @grindingpoet on X (Twitter) promoted through the QR auction. Single promotion for $800.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 800,
+    "firstWin": "2025-06-27",
+    "lastWin": "2025-06-27",
+    "auctionIds": [
+      113
+    ],
+    "favicon": "https://unavatar.io/twitter/GrindingPoet"
+  },
+  "x-account:anoncoin_": {
+    "name": "@anoncoin_ on X",
+    "tagline": "X/Twitter account @anoncoin_",
+    "summary": "Posts from @anoncoin_ on X (Twitter) promoted through the QR auction. 2 promotions totaling $1194.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 1194,
+    "firstWin": "2025-06-26",
+    "lastWin": "2025-06-23",
+    "auctionIds": [
+      112,
+      109
+    ],
+    "favicon": "https://unavatar.io/twitter/anoncoin_"
+  },
+  "seeingbluemintoftheday.com": {
+    "name": "seeingbluemintoftheday.com",
+    "tagline": "seeingbluemintoftheday.com",
+    "summary": "seeingbluemintoftheday.com promoted through the QR auction. Won auction for $234.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 234,
+    "firstWin": "2025-06-25",
+    "lastWin": "2025-06-25",
+    "auctionIds": [
+      111
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=seeingbluemintoftheday.com&sz=64"
+  },
+  "l2marathon.com": {
+    "name": "L2 Marathon | Omnichain NFTs Powered by LayerZero",
+    "tagline": "L2 chain comparison tool",
+    "summary": "L2 Marathon — an omnichain analytics tool for comparing Layer 2 blockchain performance.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 333,
+    "firstWin": "2025-06-24",
+    "lastWin": "2025-06-24",
+    "auctionIds": [
+      110
+    ],
+    "favicon": "https://l2marathon.com/marathon.png"
+  },
+  "x-account:pawthereum": {
+    "name": "@pawthereum's tweet",
+    "tagline": "X/Twitter account @pawthereum",
+    "summary": "Posts from @pawthereum on X (Twitter) promoted through the QR auction. Single promotion for $825.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 825,
+    "firstWin": "2025-06-22",
+    "lastWin": "2025-06-22",
+    "auctionIds": [
+      108
+    ],
+    "favicon": "https://unavatar.io/twitter/pawthereum"
+  },
+  "x-account:dubdub_tv": {
+    "name": "@dubdub_tv on X",
+    "tagline": "X/Twitter account @dubdub_tv",
+    "summary": "Posts from @dubdub_tv on X (Twitter) promoted through the QR auction. Single promotion for $750.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 750,
+    "firstWin": "2025-06-21",
+    "lastWin": "2025-06-21",
+    "auctionIds": [
+      107
+    ],
+    "favicon": "https://unavatar.io/twitter/dubdub_tv"
+  },
+  "ampsamps.fun": {
+    "name": "ampsamps.fun",
+    "tagline": "ampsamps.fun",
+    "summary": "ampsamps.fun promoted through the QR auction. Won auction for $586.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 586,
+    "firstWin": "2025-06-20",
+    "lastWin": "2025-06-20",
+    "auctionIds": [
+      106
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=ampsamps.fun&sz=64"
+  },
+  "fc-user:intori": {
+    "name": "@intori on Farcaster",
+    "tagline": "Farcaster profile: intori",
+    "summary": "A Farcaster profile (intori) promoted through the QR auction. Won for $751.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 751,
+    "firstWin": "2025-06-19",
+    "lastWin": "2025-06-19",
+    "auctionIds": [
+      105
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/62216a93-8f75-44f8-e6f6-b27cec75b500/original"
+  },
+  "secondseconds.money": {
+    "name": "secondseconds.money",
+    "tagline": "secondseconds.money",
+    "summary": "secondseconds.money promoted through the QR auction. Won auction for $740.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 740,
+    "firstWin": "2025-06-18",
+    "lastWin": "2025-06-18",
+    "auctionIds": [
+      104
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=secondseconds.money&sz=64"
+  },
+  "x-account:iownco": {
+    "name": "@iownco on X",
+    "tagline": "X/Twitter account @iownco",
+    "summary": "Posts from @iownco on X (Twitter) promoted through the QR auction. Single promotion for $491.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 491,
+    "firstWin": "2025-06-17",
+    "lastWin": "2025-06-17",
+    "auctionIds": [
+      103
+    ],
+    "favicon": "https://unavatar.io/twitter/iownco"
+  },
+  "coinbreadcoinbread.cash": {
+    "name": "coinbreadcoinbread.cash",
+    "tagline": "coinbreadcoinbread.cash",
+    "summary": "coinbreadcoinbread.cash promoted through the QR auction. Won auction for $807.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 807,
+    "firstWin": "2025-06-16",
+    "lastWin": "2025-06-16",
+    "auctionIds": [
+      102
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=coinbreadcoinbread.cash&sz=64"
+  },
+  "colorsbasecolors.com": {
+    "name": "Base",
+    "tagline": "colorsbasecolors.com",
+    "summary": "Base promoted through the QR auction. Won auction for $1000.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1000,
+    "firstWin": "2025-06-15",
+    "lastWin": "2025-06-15",
+    "auctionIds": [
+      101
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=colorsbasecolors.com&sz=64"
+  },
+  "x-account:chartcoinintern": {
+    "name": "@ChartCoinIntern on X",
+    "tagline": "X/Twitter account @chartcoinintern",
+    "summary": "Posts from @chartcoinintern on X (Twitter) promoted through the QR auction. Single promotion for $689.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 689,
+    "firstWin": "2025-06-14",
+    "lastWin": "2025-06-14",
+    "auctionIds": [
+      100
+    ],
+    "favicon": "https://unavatar.io/twitter/ChartCoinIntern"
+  },
+  "x-account:frocisbased": {
+    "name": "@frocisbased's tweet",
+    "tagline": "X/Twitter account @frocisbased",
+    "summary": "Posts from @frocisbased on X (Twitter) promoted through the QR auction. 2 promotions totaling $1008.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 1008,
+    "firstWin": "2025-06-13",
+    "lastWin": "2025-04-26",
+    "auctionIds": [
+      99,
+      51
+    ],
+    "favicon": "https://unavatar.io/twitter/frocisbased"
+  },
+  "fc-cast:procoin": {
+    "name": "@procoin's cast",
+    "tagline": "Farcaster post by @procoin",
+    "summary": "A Farcaster cast by @procoin that was promoted via the QR auction. Won auction for $2222.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 2222,
+    "firstWin": "2025-06-12",
+    "lastWin": "2025-06-12",
+    "auctionIds": [
+      98
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa97b2f9-93e9-45ef-a175-f528d53ae800/rectcrop3"
+  },
+  "cliptheclip.fun": {
+    "name": "cliptheclip.fun",
+    "tagline": "Viral clip sharing platform",
+    "summary": "Clip — a platform for creating, sharing, and trading viral video clips onchain. Won 2 QR auctions ($4500 total).",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 4500,
+    "firstWin": "2025-06-11",
+    "lastWin": "2025-06-08",
+    "auctionIds": [
+      97,
+      94
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=cliptheclip.fun&sz=64"
+  },
+  "x-account:theclipdotfun": {
+    "name": "@theclipdotfun on X",
+    "tagline": "X/Twitter account @theclipdotfun",
+    "summary": "Posts from @theclipdotfun on X (Twitter) promoted through the QR auction. Single promotion for $1200.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1200,
+    "firstWin": "2025-06-10",
+    "lastWin": "2025-06-10",
+    "auctionIds": [
+      96
+    ],
+    "favicon": "https://unavatar.io/twitter/theclipdotfun"
+  },
+  "iowniown.co": {
+    "name": "iowniown.co",
+    "tagline": "iowniown.co",
+    "summary": "iowniown.co promoted through the QR auction. Won auction for $1100.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1100,
+    "firstWin": "2025-06-09",
+    "lastWin": "2025-06-09",
+    "auctionIds": [
+      95
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=iowniown.co&sz=64"
+  },
+  "x-account:thecabalcoin": {
+    "name": "@thecabalcoin on X",
+    "tagline": "X/Twitter account @thecabalcoin",
+    "summary": "Posts from @thecabalcoin on X (Twitter) promoted through the QR auction. 2 promotions totaling $2100.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 2100,
+    "firstWin": "2025-06-07",
+    "lastWin": "2025-06-04",
+    "auctionIds": [
+      93,
+      90
+    ],
+    "favicon": "https://unavatar.io/twitter/thecabalcoin"
+  },
+  "x-account:victor928": {
+    "name": "@Victor928 on X",
+    "tagline": "X/Twitter account @victor928",
+    "summary": "Posts from @victor928 on X (Twitter) promoted through the QR auction. 2 promotions totaling $967.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 967,
+    "firstWin": "2025-06-06",
+    "lastWin": "2025-05-17",
+    "auctionIds": [
+      92,
+      72
+    ],
+    "favicon": "https://unavatar.io/twitter/Victor928"
+  },
+  "fc-user:thecryptos.eth": {
+    "name": "@thecryptos.eth on Farcaster",
+    "tagline": "Farcaster profile: thecryptos.eth",
+    "summary": "A Farcaster profile (thecryptos.eth) promoted through the QR auction. Won for $672.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 672,
+    "firstWin": "2025-06-05",
+    "lastWin": "2025-06-05",
+    "auctionIds": [
+      91
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f6be7311-f1ce-4725-6e73-7af2f2597700/original"
+  },
+  "x-account:defidough": {
+    "name": "@defidough's tweet",
+    "tagline": "X/Twitter account @defidough",
+    "summary": "Posts from @defidough on X (Twitter) promoted through the QR auction. Single promotion for $733.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 733,
+    "firstWin": "2025-06-03",
+    "lastWin": "2025-06-03",
+    "auctionIds": [
+      89
+    ],
+    "favicon": "https://pbs.twimg.com/profile_images/2023362319116345344/1_Zu6Oub_400x400.jpg"
+  },
+  "dropsdrops.bot": {
+    "name": "dropsdrops.bot",
+    "tagline": "Crypto airdrop checker",
+    "summary": "Drops — an airdrop checking bot that helps users discover and claim cryptocurrency airdrops. Won 2 QR auctions ($1635 total).",
+    "category": "Tool/Utility",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 1635,
+    "firstWin": "2025-06-02",
+    "lastWin": "2025-06-01",
+    "auctionIds": [
+      88,
+      87
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=dropsdrops.bot&sz=64"
+  },
+  "fc-cast:mjc716": {
+    "name": "@mjc716's cast",
+    "tagline": "Farcaster post by @mjc716",
+    "summary": "A Farcaster cast by @mjc716 that was promoted via the QR auction. Won auction for $1800.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1800,
+    "firstWin": "2025-05-30",
+    "lastWin": "2025-05-30",
+    "auctionIds": [
+      85
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6c6aae1d-58f0-4f42-5628-06263e661100/original"
+  },
+  "x-account:tryoharaai": {
+    "name": "@tryoharaAI's tweet",
+    "tagline": "X/Twitter account @tryoharaai",
+    "summary": "Posts from @tryoharaai on X (Twitter) promoted through the QR auction. Single promotion for $1431.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1431,
+    "firstWin": "2025-05-29",
+    "lastWin": "2025-05-29",
+    "auctionIds": [
+      84
+    ],
+    "favicon": "https://unavatar.io/twitter/tryoharaAI"
+  },
+  "x-account:tator_trader": {
+    "name": "@tator_trader's tweet",
+    "tagline": "X/Twitter account @tator_trader",
+    "summary": "Posts from @tator_trader on X (Twitter) promoted through the QR auction. Single promotion for $1680.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1680,
+    "firstWin": "2025-05-28",
+    "lastWin": "2025-05-28",
+    "auctionIds": [
+      83
+    ],
+    "favicon": "https://unavatar.io/twitter/tator_trader"
+  },
+  "dex:0x294799c95e": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Won auction for $760.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 760,
+    "firstWin": "2025-05-27",
+    "lastWin": "2025-05-27",
+    "auctionIds": [
+      82
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "coatcoatdog.com": {
+    "name": "$",
+    "tagline": "coatcoatdog.com",
+    "summary": "$ promoted through the QR auction. Won auction for $1999.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1999,
+    "firstWin": "2025-05-25",
+    "lastWin": "2025-05-25",
+    "auctionIds": [
+      80
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=coatcoatdog.com&sz=64"
+  },
+  "x-account:heettike": {
+    "name": "@heettike's tweet",
+    "tagline": "X/Twitter account @heettike",
+    "summary": "Posts from @heettike on X (Twitter) promoted through the QR auction. Single promotion for $1869.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1869,
+    "firstWin": "2025-05-24",
+    "lastWin": "2025-05-24",
+    "auctionIds": [
+      79
+    ],
+    "favicon": "https://unavatar.io/twitter/heettike"
+  },
+  "wc-cast:srijan.eth": {
+    "name": "@srijan.eth's cast",
+    "tagline": "Farcaster post by @srijan.eth",
+    "summary": "A Farcaster cast by @srijan.eth that was promoted via the QR auction. Won auction for $669.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 669,
+    "firstWin": "2025-05-23",
+    "lastWin": "2025-05-23",
+    "auctionIds": [
+      78
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/34aab6e6-015f-4363-98c4-a4abafecb800/rectcrop3"
+  },
+  "noicenoice.so": {
+    "name": "noicenoice.so",
+    "tagline": "noicenoice.so",
+    "summary": "noicenoice.so promoted through the QR auction. Won auction for $222.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 222,
+    "firstWin": "2025-05-22",
+    "lastWin": "2025-05-22",
+    "auctionIds": [
+      77
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=noicenoice.so&sz=64"
+  },
+  "x-account:noicedotso": {
+    "name": "@noicedotso on X",
+    "tagline": "X/Twitter account @noicedotso",
+    "summary": "Posts from @noicedotso on X (Twitter) promoted through the QR auction. Single promotion for $420.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 420,
+    "firstWin": "2025-05-21",
+    "lastWin": "2025-05-21",
+    "auctionIds": [
+      76
+    ],
+    "favicon": "https://unavatar.io/twitter/noicedotso"
+  },
+  "warpcast.com": {
+    "name": "@noiceapp on Farcaster",
+    "tagline": "warpcast.com",
+    "summary": "@noiceapp on Farcaster promoted through the QR auction. Appeared 3 times with $915 total in bids.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 3,
+    "totalSpentUSD": 915,
+    "firstWin": "2025-05-20",
+    "lastWin": "2025-04-09",
+    "auctionIds": [
+      75,
+      73,
+      34
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c9a45ce-af8f-446b-9dfe-378957a45a00/original"
+  },
+  "wc-cast:codeofcrypto": {
+    "name": "@codeofcrypto's cast",
+    "tagline": "Farcaster post by @codeofcrypto",
+    "summary": "A Farcaster cast by @codeofcrypto that was promoted via the QR auction. Won auction for $256.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 256,
+    "firstWin": "2025-05-19",
+    "lastWin": "2025-05-19",
+    "auctionIds": [
+      74
+    ],
+    "favicon": "https://arweave.net/Sy54hEt6gmPG5jOSqcRahs1Gjfv8q8sFhkgzzp_GkcQ/"
+  },
+  "x-account:ainalyst_0xb0...4c6f": {
+    "name": "@AInalyst_0xb0...4C6F on X",
+    "tagline": "X/Twitter account @ainalyst_0xb0...4c6f",
+    "summary": "Posts from @ainalyst_0xb0...4c6f on X (Twitter) promoted through the QR auction. Single promotion for $400.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 400,
+    "firstWin": "2025-05-16",
+    "lastWin": "2025-05-16",
+    "auctionIds": [
+      71
+    ],
+    "favicon": "https://unavatar.io/twitter/AInalyst_0xb0...4C6F"
+  },
+  "collectr.live": {
+    "name": "Collectr - Monthly art editions",
+    "tagline": "NFT collection tracker",
+    "summary": "Collectr — a monthly NFT and digital collectible tracking platform.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 370,
+    "firstWin": "2025-05-15",
+    "lastWin": "2025-05-15",
+    "auctionIds": [
+      70
+    ],
+    "favicon": "https://collectr.live/favicon.ico?v=2"
+  },
+  "x-account:rhynotic": {
+    "name": "@Rhynotic's tweet",
+    "tagline": "X/Twitter account @rhynotic",
+    "summary": "Posts from @rhynotic on X (Twitter) promoted through the QR auction. Single promotion for $165.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 165,
+    "firstWin": "2025-05-14",
+    "lastWin": "2025-05-14",
+    "auctionIds": [
+      69
+    ],
+    "favicon": "https://pbs.twimg.com/profile_images/1830262784287784960/KqZSwOTe_400x400.jpg"
+  },
+  "x-account:intent": {
+    "name": "@intent on X",
+    "tagline": "X/Twitter account @intent",
+    "summary": "Posts from @intent on X (Twitter) promoted through the QR auction. Single promotion for $87.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 87,
+    "firstWin": "2025-05-13",
+    "lastWin": "2025-05-13",
+    "auctionIds": [
+      68
+    ],
+    "favicon": "https://unavatar.io/twitter/intent"
+  },
+  "wc-cast:tipn": {
+    "name": "@tipn's cast",
+    "tagline": "Farcaster post by @tipn",
+    "summary": "A Farcaster cast by @tipn that was promoted via the QR auction. Promoted 2 times with $346 total spent.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 346,
+    "firstWin": "2025-05-11",
+    "lastWin": "2025-04-19",
+    "auctionIds": [
+      66,
+      44
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2bc5eb2e-6115-490f-b98d-eebe5cc48200/rectcrop3"
+  },
+  "wc-miniapp:warp-ramp": {
+    "name": "Warp Ramp",
+    "tagline": "warpcast.com",
+    "summary": "Warp Ramp promoted through the QR auction. Won auction for $75.",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 75,
+    "firstWin": "2025-05-10",
+    "lastWin": "2025-05-10",
+    "auctionIds": [
+      65
+    ],
+    "favicon": "https://warpcast.com/og-logo-v3.png"
+  },
+  "songbirdzsongbirdz.cc": {
+    "name": "songbirdzsongbirdz.cc",
+    "tagline": "songbirdzsongbirdz.cc",
+    "summary": "songbirdzsongbirdz.cc promoted through the QR auction. Won auction for $42.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 42,
+    "firstWin": "2025-05-09",
+    "lastWin": "2025-05-09",
+    "auctionIds": [
+      64
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=songbirdzsongbirdz.cc&sz=64"
+  },
+  "wearefloc.com": {
+    "name": "FLOC* | Web3 Strategic Design Studio",
+    "tagline": "wearefloc.com",
+    "summary": "FLOC* | Web3 Strategic Design Studio promoted through the QR auction. Won auction for $45.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 45,
+    "firstWin": "2025-05-08",
+    "lastWin": "2025-05-08",
+    "auctionIds": [
+      63
+    ],
+    "favicon": "https://framerusercontent.com/images/HKsAPaGBC7SjI4L1ml0AIswLk80.png"
+  },
+  "worldclanker.world": {
+    "name": "clanker",
+    "tagline": "worldclanker.world",
+    "summary": "clanker promoted through the QR auction. Won auction for $82.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 82,
+    "firstWin": "2025-05-07",
+    "lastWin": "2025-05-07",
+    "auctionIds": [
+      62
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=worldclanker.world&sz=64"
+  },
+  "youtube.com": {
+    "name": "YouTube",
+    "tagline": "youtube.com",
+    "summary": "YouTube promoted through the QR auction. Won auction for $64.",
+    "category": "Content/Media",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 64,
+    "firstWin": "2025-05-06",
+    "lastWin": "2025-05-06",
+    "auctionIds": [
+      61
+    ],
+    "favicon": "https://www.youtube.com/s/desktop/c9b3ffed/img/favicon.ico"
+  },
+  "warpswarps.fun": {
+    "name": "warpswarps.fun",
+    "tagline": "warpswarps.fun",
+    "summary": "warpswarps.fun promoted through the QR auction. Won auction for $47.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 47,
+    "firstWin": "2025-05-05",
+    "lastWin": "2025-05-05",
+    "auctionIds": [
+      60
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=warpswarps.fun&sz=64"
+  },
+  "nouns.movie": {
+    "name": "The Rise of Blus: A Nouns Movie",
+    "tagline": "nouns.movie",
+    "summary": "The Rise of Blus: A Nouns Movie promoted through the QR auction. Won auction for $48.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 48,
+    "firstWin": "2025-05-04",
+    "lastWin": "2025-05-04",
+    "auctionIds": [
+      59
+    ],
+    "favicon": "https://nouns.movie/images/favicon.png"
+  },
+  "ticktockticktock.fun": {
+    "name": "ticktockticktock.fun",
+    "tagline": "ticktockticktock.fun",
+    "summary": "ticktockticktock.fun promoted through the QR auction. Won auction for $68.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 68,
+    "firstWin": "2025-05-03",
+    "lastWin": "2025-05-03",
+    "auctionIds": [
+      58
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=ticktockticktock.fun&sz=64"
+  },
+  "betrmintbetrmint.fun": {
+    "name": "betrmintbetrmint.fun",
+    "tagline": "betrmintbetrmint.fun",
+    "summary": "betrmintbetrmint.fun promoted through the QR auction. Won auction for $236.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 236,
+    "firstWin": "2025-04-30",
+    "lastWin": "2025-04-30",
+    "auctionIds": [
+      55
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=betrmintbetrmint.fun&sz=64"
+  },
+  "x-account:mjayceee": {
+    "name": "@mjayceee's tweet",
+    "tagline": "X/Twitter account @mjayceee",
+    "summary": "Posts from @mjayceee on X (Twitter) promoted through the QR auction. Single promotion for $52.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 52,
+    "firstWin": "2025-04-29",
+    "lastWin": "2025-04-29",
+    "auctionIds": [
+      54
+    ],
+    "favicon": "https://unavatar.io/twitter/mjayceee"
+  },
+  "wc-cast:zoiner": {
+    "name": "@zoiner's cast",
+    "tagline": "Farcaster post by @zoiner",
+    "summary": "A Farcaster cast by @zoiner that was promoted via the QR auction. Won auction for $55.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 55,
+    "firstWin": "2025-04-28",
+    "lastWin": "2025-04-28",
+    "auctionIds": [
+      53
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94925e12-f299-4097-1842-a4c09532c000/rectcrop3"
+  },
+  "x-account:base_colors": {
+    "name": "@base_colors's tweet",
+    "tagline": "X/Twitter account @base_colors",
+    "summary": "Posts from @base_colors on X (Twitter) promoted through the QR auction. Single promotion for $51.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 51,
+    "firstWin": "2025-04-27",
+    "lastWin": "2025-04-27",
+    "auctionIds": [
+      52
+    ],
+    "favicon": "https://unavatar.io/twitter/base_colors"
+  },
+  "contentmentcoincontentment.fun": {
+    "name": "contentmentcoincontentment.fun",
+    "tagline": "contentmentcoincontentment.fun",
+    "summary": "contentmentcoincontentment.fun promoted through the QR auction. Won auction for $451.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 451,
+    "firstWin": "2025-04-25",
+    "lastWin": "2025-04-25",
+    "auctionIds": [
+      50
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=contentmentcoincontentment.fun&sz=64"
+  },
+  "dex:0x0d47db7fe2": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Won auction for $834.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 834,
+    "firstWin": "2025-04-24",
+    "lastWin": "2025-04-24",
+    "auctionIds": [
+      49
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "dickbuttdickbutt.site": {
+    "name": "dickbuttdickbutt.site",
+    "tagline": "dickbuttdickbutt.site",
+    "summary": "dickbuttdickbutt.site promoted through the QR auction. Won auction for $276.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 276,
+    "firstWin": "2025-04-23",
+    "lastWin": "2025-04-23",
+    "auctionIds": [
+      48
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=dickbuttdickbutt.site&sz=64"
+  },
+  "x-account:panicdotfun": {
+    "name": "@panicdotfun on X",
+    "tagline": "X/Twitter account @panicdotfun",
+    "summary": "Posts from @panicdotfun on X (Twitter) promoted through the QR auction. Single promotion for $152.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 152,
+    "firstWin": "2025-04-22",
+    "lastWin": "2025-04-22",
+    "auctionIds": [
+      47
+    ],
+    "favicon": "https://unavatar.io/twitter/panicdotfun"
+  },
+  "checkrcheckr.so": {
+    "name": "checkrcheckr.so",
+    "tagline": "checkrcheckr.so",
+    "summary": "checkrcheckr.so promoted through the QR auction. Won auction for $201.",
+    "category": "Tool/Utility",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 201,
+    "firstWin": "2025-04-21",
+    "lastWin": "2025-04-21",
+    "auctionIds": [
+      46
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=checkrcheckr.so&sz=64"
+  },
+  "bigcoinbigcoin.tech": {
+    "name": "bigcoinbigcoin.tech",
+    "tagline": "bigcoinbigcoin.tech",
+    "summary": "bigcoinbigcoin.tech promoted through the QR auction. Won auction for $325.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 325,
+    "firstWin": "2025-04-20",
+    "lastWin": "2025-04-20",
+    "auctionIds": [
+      45
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=bigcoinbigcoin.tech&sz=64"
+  },
+  "x-account:_seacasa": {
+    "name": "@_seacasa's tweet",
+    "tagline": "X/Twitter account @_seacasa",
+    "summary": "Posts from @_seacasa on X (Twitter) promoted through the QR auction. Single promotion for $463.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 463,
+    "firstWin": "2025-04-18",
+    "lastWin": "2025-04-18",
+    "auctionIds": [
+      43
+    ],
+    "favicon": "https://pbs.twimg.com/profile_images/1590938848304844801/2BV_WAwd_400x400.jpg"
+  },
+  "x-account:junglebayac": {
+    "name": "@junglebayac's tweet",
+    "tagline": "X/Twitter account @junglebayac",
+    "summary": "Posts from @junglebayac on X (Twitter) promoted through the QR auction. 3 promotions totaling $1378.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 3,
+    "totalSpentUSD": 1378,
+    "firstWin": "2025-04-17",
+    "lastWin": "2025-04-14",
+    "auctionIds": [
+      42,
+      40,
+      39
+    ],
+    "favicon": "https://unavatar.io/twitter/junglebayac"
+  },
+  "mirror.xyz": {
+    "name": "mirror",
+    "tagline": "mirror.xyz",
+    "summary": "mirror promoted through the QR auction. Won auction for $503.",
+    "category": "Content/Media",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 503,
+    "firstWin": "2025-04-16",
+    "lastWin": "2025-04-16",
+    "auctionIds": [
+      41
+    ],
+    "favicon": "https://mirror.xyz/favicon.ico"
+  },
+  "dex:0xc1a6fbedae": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Won auction for $333.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 333,
+    "firstWin": "2025-04-13",
+    "lastWin": "2025-04-13",
+    "auctionIds": [
+      38
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "publicopentothepublic.org": {
+    "name": "Open to the",
+    "tagline": "publicopentothepublic.org",
+    "summary": "Open to the promoted through the QR auction. Won auction for $204.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 204,
+    "firstWin": "2025-04-12",
+    "lastWin": "2025-04-12",
+    "auctionIds": [
+      37
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=publicopentothepublic.org&sz=64"
+  },
+  "x-account:joelkruger": {
+    "name": "@joelkruger's tweet",
+    "tagline": "X/Twitter account @joelkruger",
+    "summary": "Posts from @joelkruger on X (Twitter) promoted through the QR auction. Single promotion for $159.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 159,
+    "firstWin": "2025-04-11",
+    "lastWin": "2025-04-11",
+    "auctionIds": [
+      36
+    ],
+    "favicon": "https://pbs.twimg.com/profile_images/1928927619979857920/hLIpiGsC_400x400.jpg"
+  },
+  "base.org": {
+    "name": "Base | Jobs",
+    "tagline": "base.org",
+    "summary": "Base | Jobs promoted through the QR auction. Won auction for $67.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 67,
+    "firstWin": "2025-04-10",
+    "lastWin": "2025-04-10",
+    "auctionIds": [
+      35
+    ],
+    "favicon": "https://base.org/document/apple-touch-icon.png"
+  },
+  "x-account:mleejr": {
+    "name": "@MLeeJr's tweet",
+    "tagline": "X/Twitter account @mleejr",
+    "summary": "Posts from @mleejr on X (Twitter) promoted through the QR auction. 2 promotions totaling $92.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 92,
+    "firstWin": "2025-04-08",
+    "lastWin": "2025-04-06",
+    "auctionIds": [
+      33,
+      31
+    ],
+    "favicon": "https://pbs.twimg.com/profile_images/1601094719525855232/aOkAPHtC_200x200.png"
+  },
+  "zora-coin:0xd0d6b565": {
+    "name": "Bitcoin 2028",
+    "tagline": "Digital art/collectible on Zora",
+    "summary": "Bitcoin 2028 minted on Zora, a platform for creating and collecting onchain media. Promoted for $43.",
+    "category": "NFT/Art",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 43,
+    "firstWin": "2025-04-07",
+    "lastWin": "2025-04-07",
+    "auctionIds": [
+      32
+    ],
+    "favicon": "https://zora.co/assets/favicon/apple-touch-icon.png"
+  },
+  "elon5050elon5050.com": {
+    "name": "elon5050elon5050.com",
+    "tagline": "elon5050elon5050.com",
+    "summary": "elon5050elon5050.com promoted through the QR auction. Won auction for $28.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 28,
+    "firstWin": "2025-04-05",
+    "lastWin": "2025-04-05",
+    "auctionIds": [
+      30
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=elon5050elon5050.com&sz=64"
+  },
+  "spawner.fun": {
+    "name": "S.P.A.W.N.",
+    "tagline": "Token launch platform",
+    "summary": "S.P.A.W.N. — a token spawning/launching platform on Base.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 67,
+    "firstWin": "2025-04-04",
+    "lastWin": "2025-04-04",
+    "auctionIds": [
+      29
+    ],
+    "favicon": "https://spawner.fun/images/favicon.png"
+  },
+  "giveth.io": {
+    "name": "Project EVMavericks&#x27; Doots Podcast",
+    "tagline": "giveth.io",
+    "summary": "Project EVMavericks&#x27; Doots Podcast promoted through the QR auction. Won auction for $31.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 31,
+    "firstWin": "2025-04-03",
+    "lastWin": "2025-04-03",
+    "auctionIds": [
+      28
+    ],
+    "favicon": "https://giveth.io/favicon.svg"
+  },
+  "gamehangmanwords.com": {
+    "name": "Custom Hangman",
+    "tagline": "gamehangmanwords.com",
+    "summary": "Custom Hangman promoted through the QR auction. Won auction for $42.",
+    "category": "Game",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 42,
+    "firstWin": "2025-04-02",
+    "lastWin": "2025-04-02",
+    "auctionIds": [
+      27
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=gamehangmanwords.com&sz=64"
+  },
+  "x-account:danabuidl": {
+    "name": "@DanaBuidl's tweet",
+    "tagline": "X/Twitter account @danabuidl",
+    "summary": "Posts from @danabuidl on X (Twitter) promoted through the QR auction. Single promotion for $71.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 71,
+    "firstWin": "2025-04-01",
+    "lastWin": "2025-04-01",
+    "auctionIds": [
+      26
+    ],
+    "favicon": "https://unavatar.io/twitter/DanaBuidl"
+  },
+  "wc-cast:applefather.eth": {
+    "name": "@applefather.eth's cast",
+    "tagline": "Farcaster post by @applefather.eth",
+    "summary": "A Farcaster cast by @applefather.eth that was promoted via the QR auction. Won auction for $67.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 67,
+    "firstWin": "2025-03-30",
+    "lastWin": "2025-03-30",
+    "auctionIds": [
+      24
+    ],
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cc6716ae-c02a-4397-421c-97f96469c800/original"
+  },
+  "x-account:jestrbot": {
+    "name": "@jestrbot on X",
+    "tagline": "X/Twitter account @jestrbot",
+    "summary": "Posts from @jestrbot on X (Twitter) promoted through the QR auction. Single promotion for $110.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 110,
+    "firstWin": "2025-03-29",
+    "lastWin": "2025-03-29",
+    "auctionIds": [
+      23
+    ],
+    "favicon": "https://unavatar.io/twitter/jestrbot"
+  },
+  "advantageblockchain.com": {
+    "name": "Blockchain Education | Cryptocurrency Investing",
+    "tagline": "Blockchain education",
+    "summary": "Advantage Blockchain — an educational platform for learning blockchain technology. Won 2 QR auctions ($131 total).",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 131,
+    "firstWin": "2025-03-28",
+    "lastWin": "2025-03-15",
+    "auctionIds": [
+      22,
+      9
+    ],
+    "favicon": "https://static.wixstatic.com/media/0c2fd8_c800924845344d44ab93bbc82a817279%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/0c2fd8_c800924845344d44ab93bbc82a817279%7Emv2.png"
+  },
+  "gigabraingigabrain.gg": {
+    "name": "gigabraingigabrain.gg",
+    "tagline": "gigabraingigabrain.gg",
+    "summary": "gigabraingigabrain.gg promoted through the QR auction. Won auction for $103.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 103,
+    "firstWin": "2025-03-27",
+    "lastWin": "2025-03-27",
+    "auctionIds": [
+      21
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=gigabraingigabrain.gg&sz=64"
+  },
+  "punkpunk.town": {
+    "name": "punkpunk.town",
+    "tagline": "punkpunk.town",
+    "summary": "punkpunk.town promoted through the QR auction. Won auction for $137.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 137,
+    "firstWin": "2025-03-26",
+    "lastWin": "2025-03-26",
+    "auctionIds": [
+      20
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=punkpunk.town&sz=64"
+  },
+  "givedirectly.orgmrkibbles.base.eth": {
+    "name": "GiveDirectly: Send",
+    "tagline": "givedirectly.orgmrkibbles.base.eth",
+    "summary": "GiveDirectly: Send promoted through the QR auction. Won auction for $100.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 100,
+    "firstWin": "2025-03-25",
+    "lastWin": "2025-03-25",
+    "auctionIds": [
+      19
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=givedirectly.orgmrkibbles.base.eth&sz=64"
+  },
+  "hirechain.io": {
+    "name": "Welcome to Hirechain - Crypto&#x27;s Leading Talent Network",
+    "tagline": "Web3 job board",
+    "summary": "Hirechain — a Web3-native job board connecting blockchain talent with opportunities.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 190,
+    "firstWin": "2025-03-23",
+    "lastWin": "2025-03-23",
+    "auctionIds": [
+      17
+    ],
+    "favicon": "https://cdn.prod.website-files.com/637b5ca2ce9c0d5d4c2d1eb4/638495c82abcc71be7e13b37_256x256.png"
+  },
+  "linktr.ee": {
+    "name": "Onchain March Madness | Linktree",
+    "tagline": "linktr.ee",
+    "summary": "Onchain March Madness | Linktree promoted through the QR auction. Won auction for $60.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 60,
+    "firstWin": "2025-03-22",
+    "lastWin": "2025-03-22",
+    "auctionIds": [
+      16
+    ],
+    "favicon": "https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-180x180.png"
+  },
+  "dex:0xd6a4dac466": {
+    "name": "dexscreener",
+    "tagline": "Token listed on Dexscreener",
+    "summary": "A cryptocurrency token promoted via the QR code auction, linking to its Dexscreener trading page. Won auction for $514.",
+    "category": "Token",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 514,
+    "firstWin": "2025-03-21",
+    "lastWin": "2025-03-21",
+    "auctionIds": [
+      15
+    ],
+    "favicon": "https://dexscreener.com/favicon.ico"
+  },
+  "x-account:ripdotfun": {
+    "name": "@ripdotfun on X",
+    "tagline": "X/Twitter account @ripdotfun",
+    "summary": "Posts from @ripdotfun on X (Twitter) promoted through the QR auction. Single promotion for $584.",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 584,
+    "firstWin": "2025-03-20",
+    "lastWin": "2025-03-20",
+    "auctionIds": [
+      14
+    ],
+    "favicon": "https://unavatar.io/twitter/ripdotfun"
+  },
+  "medium.com": {
+    "name": "Medium: Read and write stories.",
+    "tagline": "medium.com",
+    "summary": "Medium: Read and write stories. promoted through the QR auction. Won auction for $231.",
+    "category": "Content/Media",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 231,
+    "firstWin": "2025-03-19",
+    "lastWin": "2025-03-19",
+    "auctionIds": [
+      13
+    ],
+    "favicon": "https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156"
+  },
+  "zorazora.co": {
+    "name": "zorazora.co",
+    "tagline": "zorazora.co",
+    "summary": "zorazora.co promoted through the QR auction. Won auction for $1047.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 1047,
+    "firstWin": "2025-03-18",
+    "lastWin": "2025-03-18",
+    "auctionIds": [
+      12
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=zorazora.co&sz=64"
+  },
+  "thevibecodedthevibecoded.xyz": {
+    "name": "thevibecodedthevibecoded.xyz",
+    "tagline": "thevibecodedthevibecoded.xyz",
+    "summary": "thevibecodedthevibecoded.xyz promoted through the QR auction. Won auction for $90.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 90,
+    "firstWin": "2025-03-17",
+    "lastWin": "2025-03-17",
+    "auctionIds": [
+      11
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=thevibecodedthevibecoded.xyz&sz=64"
+  },
+  "publicinpublic.fun": {
+    "name": "In",
+    "tagline": "publicinpublic.fun",
+    "summary": "In promoted through the QR auction. Won auction for $191.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 191,
+    "firstWin": "2025-03-16",
+    "lastWin": "2025-03-16",
+    "auctionIds": [
+      10
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=publicinpublic.fun&sz=64"
+  },
+  "veilveil.cash": {
+    "name": "veilveil.cash",
+    "tagline": "veilveil.cash",
+    "summary": "veilveil.cash promoted through the QR auction. Won auction for $229.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 229,
+    "firstWin": "2025-03-14",
+    "lastWin": "2025-03-14",
+    "auctionIds": [
+      8
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=veilveil.cash&sz=64"
+  },
+  "howareyoufeeling.xyz": {
+    "name": "How are you feeling?",
+    "tagline": "Mood tracking tool",
+    "summary": "How Are You Feeling — a community mood tracking and wellness check-in tool.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 77,
+    "firstWin": "2025-03-13",
+    "lastWin": "2025-03-13",
+    "auctionIds": [
+      7
+    ],
+    "favicon": "https://howareyoufeeling.xyz/logo192.png"
+  },
+  "avatrackeravatracker.xyz": {
+    "name": "avatrackeravatracker.xyz",
+    "tagline": "avatrackeravatracker.xyz",
+    "summary": "avatrackeravatracker.xyz promoted through the QR auction. Won auction for $279.",
+    "category": "Tool/Utility",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 279,
+    "firstWin": "2025-03-12",
+    "lastWin": "2025-03-12",
+    "auctionIds": [
+      6
+    ],
+    "favicon": "https://www.google.com/s2/favicons?domain=avatrackeravatracker.xyz&sz=64"
+  },
+  "zora-coin:0xb56c9af0": {
+    "name": "13 - First Mover Advantage (remastered)",
+    "tagline": "Digital art/collectible on Zora",
+    "summary": "13 - First Mover Advantage (remastered) minted on Zora, a platform for creating and collecting onchain media. Promoted for $440.",
+    "category": "NFT/Art",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 440,
+    "firstWin": "2025-03-10",
+    "lastWin": "2025-03-10",
+    "auctionIds": [
+      4
+    ],
+    "favicon": "https://zora.co/assets/favicon/apple-touch-icon.png"
+  },
+  "btcacc.com": {
+    "name": "btc/acc - Bitcoin Accumulation",
+    "tagline": "Bitcoin accumulation tracker",
+    "summary": "btc/acc — a Bitcoin accumulation philosophy and tracking platform.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 565,
+    "firstWin": "2025-03-09",
+    "lastWin": "2025-03-09",
+    "auctionIds": [
+      3
+    ],
+    "favicon": "https://btcacc.com/images/icon.png"
+  },
+  "hyperliquid.xyz": {
+    "name": "Hyper Foundation",
+    "tagline": "Decentralized perpetual exchange",
+    "summary": "Hyperliquid — a high-performance decentralized exchange for perpetual futures trading.",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 3303,
+    "firstWin": "2025-03-08",
+    "lastWin": "2025-03-08",
+    "auctionIds": [
+      2
+    ],
+    "favicon": "https://hyperliquid.xyz/apple-touch-icon.png"
+  }
+}

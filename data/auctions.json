@@ -1,0 +1,7106 @@
+[
+  {
+    "id": 371,
+    "title": "OpenCredits - Wallet-native AI Credits",
+    "url": "https://opencredits.xyz",
+    "winner": "",
+    "totalBidUSD": 204,
+    "domain": "opencredits.xyz",
+    "projectKey": "opencredits.xyz",
+    "favicon": "https://opencredits.xyz/favicon.svg",
+    "date": "2026-03-12",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 370,
+    "title": "Among",
+    "url": "https://Traitorsamongtraitors.gg/?share=spectator-recap&gameId=9781d426-45b5-4b8d-9b73-1a85aff36121",
+    "winner": "@saltorious.eth",
+    "totalBidUSD": 157,
+    "domain": "traitorsamongtraitors.gg",
+    "projectKey": "traitorsamongtraitors.gg",
+    "favicon": "https://www.google.com/s2/favicons?domain=traitorsamongtraitors.gg&sz=64",
+    "date": "2026-03-11",
+    "contributors": [
+      {
+        "address": "@saltorious.eth",
+        "amount": 157,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 369,
+    "title": "Pizza Party",
+    "url": "https://farcaster.xyz/miniapps/wgY6OPqYoIkz/pizza-party",
+    "winner": "+1 others",
+    "totalBidUSD": 186,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:pizza-party",
+    "favicon": "https://i.postimg.cc/Y2bLKkdC/E49A4767_F207_4D3C_9CE7_226129385659.png",
+    "date": "2026-03-10",
+    "contributors": [
+      {
+        "address": "+1 others",
+        "amount": 186,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 368,
+    "title": "MONEY GAMES",
+    "url": "https://farcaster.xyz/miniapps/LiIQ4G6y5ELU/money-games/snake",
+    "winner": "@trifle",
+    "totalBidUSD": 171,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:money-games",
+    "favicon": "https://like.trifle.life/fc-miniapp-icon-1024x1024-1.png",
+    "date": "2026-03-09",
+    "contributors": [
+      {
+        "address": "@trifle",
+        "amount": 171,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 367,
+    "title": "Bizarre Bounce - BizarreBeasts | Play.fun | Play to Earn Games on Solana",
+    "url": "https://play.fun/s/5g7g56i",
+    "winner": "",
+    "totalBidUSD": 171,
+    "domain": "play.fun",
+    "projectKey": "play.fun",
+    "favicon": "https://cdn.opengameprotocol.com/favicons/mushroom-180x180.png",
+    "date": "2026-03-08",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 366,
+    "title": "HIGHER.ZIP",
+    "url": "https://Calendarhigher.zip/shop",
+    "winner": "@clfx.eth",
+    "totalBidUSD": 222,
+    "domain": "calendarhigher.zip",
+    "projectKey": "calendarhigher.zip",
+    "favicon": "https://www.google.com/s2/favicons?domain=calendarhigher.zip&sz=64",
+    "date": "2026-03-07",
+    "contributors": [
+      {
+        "address": "@clfx.eth",
+        "amount": 222,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 365,
+    "title": "Vercel: Build and deploy the best web experiences with the AI Cloud – Vercel",
+    "url": "https://vercel.app",
+    "winner": "+752 others",
+    "totalBidUSD": 1772,
+    "domain": "vercel.app",
+    "projectKey": "vercel.app",
+    "favicon": "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/apple-touch-icon-57x57.png",
+    "date": "2026-03-06",
+    "contributors": [
+      {
+        "address": "+752 others",
+        "amount": 1772,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 364,
+    "title": "@ledgerville's tweet",
+    "url": "https://x.com/ledgerville/status/2029566845507006741",
+    "winner": "@ledgerville",
+    "totalBidUSD": 230,
+    "domain": "x.com",
+    "projectKey": "x-account:ledgerville",
+    "favicon": "https://pbs.twimg.com/profile_images/1911328923394158592/5bkopMI4_400x400.jpg",
+    "date": "2026-03-05",
+    "contributors": [
+      {
+        "address": "@ledgerville",
+        "amount": 230,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 363,
+    "title": "@ledgerville's tweet",
+    "url": "https://x.com/ledgerville/status/2029161883044081744",
+    "winner": "@ledgerville",
+    "totalBidUSD": 200,
+    "domain": "x.com",
+    "projectKey": "x-account:ledgerville",
+    "favicon": "https://pbs.twimg.com/profile_images/1911328923394158592/5bkopMI4_400x400.jpg",
+    "date": "2026-03-04",
+    "contributors": [
+      {
+        "address": "@ledgerville",
+        "amount": 200,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 362,
+    "title": "Yourviews — Onchain Journal of the Day",
+    "url": "https://yourviews.org/entry/20515/0",
+    "winner": "",
+    "totalBidUSD": 235,
+    "domain": "yourviews.org",
+    "projectKey": "yourviews.org",
+    "favicon": "https://yourviews.org/apple-touch-icon.png",
+    "date": "2026-03-03",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 361,
+    "title": "Rev for Vercel App - App Store",
+    "url": "https://apps.apple.com/app/rev-for-vercel/id6740740427",
+    "winner": "@chrisdom",
+    "totalBidUSD": 161,
+    "domain": "apps.apple.com",
+    "projectKey": "apps.apple.com",
+    "favicon": "https://apps.apple.com/assets/favicon/favicon-180.png",
+    "date": "2026-03-02",
+    "contributors": [
+      {
+        "address": "@chrisdom",
+        "amount": 161,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 360,
+    "title": "WaliGPT - OpenClaw Launcher | Deploy and manage OpenClaw AI agents",
+    "url": "https://waligpt.com",
+    "winner": "",
+    "totalBidUSD": 232,
+    "domain": "waligpt.com",
+    "projectKey": "waligpt.com",
+    "favicon": "https://waligpt.com/assets/wali-robot-logo-4x.png",
+    "date": "2026-03-01",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 359,
+    "title": "truthpolltruthpoll.com",
+    "url": "https://truthpolltruthpoll.com",
+    "winner": "@TruthPollHQ",
+    "totalBidUSD": 153,
+    "domain": "truthpolltruthpoll.com",
+    "projectKey": "truthpolltruthpoll.com",
+    "favicon": "https://www.google.com/s2/favicons?domain=truthpolltruthpoll.com&sz=64",
+    "date": "2026-02-28",
+    "contributors": [
+      {
+        "address": "@TruthPollHQ",
+        "amount": 153,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 358,
+    "title": "Adverse - The World's First Advertising Marketplace You Own",
+    "url": "https://adverse.app",
+    "winner": "@AdverseApp",
+    "totalBidUSD": 175,
+    "domain": "adverse.app",
+    "projectKey": "adverse.app",
+    "favicon": "https://adverse.app/assets/adverse-logo-DAmCrzr4.jpg",
+    "date": "2026-02-27",
+    "contributors": [
+      {
+        "address": "@AdverseApp",
+        "amount": 175,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 357,
+    "title": "@clawdvine's tweet",
+    "url": "https://x.com/clawdvine/status/2027058628771856409?s=20",
+    "winner": "@clawdvine.eth",
+    "totalBidUSD": 273,
+    "domain": "x.com",
+    "projectKey": "x-account:clawdvine",
+    "favicon": "https://unavatar.io/twitter/clawdvine",
+    "date": "2026-02-26",
+    "contributors": [
+      {
+        "address": "@clawdvine.eth",
+        "amount": 273,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 356,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xc99add2ddf69f6fc85af155aadefb43d87b3614e",
+    "winner": "",
+    "totalBidUSD": 191,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xc99add2ddf",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2026-02-25",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 355,
+    "title": "DebtReliefBot — Grokipedia",
+    "url": "https://grokipedia.com/page/debtreliefbot",
+    "winner": "",
+    "totalBidUSD": 220,
+    "domain": "grokipedia.com",
+    "projectKey": "grokipedia.com",
+    "favicon": "https://grokipedia.com/favicon.ico",
+    "date": "2026-02-24",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 354,
+    "title": "Onchain",
+    "url": "https://Lobstersonchainlobsters.xyz",
+    "winner": "",
+    "totalBidUSD": 201,
+    "domain": "lobstersonchainlobsters.xyz",
+    "projectKey": "lobstersonchainlobsters.xyz",
+    "favicon": "https://www.google.com/s2/favicons?domain=lobstersonchainlobsters.xyz&sz=64",
+    "date": "2026-02-23",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 353,
+    "title": "Sovereignty",
+    "url": "https://farcaster.xyz/miniapps/VTV_JjqRR6JW/sovereignty",
+    "winner": "@sovereignty",
+    "totalBidUSD": 200,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:sovereignty",
+    "favicon": "https://svrnty.co/icon.png",
+    "date": "2026-02-22",
+    "contributors": [
+      {
+        "address": "@sovereignty",
+        "amount": 200,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 352,
+    "title": "WaliGPT - OpenClaw Launcher | Deploy and manage OpenClaw AI agents",
+    "url": "https://waligpt.com",
+    "winner": "",
+    "totalBidUSD": 206,
+    "domain": "waligpt.com",
+    "projectKey": "waligpt.com",
+    "favicon": "https://waligpt.com/assets/wali-robot-logo-4x.png",
+    "date": "2026-02-21",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 351,
+    "title": "Vendyz",
+    "url": "https://farcaster.xyz/miniapps/f17s0yDDGlXv/vendyz",
+    "winner": "",
+    "totalBidUSD": 248,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:vendyz",
+    "favicon": "https://vendyz.vercel.app/icon.png",
+    "date": "2026-02-20",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 350,
+    "title": "@letshaveaword's cast",
+    "url": "https://farcaster.xyz/letshaveaword/0xfacdafb2",
+    "winner": "",
+    "totalBidUSD": 327,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:letshaveaword",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2556ed85-7b57-4f5a-c1c6-683a2477fe00/original",
+    "date": "2026-02-19",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 349,
+    "title": "Claim —  Fees are yours!",
+    "url": "https://farcaster.xyz/miniapps/MiAspAXiw6cZ/claim",
+    "winner": "+563 others",
+    "totalBidUSD": 1374,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:claim",
+    "favicon": "https://farcaster.xyz/og-logo-v3.png",
+    "date": "2026-02-18",
+    "contributors": [
+      {
+        "address": "+563 others",
+        "amount": 1374,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 348,
+    "title": "VOLT",
+    "url": "https://farcaster.xyz/miniapps/A33F5gIJDifq/volt",
+    "winner": "@0xhohenheim",
+    "totalBidUSD": 212,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:volt",
+    "favicon": "https://miniapp.voltperps.com/icon.png",
+    "date": "2026-02-17",
+    "contributors": [
+      {
+        "address": "@0xhohenheim",
+        "amount": 212,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 347,
+    "title": "@0xsonarbot on X",
+    "url": "https://x.com/0xsonarbot",
+    "winner": "",
+    "totalBidUSD": 375,
+    "domain": "x.com",
+    "projectKey": "x-account:0xsonarbot",
+    "favicon": "https://unavatar.io/twitter/0xsonarbot",
+    "date": "2026-02-16",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 346,
+    "title": "Framedl",
+    "url": "https://farcaster.xyz/miniapps/KdCXV0aKWcm6/framedl",
+    "winner": "@ds8",
+    "totalBidUSD": 250,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:framedl",
+    "favicon": "https://framedl.com/icon-v2.png",
+    "date": "2026-02-15",
+    "contributors": [
+      {
+        "address": "@ds8",
+        "amount": 250,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 345,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0x0a30f9b28652e8909a38839b1e55ac0a00912007833561061553c47cce72461f",
+    "winner": "",
+    "totalBidUSD": 291,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0x0a30f9b286",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2026-02-14",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 344,
+    "title": "Teller",
+    "url": "https://farcaster.xyz/miniapps/2Ts-0TIKtjXW/teller",
+    "winner": "@teller",
+    "totalBidUSD": 260,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:teller",
+    "favicon": "https://app.teller.org/assets/app-icon.png",
+    "date": "2026-02-13",
+    "contributors": [
+      {
+        "address": "@teller",
+        "amount": 260,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 343,
+    "title": "Merkle 🌿 - Digital Familiar",
+    "url": "https://merkle.bot",
+    "winner": "",
+    "totalBidUSD": 508,
+    "domain": "merkle.bot",
+    "projectKey": "merkle.bot",
+    "favicon": "https://merkle.bot/apple-touch-icon.png",
+    "date": "2026-02-12",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 342,
+    "title": "GM Farcaster",
+    "url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+    "winner": "",
+    "totalBidUSD": 262,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:gm-farcaster",
+    "favicon": "https://miniapp.gmfarcaster.com/images/gmfc_logo_1024_1024.png",
+    "date": "2026-02-11",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 341,
+    "title": "@tellrbot on X",
+    "url": "https://x.com/tellrbot",
+    "winner": "@tellrbot",
+    "totalBidUSD": 420,
+    "domain": "x.com",
+    "projectKey": "x-account:tellrbot",
+    "favicon": "https://unavatar.io/twitter/tellrbot",
+    "date": "2026-02-10",
+    "contributors": [
+      {
+        "address": "@tellrbot",
+        "amount": 420,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 340,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0x0f4a85526e8b27b71c8d26a129d79ee4454d9c40dc1f5a5852845224a58158cc",
+    "winner": "@atown",
+    "totalBidUSD": 300,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0x0f4a85526e",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2026-02-09",
+    "contributors": [
+      {
+        "address": "@atown",
+        "amount": 300,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 339,
+    "title": "Football - Ultimate Football Squares and Pick&#x27;em Experience",
+    "url": "https://superbowlsquares.app",
+    "winner": "+4 others",
+    "totalBidUSD": 365,
+    "domain": "superbowlsquares.app",
+    "projectKey": "superbowlsquares.app",
+    "favicon": "https://superbowlsquares.app/favicon.ico?favicon.e1f93d55.ico",
+    "date": "2026-02-08",
+    "contributors": [
+      {
+        "address": "+4 others",
+        "amount": 365,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 338,
+    "title": "@wwxpost on X",
+    "url": "https://x.com/wwxpost",
+    "winner": "@wwxpost",
+    "totalBidUSD": 342,
+    "domain": "x.com",
+    "projectKey": "x-account:wwxpost",
+    "favicon": "https://unavatar.io/twitter/wwxpost",
+    "date": "2026-02-07",
+    "contributors": [
+      {
+        "address": "@wwxpost",
+        "amount": 342,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 337,
+    "title": "WaliGPT - OpenClaw Launcher | Deploy and manage OpenClaw AI agents",
+    "url": "https://waligpt.com",
+    "winner": "@waligpt",
+    "totalBidUSD": 400,
+    "domain": "waligpt.com",
+    "projectKey": "waligpt.com",
+    "favicon": "https://waligpt.com/assets/wali-robot-logo-4x.png",
+    "date": "2026-02-06",
+    "contributors": [
+      {
+        "address": "@waligpt",
+        "amount": 400,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 336,
+    "title": "Clawmegle - Talk to strangers!",
+    "url": "https://clawmegle.xyz",
+    "winner": "",
+    "totalBidUSD": 421,
+    "domain": "clawmegle.xyz",
+    "projectKey": "clawmegle.xyz",
+    "favicon": "https://clawmegle.xyz/logo.png?v=4",
+    "date": "2026-02-05",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 335,
+    "title": "walletchanbankrwallet.app",
+    "url": "https://WalletChanbankrwallet.app",
+    "winner": "@apoorvlathey",
+    "totalBidUSD": 410,
+    "domain": "walletchanbankrwallet.app",
+    "projectKey": "walletchanbankrwallet.app",
+    "favicon": "https://www.google.com/s2/favicons?domain=walletchanbankrwallet.app&sz=64",
+    "date": "2026-02-04",
+    "contributors": [
+      {
+        "address": "@apoorvlathey",
+        "amount": 410,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 334,
+    "title": "clawdvineclawdvine.sh",
+    "url": "https://ClawdVineclawdvine.sh",
+    "winner": "+2 others",
+    "totalBidUSD": 536,
+    "domain": "clawdvineclawdvine.sh",
+    "projectKey": "clawdvineclawdvine.sh",
+    "favicon": "https://www.google.com/s2/favicons?domain=clawdvineclawdvine.sh&sz=64",
+    "date": "2026-02-03",
+    "contributors": [
+      {
+        "address": "+2 others",
+        "amount": 536,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 333,
+    "title": "NEYNARtodes",
+    "url": "https://farcaster.xyz/miniapps/uaKwcOvUry8F/neynartodes",
+    "winner": "",
+    "totalBidUSD": 330,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:neynartodes",
+    "favicon": "https://frame-opal-eight.vercel.app/neynartode-sticker.png",
+    "date": "2026-02-02",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 332,
+    "title": "GM Farcaster",
+    "url": "https://farcaster.xyz/miniapps/RWk7UVoMf6vW/gm-farcaster",
+    "winner": "",
+    "totalBidUSD": 361,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:gm-farcaster",
+    "favicon": "https://miniapp.gmfarcaster.com/images/gmfc_logo_1024_1024.png",
+    "date": "2026-02-01",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 331,
+    "title": "Clawcaster - Where agents go social",
+    "url": "https://clawcaster.com",
+    "winner": "",
+    "totalBidUSD": 600,
+    "domain": "clawcaster.com",
+    "projectKey": "clawcaster.com",
+    "favicon": "https://clawcaster.com/logo.png",
+    "date": "2026-01-31",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 330,
+    "title": "Pizza Party",
+    "url": "https://farcaster.xyz/miniapps/wgY6OPqYoIkz/pizza-party",
+    "winner": "+6 others",
+    "totalBidUSD": 357,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:pizza-party",
+    "favicon": "https://i.postimg.cc/Y2bLKkdC/E49A4767_F207_4D3C_9CE7_226129385659.png",
+    "date": "2026-01-30",
+    "contributors": [
+      {
+        "address": "+6 others",
+        "amount": 357,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 329,
+    "title": "Regent Platformregent.cx+4 others",
+    "url": "",
+    "winner": "",
+    "totalBidUSD": 829,
+    "domain": "",
+    "projectKey": "",
+    "favicon": "",
+    "date": "2026-01-29",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 328,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xd7e82c10269ce007050f0d12706ba4e355ac670e91b952aa584f2990a3742222",
+    "winner": "@siyana",
+    "totalBidUSD": 600,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xd7e82c1026",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2026-01-28",
+    "contributors": [
+      {
+        "address": "@siyana",
+        "amount": 600,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 327,
+    "title": "Teller",
+    "url": "https://farcaster.xyz/miniapps/2Ts-0TIKtjXW/teller",
+    "winner": "",
+    "totalBidUSD": 501,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:teller",
+    "favicon": "https://app.teller.org/assets/app-icon.png",
+    "date": "2026-01-27",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 326,
+    "title": "@theneetguy on X",
+    "url": "https://x.com/theneetguy",
+    "winner": "",
+    "totalBidUSD": 336,
+    "domain": "x.com",
+    "projectKey": "x-account:theneetguy",
+    "favicon": "https://unavatar.io/twitter/theneetguy",
+    "date": "2026-01-26",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 325,
+    "title": "occupynodefoundation.com",
+    "url": "https://OCCUPYnodefoundation.com/occupy",
+    "winner": "",
+    "totalBidUSD": 327,
+    "domain": "occupynodefoundation.com",
+    "projectKey": "occupynodefoundation.com",
+    "favicon": "https://www.google.com/s2/favicons?domain=occupynodefoundation.com&sz=64",
+    "date": "2026-01-25",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 324,
+    "title": "@lotry's cast",
+    "url": "https://farcaster.xyz/lotry/0x7b51d166",
+    "winner": "@lotry",
+    "totalBidUSD": 365,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:lotry",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7c0598e6-9d7f-4b10-4723-a19b887ac900/original",
+    "date": "2026-01-24",
+    "contributors": [
+      {
+        "address": "@lotry",
+        "amount": 365,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 323,
+    "title": "Lotry.fun",
+    "url": "https://farcaster.xyz/miniapps/BSH6BFagQpZC/lotryfun",
+    "winner": "@lotry",
+    "totalBidUSD": 333,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:lotryfun",
+    "favicon": "https://farcaster.xyz/og-logo-v3.png",
+    "date": "2026-01-23",
+    "contributors": [
+      {
+        "address": "@lotry",
+        "amount": 333,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 322,
+    "title": "@lotry's cast",
+    "url": "https://farcaster.xyz/lotry/0x5a10805e",
+    "winner": "",
+    "totalBidUSD": 446,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:lotry",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/7c0598e6-9d7f-4b10-4723-a19b887ac900/original",
+    "date": "2026-01-22",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 321,
+    "title": "likes.fun",
+    "url": "https://farcaster.xyz/miniapps/j2lmAs761_oP/likesfun",
+    "winner": "",
+    "totalBidUSD": 331,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:likesfun",
+    "favicon": "https://likes.fun/new_logo.png",
+    "date": "2026-01-21",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 320,
+    "title": "$MoonShot Channel on Farcaster",
+    "url": "https://farcaster.xyz/~/channel/moonshot-on-base",
+    "winner": "+9 others",
+    "totalBidUSD": 360,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-channel:moonshot-on-base",
+    "favicon": "https://farcaster.xyz/og-logo-v3.png",
+    "date": "2026-01-20",
+    "contributors": [
+      {
+        "address": "+9 others",
+        "amount": 360,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 319,
+    "title": "likes.fun",
+    "url": "https://farcaster.xyz/miniapps/j2lmAs761_oP/likesfun",
+    "winner": "",
+    "totalBidUSD": 342,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:likesfun",
+    "favicon": "https://likes.fun/new_logo.png",
+    "date": "2026-01-19",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 318,
+    "title": "walletlink.so",
+    "url": "https://walletlink.so",
+    "winner": "@starl3xx.eth",
+    "totalBidUSD": 340,
+    "domain": "walletlink.so",
+    "projectKey": "walletlink.so",
+    "favicon": "https://www.google.com/s2/favicons?domain=walletlink.so&sz=64",
+    "date": "2026-01-18",
+    "contributors": [
+      {
+        "address": "@starl3xx.eth",
+        "amount": 340,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 317,
+    "title": "$toby - cute frog of base | $toby - the frog of base",
+    "url": "https://toadgod.xyz",
+    "winner": "+34 others",
+    "totalBidUSD": 807,
+    "domain": "toadgod.xyz",
+    "projectKey": "toadgod.xyz",
+    "favicon": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=180,h=180,fit=crop,f=png/Yg25V2x6JviO83we/satoby-AoPe185Xa9sJ85Q9.jpeg",
+    "date": "2026-01-17",
+    "contributors": [
+      {
+        "address": "+34 others",
+        "amount": 807,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 316,
+    "title": "DebtReliefBot — Grokipedia",
+    "url": "https://grokipedia.com/page/debtreliefbot",
+    "winner": "+5 others",
+    "totalBidUSD": 792,
+    "domain": "grokipedia.com",
+    "projectKey": "grokipedia.com",
+    "favicon": "https://grokipedia.com/favicon.ico",
+    "date": "2026-01-16",
+    "contributors": [
+      {
+        "address": "+5 others",
+        "amount": 792,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 315,
+    "title": "glazecorpglazecorp.io",
+    "url": "https://GlazeCorpglazecorp.io",
+    "winner": "+11 others",
+    "totalBidUSD": 458,
+    "domain": "glazecorpglazecorp.io",
+    "projectKey": "glazecorpglazecorp.io",
+    "favicon": "https://www.google.com/s2/favicons?domain=glazecorpglazecorp.io&sz=64",
+    "date": "2026-01-15",
+    "contributors": [
+      {
+        "address": "+11 others",
+        "amount": 458,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 314,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xf44ab962d787444f4ae6674a7fb61a8e66581b07",
+    "winner": "+10 others",
+    "totalBidUSD": 478,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xf44ab962d7",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2026-01-14",
+    "contributors": [
+      {
+        "address": "+10 others",
+        "amount": 478,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 313,
+    "title": "@skippywalks's cast",
+    "url": "https://farcaster.xyz/skippywalks/0xb280dcb2",
+    "winner": "+140 others",
+    "totalBidUSD": 622,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:skippywalks",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0bf096ad-763e-4742-0749-f3333fd67900/original",
+    "date": "2026-01-13",
+    "contributors": [
+      {
+        "address": "+140 others",
+        "amount": 622,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 312,
+    "title": "Senpi — Mirror Trading",
+    "url": "https://farcaster.xyz/miniapps/28xbPU0xYYK9/senpi--mirror-trading",
+    "winner": "@senpi.eth",
+    "totalBidUSD": 362,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:senpi--mirror-trading",
+    "favicon": "https://miniapp.senpi.ai/senpi-icon.png",
+    "date": "2026-01-12",
+    "contributors": [
+      {
+        "address": "@senpi.eth",
+        "amount": 362,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 311,
+    "title": "likes.fun",
+    "url": "https://farcaster.xyz/miniapps/j2lmAs761_oP/likesfun",
+    "winner": "",
+    "totalBidUSD": 399,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:likesfun",
+    "favicon": "https://likes.fun/new_logo.png",
+    "date": "2026-01-11",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 310,
+    "title": "Pubhouse",
+    "url": "https://farcaster.xyz/miniapps/rx_RZQiWYnZc/pubhouse",
+    "winner": "",
+    "totalBidUSD": 522,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:pubhouse",
+    "favicon": "https://pubhouse.xyz/fc_icon.png",
+    "date": "2026-01-10",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 309,
+    "title": "chat",
+    "url": "https://farcaster.xyz/miniapps/5gHjZvqGAjml/chat",
+    "winner": "",
+    "totalBidUSD": 500,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:chat",
+    "favicon": "https://chatbytaylor.vercel.app/icon.png",
+    "date": "2026-01-09",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 308,
+    "title": "OnChat",
+    "url": "https://farcaster.xyz/miniapps/4bo9FDQQDd1-/onchat",
+    "winner": "+1 others",
+    "totalBidUSD": 454,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:onchat",
+    "favicon": "https://onchat.sebayaki.com/app-icon-black-bg.png",
+    "date": "2026-01-08",
+    "contributors": [
+      {
+        "address": "+1 others",
+        "amount": 454,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 307,
+    "title": "@Veildotcash's tweet",
+    "url": "https://x.com/Veildotcash/status/2008790740961513939",
+    "winner": "@apex_ether",
+    "totalBidUSD": 500,
+    "domain": "x.com",
+    "projectKey": "x-account:veildotcash",
+    "favicon": "https://unavatar.io/twitter/Veildotcash",
+    "date": "2026-01-07",
+    "contributors": [
+      {
+        "address": "@apex_ether",
+        "amount": 500,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 306,
+    "title": "$znon",
+    "url": "https://farcaster.xyz/miniapps/zd7mrzqhIVdA/znon",
+    "winner": "",
+    "totalBidUSD": 334,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:znon",
+    "favicon": "https://znon.fun/znon-icon.png",
+    "date": "2026-01-06",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 305,
+    "title": "Senpi — Mirror Trading",
+    "url": "https://farcaster.xyz/miniapps/28xbPU0xYYK9/senpi--mirror-trading",
+    "winner": "",
+    "totalBidUSD": 353,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:senpi--mirror-trading",
+    "favicon": "https://miniapp.senpi.ai/senpi-icon.png",
+    "date": "2026-01-05",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 304,
+    "title": "farcaster",
+    "url": "https://farcaster.xyz/miniapps/5argX24fr_Tq/sprinkles",
+    "winner": "+6 others",
+    "totalBidUSD": 373,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:sprinkles",
+    "favicon": "https://farcaster.xyz/favicon.ico",
+    "date": "2026-01-04",
+    "contributors": [
+      {
+        "address": "+6 others",
+        "amount": 373,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 303,
+    "title": "FCWeed",
+    "url": "https://farcaster.xyz/miniapps/s5TFzzv8IX0S/fcweed",
+    "winner": "@0xcocaine",
+    "totalBidUSD": 355,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:fcweed",
+    "favicon": "https://fcweed-minikitapp.vercel.app/icon.png",
+    "date": "2026-01-03",
+    "contributors": [
+      {
+        "address": "@0xcocaine",
+        "amount": 355,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 302,
+    "title": "Let’s Have A Word!",
+    "url": "https://farcaster.xyz/miniapps/yzTRNYuz4cok/lets-have-a-word",
+    "winner": "+2 others",
+    "totalBidUSD": 525,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:lets-have-a-word",
+    "favicon": "https://letshaveaword.fun/LHAW-icon.png",
+    "date": "2026-01-02",
+    "contributors": [
+      {
+        "address": "+2 others",
+        "amount": 525,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 301,
+    "title": "horse",
+    "url": "https://zora.co/coin/base:0xf1fc9580784335b2613c1392a530c1aa2a69ba3d",
+    "winner": "",
+    "totalBidUSD": 555,
+    "domain": "zora.co",
+    "projectKey": "zora-coin:0xf1fc9580",
+    "favicon": "https://zora.co/assets/favicon/apple-touch-icon.png",
+    "date": "2026-01-01",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 300,
+    "title": "@theneetguy.eth on Farcaster",
+    "url": "https://farcaster.xyz/theneetguy.eth",
+    "winner": "",
+    "totalBidUSD": 400,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-user:theneetguy.eth",
+    "favicon": "",
+    "date": "2025-12-31",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 299,
+    "title": "NEYNARtodes",
+    "url": "https://farcaster.xyz/miniapps/uaKwcOvUry8F/neynartodes",
+    "winner": "",
+    "totalBidUSD": 352,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:neynartodes",
+    "favicon": "https://frame-opal-eight.vercel.app/neynartode-sticker.png",
+    "date": "2025-12-30",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 298,
+    "title": "FCWeed",
+    "url": "https://farcaster.xyz/miniapps/s5TFzzv8IX0S/fcweed",
+    "winner": "",
+    "totalBidUSD": 351,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:fcweed",
+    "favicon": "https://fcweed-minikitapp.vercel.app/icon.png",
+    "date": "2025-12-29",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 297,
+    "title": "The World: Own the Message",
+    "url": "https://farcaster.xyz/miniapps/gsje7zMB3A47/the-world-own-the-message",
+    "winner": "",
+    "totalBidUSD": 331,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:the-world-own-the-message",
+    "favicon": "https://www.worldworldworld.com/themap_icon_1024.jpeg",
+    "date": "2025-12-28",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 296,
+    "title": "FCWeed",
+    "url": "https://farcaster.xyz/miniapps/s5TFzzv8IX0S/fcweed",
+    "winner": "@0xcocaine",
+    "totalBidUSD": 530,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:fcweed",
+    "favicon": "https://fcweed-minikitapp.vercel.app/icon.png",
+    "date": "2025-12-27",
+    "contributors": [
+      {
+        "address": "@0xcocaine",
+        "amount": 530,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 295,
+    "title": "Waffles",
+    "url": "https://farcaster.xyz/miniapps/sbpPNle-R2-V/waffles",
+    "winner": "@thecyberverse",
+    "totalBidUSD": 440,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:waffles",
+    "favicon": "https://miniapp.playwaffles.fun/icon.png",
+    "date": "2025-12-26",
+    "contributors": [
+      {
+        "address": "@thecyberverse",
+        "amount": 440,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 294,
+    "title": "The Apostles",
+    "url": "https://farcaster.xyz/miniapps/y3JyVxonCq_o/the-apostles",
+    "winner": "+8 others",
+    "totalBidUSD": 800,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:the-apostles",
+    "favicon": "https://theapostles-sepia.vercel.app/logo.png",
+    "date": "2025-12-25",
+    "contributors": [
+      {
+        "address": "+8 others",
+        "amount": 800,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 293,
+    "title": "EAT Coin",
+    "url": "https://farcaster.xyz/miniapps/L-Bgk2RtvL-M/eat-coin",
+    "winner": "",
+    "totalBidUSD": 402,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:eat-coin",
+    "favicon": "https://eat-farcaster.vercel.app/logo.png",
+    "date": "2025-12-24",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 292,
+    "title": "Adsterix",
+    "url": "https://farcaster.xyz/miniapps/nOlHtdHWXJ6H/adsterix",
+    "winner": "",
+    "totalBidUSD": 369,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:adsterix",
+    "favicon": "https://adsterix.xyz/icon.png",
+    "date": "2025-12-23",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 291,
+    "title": "Die Hard: The Game",
+    "url": "https://farcaster.xyz/miniapps/oT7lGF0ooNeB/die-hard-the-game",
+    "winner": "+1 others",
+    "totalBidUSD": 458,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:die-hard-the-game",
+    "favicon": "https://miniapp-generator-fid-4167-251214024905831.neynar.app/app-logo.png",
+    "date": "2025-12-22",
+    "contributors": [
+      {
+        "address": "+1 others",
+        "amount": 458,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 290,
+    "title": "SongCast",
+    "url": "https://farcaster.xyz/miniapps/mYB-AY4azNE5/songcast",
+    "winner": "@dabus.eth",
+    "totalBidUSD": 333,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:songcast",
+    "favicon": "https://songcast.vercel.app/icon.png",
+    "date": "2025-12-21",
+    "contributors": [
+      {
+        "address": "@dabus.eth",
+        "amount": 333,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 289,
+    "title": "Pizza City",
+    "url": "https://farcaster.xyz/miniapps/aLK9q29dGfoa/pizza-city",
+    "winner": "+1 others",
+    "totalBidUSD": 405,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:pizza-city",
+    "favicon": "https://www.pizzacity.app/assets/pizza-city/logo/pizza-city-icon-512.png",
+    "date": "2025-12-20",
+    "contributors": [
+      {
+        "address": "+1 others",
+        "amount": 405,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 288,
+    "title": "Franchiser",
+    "url": "https://farcaster.xyz/miniapps/yetHcJ1rdN-n/franchiser",
+    "winner": "+16 others",
+    "totalBidUSD": 2518,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:franchiser",
+    "favicon": "https://glazecorp-franchise.vercel.app/media/icon.png",
+    "date": "2025-12-19",
+    "contributors": [
+      {
+        "address": "+16 others",
+        "amount": 2518,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 287,
+    "title": "@thebestpizza.eth's cast",
+    "url": "https://farcaster.xyz/thebestpizza.eth/0x17af7b4e",
+    "winner": "+1 others",
+    "totalBidUSD": 409,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:thebestpizza.eth",
+    "favicon": "",
+    "date": "2025-12-18",
+    "contributors": [
+      {
+        "address": "+1 others",
+        "amount": 409,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 286,
+    "title": "unflat",
+    "url": "https://farcaster.xyz/miniapps/Pc4mqNrBe03E/x-quo",
+    "winner": "@alevenox",
+    "totalBidUSD": 570,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:x-quo",
+    "favicon": "https://x-quo.app/icon.png",
+    "date": "2025-12-17",
+    "contributors": [
+      {
+        "address": "@alevenox",
+        "amount": 570,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 285,
+    "title": "TYSM",
+    "url": "https://farcaster.xyz/miniapps/nUvYVEakjfKm/tysm",
+    "winner": "",
+    "totalBidUSD": 734,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:tysm",
+    "favicon": "https://tysm1.vercel.app/icon.png",
+    "date": "2025-12-16",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 284,
+    "title": "Bankr - Your Friendly AI-Powered Crypto Banker",
+    "url": "https://bankr.bot",
+    "winner": "+1 others",
+    "totalBidUSD": 876,
+    "domain": "bankr.bot",
+    "projectKey": "bankr.bot",
+    "favicon": "https://bankr.bot/pwa-icon-192.png",
+    "date": "2025-12-15",
+    "contributors": [
+      {
+        "address": "+1 others",
+        "amount": 876,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 283,
+    "title": "Howlers",
+    "url": "https://farcaster.xyz/miniapps/yBlGKitosGjY/howlers",
+    "winner": "",
+    "totalBidUSD": 400,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:howlers",
+    "favicon": "https://howlers.vercel.app/icon_how2.png",
+    "date": "2025-12-14",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 282,
+    "title": "Howlers",
+    "url": "https://farcaster.xyz/miniapps/yBlGKitosGjY/howlers",
+    "winner": "",
+    "totalBidUSD": 385,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:howlers",
+    "favicon": "https://howlers.vercel.app/icon_how2.png",
+    "date": "2025-12-13",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 281,
+    "title": "$EGGS",
+    "url": "https://farcaster.xyz/miniapps/Qqjy9efZ-1Qu/eggs",
+    "winner": "+171 others",
+    "totalBidUSD": 3573,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:eggs",
+    "favicon": "https://eggs.name/frames/logo.png",
+    "date": "2025-12-12",
+    "contributors": [
+      {
+        "address": "+171 others",
+        "amount": 3573,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 280,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0x2a0F410422951F53CD2F3E9F6d0f29FccB1426E9",
+    "winner": "@scanqrbase.eth",
+    "totalBidUSD": 444,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0x2a0f410422",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-12-11",
+    "contributors": [
+      {
+        "address": "@scanqrbase.eth",
+        "amount": 444,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 279,
+    "title": "Other ETH",
+    "url": "https://farcaster.xyz/miniapps/fnWIijESdvRN/other-eth",
+    "winner": "",
+    "totalBidUSD": 676,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:other-eth",
+    "favicon": "https://oeth.app/icon.png",
+    "date": "2025-12-10",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 278,
+    "title": "NEYNARtodes",
+    "url": "https://farcaster.xyz/miniapps/uaKwcOvUry8F/neynartodes",
+    "winner": "",
+    "totalBidUSD": 505,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:neynartodes",
+    "favicon": "https://frame-opal-eight.vercel.app/neynartode-sticker.png",
+    "date": "2025-12-09",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 277,
+    "title": "$QR",
+    "url": "https://farcaster.xyz/miniapps/cmHEZhAwO_dW/qr",
+    "winner": "@blockx",
+    "totalBidUSD": 362,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:qr",
+    "favicon": "https://qrcoin.fun/qrLogo.png",
+    "date": "2025-12-08",
+    "contributors": [
+      {
+        "address": "@blockx",
+        "amount": 362,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 276,
+    "title": "@scanqrbase.eth's cast",
+    "url": "https://farcaster.xyz/scanqrbase.eth/0x58fdc9d1",
+    "winner": "@ScanQRBase",
+    "totalBidUSD": 1111,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:scanqrbase.eth",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f006efd2-c50a-4743-601e-5f2f897ec200/original",
+    "date": "2025-12-07",
+    "contributors": [
+      {
+        "address": "@ScanQRBase",
+        "amount": 1111,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 275,
+    "title": "Peeples Donuts",
+    "url": "https://farcaster.xyz/miniapps/OBSXNsOaGYv1/peeples-donuts",
+    "winner": "+1 others",
+    "totalBidUSD": 660,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:peeples-donuts",
+    "favicon": "https://peeplesdonuts.com/media/peeples_donuts.png",
+    "date": "2025-12-06",
+    "contributors": [
+      {
+        "address": "+1 others",
+        "amount": 660,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 274,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0x2a0f410422951f53cd2f3e9f6d0f29fccb1426e9",
+    "winner": "",
+    "totalBidUSD": 1333,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0x2a0f410422",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-12-05",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 273,
+    "title": "@starl3xx.eth's cast",
+    "url": "https://farcaster.xyz/starl3xx.eth/0xd0c7a045",
+    "winner": "@starl3xx.eth",
+    "totalBidUSD": 325,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:starl3xx.eth",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/93c6223a-2df9-4411-7750-c9fb21cfa400/original",
+    "date": "2025-12-04",
+    "contributors": [
+      {
+        "address": "@starl3xx.eth",
+        "amount": 325,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 272,
+    "title": "QRbase",
+    "url": "https://farcaster.xyz/miniapps/pSTSE9GDxQA7/qrbase?path=/fast-mode",
+    "winner": "",
+    "totalBidUSD": 555,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:qrbase",
+    "favicon": "https://www.qrbase.xyz/icon.png",
+    "date": "2025-12-03",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 271,
+    "title": "unflat",
+    "url": "https://farcaster.xyz/miniapps/Pc4mqNrBe03E/x-quo",
+    "winner": "@alevenox",
+    "totalBidUSD": 334,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:x-quo",
+    "favicon": "https://x-quo.app/icon.png",
+    "date": "2025-12-02",
+    "contributors": [
+      {
+        "address": "@alevenox",
+        "amount": 334,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 270,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0x2a0f410422951f53cd2f3e9f6d0f29fccb1426e9",
+    "winner": "",
+    "totalBidUSD": 300,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0x2a0f410422",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-12-01",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 269,
+    "title": "netnetprotocol.app",
+    "url": "https://Netnetprotocol.app/app/profile/base/0xEeFdd3379c7Ba3A6A67b63e21476c49ACEC18916",
+    "winner": "@flanneldonut",
+    "totalBidUSD": 305,
+    "domain": "netnetprotocol.app",
+    "projectKey": "netnetprotocol.app",
+    "favicon": "https://www.google.com/s2/favicons?domain=netnetprotocol.app&sz=64",
+    "date": "2025-11-30",
+    "contributors": [
+      {
+        "address": "@flanneldonut",
+        "amount": 305,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 268,
+    "title": "Farpixel Cats Minter Online",
+    "url": "https://farcaster.xyz/miniapps/9OxRZU1Osxp2/farpixel-cats-minter-online",
+    "winner": "",
+    "totalBidUSD": 293,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:farpixel-cats-minter-online",
+    "favicon": "https://farcaster.xyz/og-logo-v3.png",
+    "date": "2025-11-29",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 267,
+    "title": "unflat",
+    "url": "https://farcaster.xyz/miniapps/Pc4mqNrBe03E/x-quo",
+    "winner": "",
+    "totalBidUSD": 311,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:x-quo",
+    "favicon": "https://x-quo.app/icon.png",
+    "date": "2025-11-28",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 266,
+    "title": "geckoterminal",
+    "url": "https://geckoterminal.com/monad/pools/0xd2e649c17a0b56dd3167487b6613c836c90f86e276c97fb25953a4e34e690c82",
+    "winner": "+1 others",
+    "totalBidUSD": 370,
+    "domain": "geckoterminal.com",
+    "projectKey": "geckoterminal.com",
+    "favicon": "https://www.google.com/s2/favicons?domain=geckoterminal.com&sz=64",
+    "date": "2025-11-27",
+    "contributors": [
+      {
+        "address": "+1 others",
+        "amount": 370,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 265,
+    "title": "GBM Auction",
+    "url": "https://gbm.auction",
+    "winner": "@GBMauction",
+    "totalBidUSD": 820,
+    "domain": "gbm.auction",
+    "projectKey": "gbm.auction",
+    "favicon": "https://cdn.prod.website-files.com/6888c641f356197dbab74cdb/6895c792e19029415ca14e52_web2-webclip.jpg",
+    "date": "2025-11-26",
+    "contributors": [
+      {
+        "address": "@GBMauction",
+        "amount": 820,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 264,
+    "title": "GBM Auction",
+    "url": "https://gbm.auction",
+    "winner": "@GBMauction",
+    "totalBidUSD": 500,
+    "domain": "gbm.auction",
+    "projectKey": "gbm.auction",
+    "favicon": "https://cdn.prod.website-files.com/6888c641f356197dbab74cdb/6895c792e19029415ca14e52_web2-webclip.jpg",
+    "date": "2025-11-25",
+    "contributors": [
+      {
+        "address": "@GBMauction",
+        "amount": 500,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 263,
+    "title": "GBM Auction",
+    "url": "https://gbm.auction",
+    "winner": "@GBMauction",
+    "totalBidUSD": 1169,
+    "domain": "gbm.auction",
+    "projectKey": "gbm.auction",
+    "favicon": "https://cdn.prod.website-files.com/6888c641f356197dbab74cdb/6895c792e19029415ca14e52_web2-webclip.jpg",
+    "date": "2025-11-24",
+    "contributors": [
+      {
+        "address": "@GBMauction",
+        "amount": 1169,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 262,
+    "title": "Farpixel Cats Minter Online",
+    "url": "https://farcaster.xyz/miniapps/9OxRZU1Osxp2/farpixel-cats-minter-online",
+    "winner": "",
+    "totalBidUSD": 338,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:farpixel-cats-minter-online",
+    "favicon": "https://farcaster.xyz/og-logo-v3.png",
+    "date": "2025-11-23",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 261,
+    "title": "Higher Market",
+    "url": "https://highermarket.xyz",
+    "winner": "",
+    "totalBidUSD": 402,
+    "domain": "highermarket.xyz",
+    "projectKey": "highermarket.xyz",
+    "favicon": "https://highermarket.xyz/assets/favicon.ico",
+    "date": "2025-11-22",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 260,
+    "title": "beeperbeep.works",
+    "url": "https://Beeperbeep.works/app",
+    "winner": "",
+    "totalBidUSD": 410,
+    "domain": "beeperbeep.works",
+    "projectKey": "beeperbeep.works",
+    "favicon": "https://www.google.com/s2/favicons?domain=beeperbeep.works&sz=64",
+    "date": "2025-11-21",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 259,
+    "title": "Hypesino",
+    "url": "https://farcaster.xyz/miniapps/nj7AMLCDK05_/hypesino",
+    "winner": "@alec.eth",
+    "totalBidUSD": 310,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:hypesino",
+    "favicon": "https://vrf-frontend-alpha.vercel.app/hypesino_logo.png",
+    "date": "2025-11-20",
+    "contributors": [
+      {
+        "address": "@alec.eth",
+        "amount": 310,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 258,
+    "title": "@vocast's cast",
+    "url": "https://farcaster.xyz/vocast/0xb6f0fd6a",
+    "winner": "",
+    "totalBidUSD": 306,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:vocast",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dbc48ff7-c677-4242-3436-48b5b2bdc300/original",
+    "date": "2025-11-19",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 257,
+    "title": "404: NOT_FOUND",
+    "url": "https://farcaster.xyz/miniapps/aQ9nULJBBFTm/newclankwhodis",
+    "winner": "@newclankwhodis",
+    "totalBidUSD": 330,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:newclankwhodis",
+    "favicon": "https://farcaster.xyz/og-logo-v3.png",
+    "date": "2025-11-18",
+    "contributors": [
+      {
+        "address": "@newclankwhodis",
+        "amount": 330,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 256,
+    "title": "Minted Merch",
+    "url": "https://farcaster.xyz/miniapps/1rQnrU1XOZie/minted-merch",
+    "winner": "+4 others",
+    "totalBidUSD": 456,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:minted-merch",
+    "favicon": "https://app.mintedmerch.shop/logo.png",
+    "date": "2025-11-17",
+    "contributors": [
+      {
+        "address": "+4 others",
+        "amount": 456,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 255,
+    "title": "Zora",
+    "url": "https://zora.co/",
+    "winner": "@seeingblue",
+    "totalBidUSD": 273,
+    "domain": "zora.co",
+    "projectKey": "zora.co",
+    "favicon": "https://zora.co/assets/favicon/apple-touch-icon.png",
+    "date": "2025-11-16",
+    "contributors": [
+      {
+        "address": "@seeingblue",
+        "amount": 273,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 254,
+    "title": "QRBase -$",
+    "url": "https://SCANqrbase.xyz/fast-mode",
+    "winner": "@ScanQRBase",
+    "totalBidUSD": 333,
+    "domain": "scanqrbase.xyz",
+    "projectKey": "scanqrbase.xyz",
+    "favicon": "https://www.google.com/s2/favicons?domain=scanqrbase.xyz&sz=64",
+    "date": "2025-11-15",
+    "contributors": [
+      {
+        "address": "@ScanQRBase",
+        "amount": 333,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 253,
+    "title": "@vocast's cast",
+    "url": "https://farcaster.xyz/vocast/0x801fd74b",
+    "winner": "@vocast",
+    "totalBidUSD": 305,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:vocast",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dbc48ff7-c677-4242-3436-48b5b2bdc300/original",
+    "date": "2025-11-14",
+    "contributors": [
+      {
+        "address": "@vocast",
+        "amount": 305,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 252,
+    "title": "@sahil's cast",
+    "url": "https://farcaster.xyz/sahil/0x1110f84a",
+    "winner": "",
+    "totalBidUSD": 386,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:sahil",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1d7b15c6-2848-483f-1f74-9efef0ebeb00/original",
+    "date": "2025-11-13",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 251,
+    "title": "@regent's cast",
+    "url": "https://farcaster.xyz/regent/0xff499bbc",
+    "winner": "",
+    "totalBidUSD": 450,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:regent",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/1d7e5a9a-9be9-47ee-0525-7413f12dab00/original",
+    "date": "2025-11-12",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 250,
+    "title": "GlazeCorp",
+    "url": "https://farcaster.xyz/miniapps/fOIgVq2bFKru/glazecorp",
+    "winner": "",
+    "totalBidUSD": 650,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:glazecorp",
+    "favicon": "https://glazecorp.vercel.app/media/icon.png",
+    "date": "2025-11-11",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 249,
+    "title": "Hypesino",
+    "url": "https://farcaster.xyz/miniapps/nj7AMLCDK05_/hypesino",
+    "winner": "@alec.eth",
+    "totalBidUSD": 538,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:hypesino",
+    "favicon": "https://vrf-frontend-alpha.vercel.app/hypesino_logo.png",
+    "date": "2025-11-10",
+    "contributors": [
+      {
+        "address": "@alec.eth",
+        "amount": 538,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 248,
+    "title": "Hypesino",
+    "url": "https://farcaster.xyz/miniapps/nj7AMLCDK05_/hypesino",
+    "winner": "@alec.eth",
+    "totalBidUSD": 315,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:hypesino",
+    "favicon": "https://vrf-frontend-alpha.vercel.app/hypesino_logo.png",
+    "date": "2025-11-09",
+    "contributors": [
+      {
+        "address": "@alec.eth",
+        "amount": 315,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 247,
+    "title": "PICKEM - NFL Pick&#x27;em Game",
+    "url": "https://pickemgame.app",
+    "winner": "@frensHouse",
+    "totalBidUSD": 300,
+    "domain": "pickemgame.app",
+    "projectKey": "pickemgame.app",
+    "favicon": "https://pickemgame.app/favicon.ico",
+    "date": "2025-11-08",
+    "contributors": [
+      {
+        "address": "@frensHouse",
+        "amount": 300,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 246,
+    "title": "REP",
+    "url": "https://farcaster.xyz/miniapps/4eKV9rQmIeAQ/rep",
+    "winner": "@rep-hq",
+    "totalBidUSD": 411,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:rep",
+    "favicon": "https://app.r3p.xyz/img/icon.png",
+    "date": "2025-11-07",
+    "contributors": [
+      {
+        "address": "@rep-hq",
+        "amount": 411,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 245,
+    "title": "@starl3xx.eth's cast",
+    "url": "https://farcaster.xyz/starl3xx.eth/0x0b4892f4",
+    "winner": "+86 others",
+    "totalBidUSD": 12261,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:starl3xx.eth",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/93c6223a-2df9-4411-7750-c9fb21cfa400/original",
+    "date": "2025-11-06",
+    "contributors": [
+      {
+        "address": "+86 others",
+        "amount": 12261,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 244,
+    "title": "@neet_sol's tweet",
+    "url": "https://x.com/neet_sol/status/1985048281949299177",
+    "winner": "@theneetguy",
+    "totalBidUSD": 300,
+    "domain": "x.com",
+    "projectKey": "x-account:neet_sol",
+    "favicon": "https://unavatar.io/twitter/neet_sol",
+    "date": "2025-11-05",
+    "contributors": [
+      {
+        "address": "@theneetguy",
+        "amount": 300,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 243,
+    "title": "@wydeorg's tweet",
+    "url": "https://x.com/wydeorg/status/1985480001618428209",
+    "winner": "@wydeorg",
+    "totalBidUSD": 403,
+    "domain": "x.com",
+    "projectKey": "x-account:wydeorg",
+    "favicon": "https://pbs.twimg.com/profile_images/1980490088917168128/83dvXq4d_400x400.jpg",
+    "date": "2025-11-04",
+    "contributors": [
+      {
+        "address": "@wydeorg",
+        "amount": 403,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 242,
+    "title": "farcaster",
+    "url": "https://farcaster.xyz/miniapps/Uuwx_-3CSz_y/creeper",
+    "winner": "@blockcreeper",
+    "totalBidUSD": 900,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:creeper",
+    "favicon": "https://farcaster.xyz/favicon.ico",
+    "date": "2025-11-03",
+    "contributors": [
+      {
+        "address": "@blockcreeper",
+        "amount": 900,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 241,
+    "title": "a0a0.design",
+    "url": "https://a0a0.design/red",
+    "winner": "",
+    "totalBidUSD": 331,
+    "domain": "a0a0.design",
+    "projectKey": "a0a0.design",
+    "favicon": "https://www.google.com/s2/favicons?domain=a0a0.design&sz=64",
+    "date": "2025-11-02",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 240,
+    "title": "@PubhouseXYZ's tweet",
+    "url": "https://x.com/PubhouseXYZ/status/1984315251601653986",
+    "winner": "@pita",
+    "totalBidUSD": 470,
+    "domain": "x.com",
+    "projectKey": "x-account:pubhousexyz",
+    "favicon": "https://unavatar.io/twitter/PubhouseXYZ",
+    "date": "2025-11-01",
+    "contributors": [
+      {
+        "address": "@pita",
+        "amount": 470,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 239,
+    "title": "Megaphone",
+    "url": "https://farcaster.xyz/miniapps/8a3bQEQSKgNN/megaphone",
+    "winner": "",
+    "totalBidUSD": 251,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:megaphone",
+    "favicon": "https://0xmegaphone.com/favicon-1024.jpg",
+    "date": "2025-10-31",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 238,
+    "title": "@whatthefirkin's tweet",
+    "url": "https://x.com/whatthefirkin/status/1983650056386572372?s=46",
+    "winner": "",
+    "totalBidUSD": 606,
+    "domain": "x.com",
+    "projectKey": "x-account:whatthefirkin",
+    "favicon": "https://unavatar.io/twitter/whatthefirkin",
+    "date": "2025-10-30",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 237,
+    "title": "@collectr's cast",
+    "url": "https://farcaster.xyz/collectr/0x5af80e24",
+    "winner": "@kiwi-eth",
+    "totalBidUSD": 467,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:collectr",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8dcf8608-9b42-496b-f9b9-e7acc30ef300/original",
+    "date": "2025-10-29",
+    "contributors": [
+      {
+        "address": "@kiwi-eth",
+        "amount": 467,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 236,
+    "title": "@faircaster on X",
+    "url": "https://x.com/faircaster",
+    "winner": "",
+    "totalBidUSD": 616,
+    "domain": "x.com",
+    "projectKey": "x-account:faircaster",
+    "favicon": "https://unavatar.io/twitter/faircaster",
+    "date": "2025-10-28",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 235,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0x53932cbd6cddbb907ce1bb108496c7bd8aaa5dce",
+    "winner": "+1 others",
+    "totalBidUSD": 2519,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0x53932cbd6c",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-10-27",
+    "contributors": [
+      {
+        "address": "+1 others",
+        "amount": 2519,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 234,
+    "title": "@noiceagent on X",
+    "url": "https://x.com/noiceagent",
+    "winner": "",
+    "totalBidUSD": 888,
+    "domain": "x.com",
+    "projectKey": "x-account:noiceagent",
+    "favicon": "https://unavatar.io/twitter/noiceagent",
+    "date": "2025-10-26",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 233,
+    "title": "@noiceagent on X",
+    "url": "https://x.com/noiceagent",
+    "winner": "",
+    "totalBidUSD": 600,
+    "domain": "x.com",
+    "projectKey": "x-account:noiceagent",
+    "favicon": "https://unavatar.io/twitter/noiceagent",
+    "date": "2025-10-25",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 232,
+    "title": "Hypesino",
+    "url": "https://farcaster.xyz/miniapps/nj7AMLCDK05_/hypesino",
+    "winner": "@alec.eth",
+    "totalBidUSD": 321,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:hypesino",
+    "favicon": "https://vrf-frontend-alpha.vercel.app/hypesino_logo.png",
+    "date": "2025-10-24",
+    "contributors": [
+      {
+        "address": "@alec.eth",
+        "amount": 321,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 231,
+    "title": "Hypesino",
+    "url": "https://farcaster.xyz/miniapps/nj7AMLCDK05_/hypesino",
+    "winner": "@alec.eth",
+    "totalBidUSD": 370,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:hypesino",
+    "favicon": "https://vrf-frontend-alpha.vercel.app/hypesino_logo.png",
+    "date": "2025-10-23",
+    "contributors": [
+      {
+        "address": "@alec.eth",
+        "amount": 370,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 230,
+    "title": "@skycastletokens on X",
+    "url": "https://x.com/skycastletokens?s=21",
+    "winner": "@itsbasil",
+    "totalBidUSD": 275,
+    "domain": "x.com",
+    "projectKey": "x-account:skycastletokens",
+    "favicon": "https://unavatar.io/twitter/skycastletokens",
+    "date": "2025-10-22",
+    "contributors": [
+      {
+        "address": "@itsbasil",
+        "amount": 275,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 229,
+    "title": "Hypesino",
+    "url": "https://farcaster.xyz/miniapps/nj7AMLCDK05_/hypesino",
+    "winner": "",
+    "totalBidUSD": 330,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:hypesino",
+    "favicon": "https://vrf-frontend-alpha.vercel.app/hypesino_logo.png",
+    "date": "2025-10-21",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 228,
+    "title": "@iamtheoneapp.eth on Farcaster",
+    "url": "https://farcaster.xyz/iamtheoneapp.eth",
+    "winner": "@iamtheoneapp.eth",
+    "totalBidUSD": 450,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-user:iamtheoneapp.eth",
+    "favicon": "",
+    "date": "2025-10-20",
+    "contributors": [
+      {
+        "address": "@iamtheoneapp.eth",
+        "amount": 450,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 227,
+    "title": "Signet",
+    "url": "https://farcaster.xyz/miniapps/RkN8wr33nYAz/signet",
+    "winner": "+4 others",
+    "totalBidUSD": 270,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:signet",
+    "favicon": "https://signet.sebayaki.com/signet.png",
+    "date": "2025-10-19",
+    "contributors": [
+      {
+        "address": "+4 others",
+        "amount": 270,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 226,
+    "title": "Emerge",
+    "url": "https://farcaster.xyz/miniapps/pmZbrBBIA6wT/emerge",
+    "winner": "",
+    "totalBidUSD": 241,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:emerge",
+    "favicon": "https://emerge-mini-app.vercel.app/logo.webp",
+    "date": "2025-10-18",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 225,
+    "title": "@clearlyrepute's tweet",
+    "url": "https://x.com/clearlyrepute/status/1978864809329451386",
+    "winner": "@clearlyrepute",
+    "totalBidUSD": 250,
+    "domain": "x.com",
+    "projectKey": "x-account:clearlyrepute",
+    "favicon": "https://pbs.twimg.com/profile_images/1976315117185945600/a1T9aHGt_400x400.jpg",
+    "date": "2025-10-17",
+    "contributors": [
+      {
+        "address": "@clearlyrepute",
+        "amount": 250,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 224,
+    "title": "@lior's cast",
+    "url": "https://farcaster.xyz/lior/0x8ee4a56e",
+    "winner": "@productclank",
+    "totalBidUSD": 330,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:lior",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f2641cdd-906e-4cdd-ca3e-845ae2dfc900/original",
+    "date": "2025-10-16",
+    "contributors": [
+      {
+        "address": "@productclank",
+        "amount": 330,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 223,
+    "title": "codyf.co",
+    "url": "https://CODYf.co",
+    "winner": "@codygame",
+    "totalBidUSD": 270,
+    "domain": "codyf.co",
+    "projectKey": "codyf.co",
+    "favicon": "https://www.google.com/s2/favicons?domain=codyf.co&sz=64",
+    "date": "2025-10-15",
+    "contributors": [
+      {
+        "address": "@codygame",
+        "amount": 270,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 222,
+    "title": "404: NOT_FOUND",
+    "url": "https://farcaster.xyz/miniapps/FaAL7QdAofGO/take0ver-tv",
+    "winner": "",
+    "totalBidUSD": 251,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:take0ver-tv",
+    "favicon": "https://farcaster.xyz/og-logo-v3.png",
+    "date": "2025-10-14",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 221,
+    "title": "HashHorse - Mini",
+    "url": "https://Apphash.horse/miniapp",
+    "winner": "",
+    "totalBidUSD": 300,
+    "domain": "apphash.horse",
+    "projectKey": "apphash.horse",
+    "favicon": "https://www.google.com/s2/favicons?domain=apphash.horse&sz=64",
+    "date": "2025-10-13",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 220,
+    "title": "@songcastxyz on X",
+    "url": "https://x.com/songcastxyz",
+    "winner": "@dabus.eth",
+    "totalBidUSD": 321,
+    "domain": "x.com",
+    "projectKey": "x-account:songcastxyz",
+    "favicon": "https://unavatar.io/twitter/songcastxyz",
+    "date": "2025-10-12",
+    "contributors": [
+      {
+        "address": "@dabus.eth",
+        "amount": 321,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 219,
+    "title": "PICKEM",
+    "url": "https://farcaster.xyz/miniapps/35a8KZnAKGv9/pickem",
+    "winner": "@frensHouse",
+    "totalBidUSD": 420,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:pickem",
+    "favicon": "https://pickemgame.app/icon.png",
+    "date": "2025-10-11",
+    "contributors": [
+      {
+        "address": "@frensHouse",
+        "amount": 420,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 218,
+    "title": "POLICAST",
+    "url": "https://farcaster.xyz/miniapps/SHnAJj9vutAc/policast",
+    "winner": "@javabu.eth",
+    "totalBidUSD": 440,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:policast",
+    "favicon": "https://buster-mkt.vercel.app/icon2.jpg",
+    "date": "2025-10-10",
+    "contributors": [
+      {
+        "address": "@javabu.eth",
+        "amount": 440,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 217,
+    "title": "@GoatTradingDex's tweet",
+    "url": "https://x.com/GoatTradingDex/status/1976310394990784912",
+    "winner": "@GoatTradingDex",
+    "totalBidUSD": 450,
+    "domain": "x.com",
+    "projectKey": "x-account:goattradingdex",
+    "favicon": "https://pbs.twimg.com/profile_images/1764821648484794368/bJG12bQT_400x400.jpg",
+    "date": "2025-10-09",
+    "contributors": [
+      {
+        "address": "@GoatTradingDex",
+        "amount": 450,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 216,
+    "title": "HashHorse",
+    "url": "https://farcaster.xyz/miniapps/fN556fxhC7ti/hashhorse",
+    "winner": "@GoatTradingDex",
+    "totalBidUSD": 416,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:hashhorse",
+    "favicon": "https://hash.horse/logo_icon.png",
+    "date": "2025-10-08",
+    "contributors": [
+      {
+        "address": "@GoatTradingDex",
+        "amount": 416,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 215,
+    "title": "@STORMEcoin on X",
+    "url": "https://x.com/STORMEcoin",
+    "winner": "",
+    "totalBidUSD": 287,
+    "domain": "x.com",
+    "projectKey": "x-account:stormecoin",
+    "favicon": "https://unavatar.io/twitter/STORMEcoin",
+    "date": "2025-10-07",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 214,
+    "title": "@zxbt_labs's tweet",
+    "url": "https://x.com/zxbt_labs/status/1975216375774765169",
+    "winner": "@zxbt_labs",
+    "totalBidUSD": 1380,
+    "domain": "x.com",
+    "projectKey": "x-account:zxbt_labs",
+    "favicon": "https://pbs.twimg.com/profile_images/1968750129495564288/zNIfaWMA_400x400.jpg",
+    "date": "2025-10-06",
+    "contributors": [
+      {
+        "address": "@zxbt_labs",
+        "amount": 1380,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 213,
+    "title": "PunkStrategy™",
+    "url": "https://punkstrategy.fun/app",
+    "winner": "",
+    "totalBidUSD": 288,
+    "domain": "punkstrategy.fun",
+    "projectKey": "punkstrategy.fun",
+    "favicon": "https://punkstrategy.fun/punks/punk3017.png",
+    "date": "2025-10-05",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 212,
+    "title": "@helloworld_base on X",
+    "url": "https://x.com/helloworld_base",
+    "winner": "",
+    "totalBidUSD": 334,
+    "domain": "x.com",
+    "projectKey": "x-account:helloworld_base",
+    "favicon": "https://unavatar.io/twitter/helloworld_base",
+    "date": "2025-10-04",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 211,
+    "title": "HashHorse",
+    "url": "https://farcaster.xyz/miniapps/fN556fxhC7ti/hashhorse",
+    "winner": "@GoatTradingDex",
+    "totalBidUSD": 475,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:hashhorse",
+    "favicon": "https://hash.horse/logo_icon.png",
+    "date": "2025-10-03",
+    "contributors": [
+      {
+        "address": "@GoatTradingDex",
+        "amount": 475,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 210,
+    "title": "Minted Merch",
+    "url": "https://farcaster.xyz/miniapps/1rQnrU1XOZie/minted-merch",
+    "winner": "",
+    "totalBidUSD": 667,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:minted-merch",
+    "favicon": "https://app.mintedmerch.shop/logo.png",
+    "date": "2025-10-02",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 209,
+    "title": "@collectr's cast",
+    "url": "https://farcaster.xyz/collectr/0x95aa9a14",
+    "winner": "",
+    "totalBidUSD": 1275,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:collectr",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/8dcf8608-9b42-496b-f9b9-e7acc30ef300/original",
+    "date": "2025-10-01",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 208,
+    "title": "nodenodefoundation.com",
+    "url": "https://NODEnodefoundation.com",
+    "winner": "",
+    "totalBidUSD": 622,
+    "domain": "nodenodefoundation.com",
+    "projectKey": "nodenodefoundation.com",
+    "favicon": "https://www.google.com/s2/favicons?domain=nodenodefoundation.com&sz=64",
+    "date": "2025-09-30",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 207,
+    "title": "@firkin.eth's cast",
+    "url": "https://farcaster.xyz/firkin.eth/0x8c0570e4",
+    "winner": "+1 others",
+    "totalBidUSD": 361,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:firkin.eth",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0b71ffb2-59e4-4ab6-3836-aaed3e918d00/original",
+    "date": "2025-09-29",
+    "contributors": [
+      {
+        "address": "+1 others",
+        "amount": 361,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 206,
+    "title": "codyf.co",
+    "url": "https://CODYf.co",
+    "winner": "",
+    "totalBidUSD": 274,
+    "domain": "codyf.co",
+    "projectKey": "codyf.co",
+    "favicon": "https://www.google.com/s2/favicons?domain=codyf.co&sz=64",
+    "date": "2025-09-28",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 205,
+    "title": "@fromtiktok's cast",
+    "url": "https://farcaster.xyz/fromtiktok/0x469e3706",
+    "winner": "+96 others",
+    "totalBidUSD": 476,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:fromtiktok",
+    "favicon": "",
+    "date": "2025-09-27",
+    "contributors": [
+      {
+        "address": "+96 others",
+        "amount": 476,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 204,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0x0f4a85526e8b27b71c8d26a129d79ee4454d9c40dc1f5a5852845224a58158cc",
+    "winner": "@atown",
+    "totalBidUSD": 222,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0x0f4a85526e",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-09-26",
+    "contributors": [
+      {
+        "address": "@atown",
+        "amount": 222,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 203,
+    "title": "@reserveprotocol's tweet",
+    "url": "https://x.com/reserveprotocol/status/1970846191127547907",
+    "winner": "",
+    "totalBidUSD": 525,
+    "domain": "x.com",
+    "projectKey": "x-account:reserveprotocol",
+    "favicon": "https://pbs.twimg.com/profile_images/1904558510601273344/O9MElJpi_400x400.jpg",
+    "date": "2025-09-25",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 202,
+    "title": "@playminiapp's tweet",
+    "url": "https://x.com/playminiapp/status/1970550177326121050",
+    "winner": "",
+    "totalBidUSD": 492,
+    "domain": "x.com",
+    "projectKey": "x-account:playminiapp",
+    "favicon": "https://unavatar.io/twitter/playminiapp",
+    "date": "2025-09-24",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 201,
+    "title": "Native • Chat, Play, Earn",
+    "url": "https://native.fun",
+    "winner": "+1 others",
+    "totalBidUSD": 365,
+    "domain": "native.fun",
+    "projectKey": "native.fun",
+    "favicon": "https://native.fun/apple-icon.png?d38e0d8a69d0c40f",
+    "date": "2025-09-23",
+    "contributors": [
+      {
+        "address": "+1 others",
+        "amount": 365,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 200,
+    "title": "MintedMerch - Where…coin.",
+    "url": "https://mintedmerch.sh",
+    "winner": "+6 others",
+    "totalBidUSD": 343,
+    "domain": "mintedmerch.sh",
+    "projectKey": "mintedmerch.sh",
+    "favicon": "https://www.google.com/s2/favicons?domain=mintedmerch.sh&sz=64",
+    "date": "2025-09-22",
+    "contributors": [
+      {
+        "address": "+6 others",
+        "amount": 343,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 199,
+    "title": "PoolFans - Onchain …pool.fans+14 others",
+    "url": "",
+    "winner": "",
+    "totalBidUSD": 367,
+    "domain": "",
+    "projectKey": "",
+    "favicon": "",
+    "date": "2025-09-21",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 198,
+    "title": "emergetryemerge.xyz",
+    "url": "https://Emergetryemerge.xyz/launch",
+    "winner": "",
+    "totalBidUSD": 541,
+    "domain": "emergetryemerge.xyz",
+    "projectKey": "emergetryemerge.xyz",
+    "favicon": "https://www.google.com/s2/favicons?domain=emergetryemerge.xyz&sz=64",
+    "date": "2025-09-20",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 197,
+    "title": "ShapeShift",
+    "url": "https://DAOapp.sh",
+    "winner": "@hpayne_writer",
+    "totalBidUSD": 650,
+    "domain": "daoapp.sh",
+    "projectKey": "daoapp.sh",
+    "favicon": "https://www.google.com/s2/favicons?domain=daoapp.sh&sz=64",
+    "date": "2025-09-19",
+    "contributors": [
+      {
+        "address": "@hpayne_writer",
+        "amount": 650,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 196,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/solana/96tpukyw1uapjg5eocyssopuu1bhq1hosmqdoarhpump",
+    "winner": "",
+    "totalBidUSD": 715,
+    "domain": "dexscreener.com",
+    "projectKey": "dex-sol:96tpukyw1u",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-09-18",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 195,
+    "title": "Buy BASE DISK ($BSDSK) on vibe.market",
+    "url": "https://vibechain.com/market/base-disk?ref=AMLY4BKTRR4R",
+    "winner": "",
+    "totalBidUSD": 472,
+    "domain": "vibechain.com",
+    "projectKey": "vibechain.com",
+    "favicon": "https://vibechain.com/vibemarket/assets/logo/favicon.ico",
+    "date": "2025-09-17",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 194,
+    "title": "Pigeon—Your AI quant for infinite markets",
+    "url": "https://pigeon.trade",
+    "winner": "+1 others",
+    "totalBidUSD": 1058,
+    "domain": "pigeon.trade",
+    "projectKey": "pigeon.trade",
+    "favicon": "https://pigeon.trade/favicon/apple-touch-icon.png",
+    "date": "2025-09-16",
+    "contributors": [
+      {
+        "address": "+1 others",
+        "amount": 1058,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 193,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xd7e82c10269ce007050f0d12706ba4e355ac670e91b952aa584f2990a3742222",
+    "winner": "",
+    "totalBidUSD": 2222,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xd7e82c1026",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-09-15",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 192,
+    "title": "Memetic Signal Protocol - Tokens MC Prediction Reputation System",
+    "url": "https://memeticsignalprotocol.com",
+    "winner": "",
+    "totalBidUSD": 454,
+    "domain": "memeticsignalprotocol.com",
+    "projectKey": "memeticsignalprotocol.com",
+    "favicon": "https://memeticsignalprotocol.com/icon.png",
+    "date": "2025-09-14",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 191,
+    "title": "Buy “VIBENZA” ($“VBN) on vibe.market",
+    "url": "https://vibechain.com/market/vibenza",
+    "winner": "",
+    "totalBidUSD": 431,
+    "domain": "vibechain.com",
+    "projectKey": "vibechain.com",
+    "favicon": "https://vibechain.com/vibemarket/assets/logo/favicon.ico",
+    "date": "2025-09-13",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 190,
+    "title": "@STORMEcoin on X",
+    "url": "https://x.com/STORMEcoin",
+    "winner": "@STORMEcoin",
+    "totalBidUSD": 457,
+    "domain": "x.com",
+    "projectKey": "x-account:stormecoin",
+    "favicon": "https://unavatar.io/twitter/STORMEcoin",
+    "date": "2025-09-12",
+    "contributors": [
+      {
+        "address": "@STORMEcoin",
+        "amount": 457,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 189,
+    "title": "likes.fun",
+    "url": "https://likes.fun",
+    "winner": "",
+    "totalBidUSD": 777,
+    "domain": "likes.fun",
+    "projectKey": "likes.fun",
+    "favicon": "https://likes.fun/favicon.ico",
+    "date": "2025-09-11",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 188,
+    "title": "@theborklar's tweet",
+    "url": "https://x.com/theborklar/status/1965807393113260352?s=46&t=KFwdL1MonCbWLtvWIZq7PQ",
+    "winner": "@theborklar",
+    "totalBidUSD": 290,
+    "domain": "x.com",
+    "projectKey": "x-account:theborklar",
+    "favicon": "https://pbs.twimg.com/profile_images/2025920849652654081/ptKJpY3c_400x400.jpg",
+    "date": "2025-09-10",
+    "contributors": [
+      {
+        "address": "@theborklar",
+        "amount": 290,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 187,
+    "title": "Running Wild",
+    "url": "https://zora.co/coin/base:0xdd81728310ed6e9d83d9784b42d0910146aba22c?referrer=0x019b773872d1eb81b727ce7c56e7857f6ccedf00",
+    "winner": "@bondy.eth",
+    "totalBidUSD": 390,
+    "domain": "zora.co",
+    "projectKey": "zora-coin:0xdd817283",
+    "favicon": "https://zora.co/assets/favicon/apple-touch-icon.png",
+    "date": "2025-09-09",
+    "contributors": [
+      {
+        "address": "@bondy.eth",
+        "amount": 390,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 186,
+    "title": "Running Wild",
+    "url": "https://zora.co/coin/base:0xdd81728310ed6e9d83d9784b42d0910146aba22c?referrer=0x019b773872d1eb81b727ce7c56e7857f6ccedf00",
+    "winner": "",
+    "totalBidUSD": 297,
+    "domain": "zora.co",
+    "projectKey": "zora-coin:0xdd817283",
+    "favicon": "https://zora.co/assets/favicon/apple-touch-icon.png",
+    "date": "2025-09-08",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 185,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xe610ddc70eb7f2cff4a18d55b0cf0cef1f6e0f5f",
+    "winner": "",
+    "totalBidUSD": 300,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xe610ddc70e",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-09-07",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 184,
+    "title": "discography",
+    "url": "https://discography.arweave.net",
+    "winner": "@discman",
+    "totalBidUSD": 280,
+    "domain": "discography.arweave.net",
+    "projectKey": "discography.arweave.net",
+    "favicon": "https://www.google.com/s2/favicons?domain=discography.arweave.net&sz=64",
+    "date": "2025-09-06",
+    "contributors": [
+      {
+        "address": "@discman",
+        "amount": 280,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 183,
+    "title": "@asylum's cast",
+    "url": "https://farcaster.xyz/asylum/0xd03be7af",
+    "winner": "",
+    "totalBidUSD": 552,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:asylum",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/28127d2b-84d5-4a36-38fc-59bb2dcebf00/original",
+    "date": "2025-09-05",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 182,
+    "title": "trifle ♧",
+    "url": "https://trifle.life/lottery",
+    "winner": "",
+    "totalBidUSD": 485,
+    "domain": "trifle.life",
+    "projectKey": "trifle.life",
+    "favicon": "https://trifle.life/./assets/favicon.png",
+    "date": "2025-09-04",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 181,
+    "title": "Big Bang (BANG) | Clanker",
+    "url": "https://clanker.world/clanker/0x9039365E0d3d2Ec104DD85ac3533ADC92Af1fB07",
+    "winner": "@bigbangwheels.eth",
+    "totalBidUSD": 250,
+    "domain": "clanker.world",
+    "projectKey": "clanker.world",
+    "favicon": "https://clanker.world/favicon.ico?favicon.3510894c.ico",
+    "date": "2025-09-03",
+    "contributors": [
+      {
+        "address": "@bigbangwheels.eth",
+        "amount": 250,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 180,
+    "title": "@seedclubhq's tweet",
+    "url": "https://x.com/seedclubhq/status/1962881951414812979",
+    "winner": "@seedclubhq",
+    "totalBidUSD": 469,
+    "domain": "x.com",
+    "projectKey": "x-account:seedclubhq",
+    "favicon": "https://unavatar.io/twitter/seedclubhq",
+    "date": "2025-09-02",
+    "contributors": [
+      {
+        "address": "@seedclubhq",
+        "amount": 469,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 179,
+    "title": "Pubhouse | Shake on Anything",
+    "url": "https://pubhouse.xyz",
+    "winner": "",
+    "totalBidUSD": 300,
+    "domain": "pubhouse.xyz",
+    "projectKey": "pubhouse.xyz",
+    "favicon": "https://pubhouse.xyz/favicon.ico?favicon.6f55386a.ico",
+    "date": "2025-09-01",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 178,
+    "title": "Building Pays",
+    "url": "https://Offcreatorscore.app",
+    "winner": "",
+    "totalBidUSD": 456,
+    "domain": "offcreatorscore.app",
+    "projectKey": "offcreatorscore.app",
+    "favicon": "https://www.google.com/s2/favicons?domain=offcreatorscore.app&sz=64",
+    "date": "2025-08-31",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 177,
+    "title": "projectverdantprojectverdant.com",
+    "url": "https://projectverdantprojectverdant.com",
+    "winner": "@yarscript",
+    "totalBidUSD": 350,
+    "domain": "projectverdantprojectverdant.com",
+    "projectKey": "projectverdantprojectverdant.com",
+    "favicon": "https://www.google.com/s2/favicons?domain=projectverdantprojectverdant.com&sz=64",
+    "date": "2025-08-30",
+    "contributors": [
+      {
+        "address": "@yarscript",
+        "amount": 350,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 176,
+    "title": "Pet Rock Life",
+    "url": "https://farcaster.xyz/miniapps/REZhOpYYtK7f/pet-rock-life",
+    "winner": "+4 others",
+    "totalBidUSD": 470,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:pet-rock-life",
+    "favicon": "https://petrock.life/icon.png",
+    "date": "2025-08-29",
+    "contributors": [
+      {
+        "address": "+4 others",
+        "amount": 470,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 175,
+    "title": "Paragraph",
+    "url": "https://paragraph.com/",
+    "winner": "@readme",
+    "totalBidUSD": 203,
+    "domain": "paragraph.com",
+    "projectKey": "paragraph.com",
+    "favicon": "https://paragraph.com/apple-icon.png?apple-icon.d6766fee.png",
+    "date": "2025-08-28",
+    "contributors": [
+      {
+        "address": "@readme",
+        "amount": 203,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 174,
+    "title": "@dry_tortuga's tweet",
+    "url": "https://x.com/dry_tortuga/status/1960362023583367501",
+    "winner": "",
+    "totalBidUSD": 386,
+    "domain": "x.com",
+    "projectKey": "x-account:dry_tortuga",
+    "favicon": "https://unavatar.io/twitter/dry_tortuga",
+    "date": "2025-08-27",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 173,
+    "title": "@helloworld_base on X",
+    "url": "https://x.com/helloworld_base",
+    "winner": "@helloworld_base",
+    "totalBidUSD": 333,
+    "domain": "x.com",
+    "projectKey": "x-account:helloworld_base",
+    "favicon": "https://unavatar.io/twitter/helloworld_base",
+    "date": "2025-08-26",
+    "contributors": [
+      {
+        "address": "@helloworld_base",
+        "amount": 333,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 172,
+    "title": "@joincreatordao on X",
+    "url": "https://x.com/joincreatordao",
+    "winner": "@joincreatordao",
+    "totalBidUSD": 250,
+    "domain": "x.com",
+    "projectKey": "x-account:joincreatordao",
+    "favicon": "https://unavatar.io/twitter/joincreatordao",
+    "date": "2025-08-25",
+    "contributors": [
+      {
+        "address": "@joincreatordao",
+        "amount": 250,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 171,
+    "title": "Crypto Airdrop Checker - Check Any Wallet Address for Unclaimed Crypto Airdrops",
+    "url": "https://drops.bot/?r=QR",
+    "winner": "@DropsBotHQ",
+    "totalBidUSD": 370,
+    "domain": "drops.bot",
+    "projectKey": "drops.bot",
+    "favicon": "https://drops.bot/images/logos/app-icon-rounded.png",
+    "date": "2025-08-24",
+    "contributors": [
+      {
+        "address": "@DropsBotHQ",
+        "amount": 370,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 170,
+    "title": "Farcaster",
+    "url": "https://farcaster.xyz/~/compose",
+    "winner": "@JackDishman",
+    "totalBidUSD": 555,
+    "domain": "farcaster.xyz",
+    "projectKey": "farcaster.xyz",
+    "favicon": "https://farcaster.xyz/og-logo-v3.png",
+    "date": "2025-08-23",
+    "contributors": [
+      {
+        "address": "@JackDishman",
+        "amount": 555,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 169,
+    "title": "HashHorse",
+    "url": "https://farcaster.xyz/miniapps/fN556fxhC7ti/hashhorse",
+    "winner": "@GoatTradingDex",
+    "totalBidUSD": 520,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:hashhorse",
+    "favicon": "https://hash.horse/logo_icon.png",
+    "date": "2025-08-22",
+    "contributors": [
+      {
+        "address": "@GoatTradingDex",
+        "amount": 520,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 168,
+    "title": "@pita's cast",
+    "url": "https://farcaster.xyz/pita/0x3176c8e2",
+    "winner": "@pita",
+    "totalBidUSD": 699,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:pita",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85d094a5-f49d-405a-8a34-67d7dcde5700/original",
+    "date": "2025-08-21",
+    "contributors": [
+      {
+        "address": "@pita",
+        "amount": 699,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 167,
+    "title": "$BUTTHOLE – Weaponised Humiliation Protocol",
+    "url": "https://butthole.stream",
+    "winner": "",
+    "totalBidUSD": 666,
+    "domain": "butthole.stream",
+    "projectKey": "butthole.stream",
+    "favicon": "https://butthole.stream/apple-icon.png?f528023f11746969",
+    "date": "2025-08-20",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 166,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xe610ddc70eb7f2cff4a18d55b0cf0cef1f6e0f5f",
+    "winner": "",
+    "totalBidUSD": 552,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xe610ddc70e",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-08-19",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 165,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/solana/5wnu5qhdprgrl37ffcd6tmmqzugqgxwafgz477rshthy",
+    "winner": "@defipolice_",
+    "totalBidUSD": 1520,
+    "domain": "dexscreener.com",
+    "projectKey": "dex-sol:5wnu5qhdpr",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-08-18",
+    "contributors": [
+      {
+        "address": "@defipolice_",
+        "amount": 1520,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 164,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0x0db97887b9ebca78d1d14755c091f5306f56b32e",
+    "winner": "@ScanQRBase",
+    "totalBidUSD": 777,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0x0db97887b9",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-08-17",
+    "contributors": [
+      {
+        "address": "@ScanQRBase",
+        "amount": 777,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 163,
+    "title": "opensea",
+    "url": "https://opensea.io/collection/glowbuds/tokens",
+    "winner": "",
+    "totalBidUSD": 2166,
+    "domain": "opensea.io",
+    "projectKey": "opensea.io",
+    "favicon": "https://opensea.io/favicon.ico",
+    "date": "2025-08-16",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 162,
+    "title": "QRBase -$",
+    "url": "https://SCANqrbase.xyz/base/0x0578d8A44db98B23BF096A382e016e29a5Ce0ffe",
+    "winner": "",
+    "totalBidUSD": 1011,
+    "domain": "scanqrbase.xyz",
+    "projectKey": "scanqrbase.xyz",
+    "favicon": "https://www.google.com/s2/favicons?domain=scanqrbase.xyz&sz=64",
+    "date": "2025-08-15",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 161,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xCC28456d4Ff980CeE3457Ca809a257E52Cd9CDb0",
+    "winner": "+14 others",
+    "totalBidUSD": 1065,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xcc28456d4f",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-08-14",
+    "contributors": [
+      {
+        "address": "+14 others",
+        "amount": 1065,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 160,
+    "title": "QRBase -$",
+    "url": "https://SCANqrbase.xyz/base/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+    "winner": "+1 others",
+    "totalBidUSD": 1112,
+    "domain": "scanqrbase.xyz",
+    "projectKey": "scanqrbase.xyz",
+    "favicon": "https://www.google.com/s2/favicons?domain=scanqrbase.xyz&sz=64",
+    "date": "2025-08-13",
+    "contributors": [
+      {
+        "address": "+1 others",
+        "amount": 1112,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 159,
+    "title": "SCAN",
+    "url": "https://zora.co/coin/base:0x20429f731096e359910921994a267d32ef576720",
+    "winner": "",
+    "totalBidUSD": 3333,
+    "domain": "zora.co",
+    "projectKey": "zora-coin:0x20429f73",
+    "favicon": "https://zora.co/assets/favicon/apple-touch-icon.png",
+    "date": "2025-08-12",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 158,
+    "title": "Zora",
+    "url": "https://zora.co/",
+    "winner": "@sonofagarbageman",
+    "totalBidUSD": 660,
+    "domain": "zora.co",
+    "projectKey": "zora.co",
+    "favicon": "https://zora.co/assets/favicon/apple-touch-icon.png",
+    "date": "2025-08-11",
+    "contributors": [
+      {
+        "address": "@sonofagarbageman",
+        "amount": 660,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 157,
+    "title": "Zora",
+    "url": "https://zora.co/",
+    "winner": "@songcast",
+    "totalBidUSD": 400,
+    "domain": "zora.co",
+    "projectKey": "zora.co",
+    "favicon": "https://zora.co/assets/favicon/apple-touch-icon.png",
+    "date": "2025-08-10",
+    "contributors": [
+      {
+        "address": "@songcast",
+        "amount": 400,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 156,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xf02c421e15abdf2008bb6577336b0f3d7aec98f0",
+    "winner": "@jumpbox.eth",
+    "totalBidUSD": 550,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xf02c421e15",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-08-09",
+    "contributors": [
+      {
+        "address": "@jumpbox.eth",
+        "amount": 550,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 155,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xf02c421e15abdf2008bb6577336b0f3d7aec98f0",
+    "winner": "@qrcoindotfun",
+    "totalBidUSD": 469,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xf02c421e15",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-08-08",
+    "contributors": [
+      {
+        "address": "@qrcoindotfun",
+        "amount": 469,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 154,
+    "title": "Daily Questions",
+    "url": "https://farcaster.xyz/miniapps/5E-wFvcxzFwy/daily-poll",
+    "winner": "@dailypoll",
+    "totalBidUSD": 669,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:daily-poll",
+    "favicon": "https://assets.boost.xyz/daily-questions/icon.png",
+    "date": "2025-08-07",
+    "contributors": [
+      {
+        "address": "@dailypoll",
+        "amount": 669,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 153,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xf02c421e15abdf2008bb6577336b0f3d7aec98f0",
+    "winner": "@qrcoindotfun",
+    "totalBidUSD": 1800,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xf02c421e15",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-08-06",
+    "contributors": [
+      {
+        "address": "@qrcoindotfun",
+        "amount": 1800,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 152,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xf02c421e15abdf2008bb6577336b0f3d7aec98f0",
+    "winner": "@qrcoindotfun",
+    "totalBidUSD": 1150,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xf02c421e15",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-08-05",
+    "contributors": [
+      {
+        "address": "@qrcoindotfun",
+        "amount": 1150,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 151,
+    "title": "apemanctoapemancto.com",
+    "url": "https://apemanctoapemancto.com",
+    "winner": "@ApeManCTO",
+    "totalBidUSD": 665,
+    "domain": "apemanctoapemancto.com",
+    "projectKey": "apemanctoapemancto.com",
+    "favicon": "https://www.google.com/s2/favicons?domain=apemanctoapemancto.com&sz=64",
+    "date": "2025-08-04",
+    "contributors": [
+      {
+        "address": "@ApeManCTO",
+        "amount": 665,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 150,
+    "title": "@neet_sol on X",
+    "url": "https://x.com/neet_sol",
+    "winner": "@defipolice_",
+    "totalBidUSD": 444,
+    "domain": "x.com",
+    "projectKey": "x-account:neet_sol",
+    "favicon": "https://unavatar.io/twitter/neet_sol",
+    "date": "2025-08-03",
+    "contributors": [
+      {
+        "address": "@defipolice_",
+        "amount": 444,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 149,
+    "title": "BRND",
+    "url": "https://Landbrnd.land",
+    "winner": "@brnd",
+    "totalBidUSD": 369,
+    "domain": "landbrnd.land",
+    "projectKey": "landbrnd.land",
+    "favicon": "https://www.google.com/s2/favicons?domain=landbrnd.land&sz=64",
+    "date": "2025-08-02",
+    "contributors": [
+      {
+        "address": "@brnd",
+        "amount": 369,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 148,
+    "title": "emergetryemerge.xyz",
+    "url": "https://Emergetryemerge.xyz",
+    "winner": "@atown",
+    "totalBidUSD": 369,
+    "domain": "emergetryemerge.xyz",
+    "projectKey": "emergetryemerge.xyz",
+    "favicon": "https://www.google.com/s2/favicons?domain=emergetryemerge.xyz&sz=64",
+    "date": "2025-08-01",
+    "contributors": [
+      {
+        "address": "@atown",
+        "amount": 369,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 147,
+    "title": "zxbt0xx",
+    "url": "https://zora.co/zxbt0xx",
+    "winner": "@zxbt_",
+    "totalBidUSD": 1258,
+    "domain": "zora.co",
+    "projectKey": "zora.co",
+    "favicon": "https://zora.co/assets/favicon/apple-touch-icon.png",
+    "date": "2025-07-31",
+    "contributors": [
+      {
+        "address": "@zxbt_",
+        "amount": 1258,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 146,
+    "title": "Daily Active User",
+    "url": "https://farcaster.xyz/miniapps/1g9Kz0z_Luix/daily-active-user",
+    "winner": "@dau",
+    "totalBidUSD": 757,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:daily-active-user",
+    "favicon": "https://assets.boost.xyz/rewardkit/icon.png",
+    "date": "2025-07-30",
+    "contributors": [
+      {
+        "address": "@dau",
+        "amount": 757,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 145,
+    "title": "Join the Zapper: Social Wallet beta",
+    "url": "https://testflight.apple.com/join/CTBAvdAz",
+    "winner": "@zapper",
+    "totalBidUSD": 1000,
+    "domain": "testflight.apple.com",
+    "projectKey": "testflight.apple.com",
+    "favicon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/97/79/d5977971-d2fa-3f7a-dec5-4e499fffe5c2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/1920x1080ia-80.png",
+    "date": "2025-07-29",
+    "contributors": [
+      {
+        "address": "@zapper",
+        "amount": 1000,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 144,
+    "title": "higheraimhigher.net",
+    "url": "https://Higheraimhigher.net",
+    "winner": "@0xkwydk",
+    "totalBidUSD": 1000,
+    "domain": "higheraimhigher.net",
+    "projectKey": "higheraimhigher.net",
+    "favicon": "https://www.google.com/s2/favicons?domain=higheraimhigher.net&sz=64",
+    "date": "2025-07-28",
+    "contributors": [
+      {
+        "address": "@0xkwydk",
+        "amount": 1000,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 143,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xb09877aA2a13233b57735E987de24083CcA4aBec",
+    "winner": "@kryptocockcoin",
+    "totalBidUSD": 669,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xb09877aa2a",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-07-27",
+    "contributors": [
+      {
+        "address": "@kryptocockcoin",
+        "amount": 669,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 142,
+    "title": "Streme",
+    "url": "https://farcaster.xyz/miniapps/tmjNyAmp7nkC/streme",
+    "winner": "@zeni.eth",
+    "totalBidUSD": 1000,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:streme",
+    "favicon": "https://streme.fun/icon.png",
+    "date": "2025-07-26",
+    "contributors": [
+      {
+        "address": "@zeni.eth",
+        "amount": 1000,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 141,
+    "title": "@aavegotchi's tweet",
+    "url": "https://x.com/aavegotchi/status/1948718066730188841",
+    "winner": "@GoobzGG",
+    "totalBidUSD": 1500,
+    "domain": "x.com",
+    "projectKey": "x-account:aavegotchi",
+    "favicon": "https://unavatar.io/twitter/aavegotchi",
+    "date": "2025-07-25",
+    "contributors": [
+      {
+        "address": "@GoobzGG",
+        "amount": 1500,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 140,
+    "title": "flauntflaunt.meme",
+    "url": "https://flauntflaunt.meme",
+    "winner": "@flauntmeme",
+    "totalBidUSD": 815,
+    "domain": "flauntflaunt.meme",
+    "projectKey": "flauntflaunt.meme",
+    "favicon": "https://www.google.com/s2/favicons?domain=flauntflaunt.meme&sz=64",
+    "date": "2025-07-24",
+    "contributors": [
+      {
+        "address": "@flauntmeme",
+        "amount": 815,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 139,
+    "title": "@xicojam's tweet",
+    "url": "https://x.com/xicojam/status/1948013924554527084",
+    "winner": "@startupoppa",
+    "totalBidUSD": 1396,
+    "domain": "x.com",
+    "projectKey": "x-account:xicojam",
+    "favicon": "https://unavatar.io/twitter/xicojam",
+    "date": "2025-07-23",
+    "contributors": [
+      {
+        "address": "@startupoppa",
+        "amount": 1396,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 138,
+    "title": "Inflynce",
+    "url": "https://farcaster.xyz/miniapps/TrnTSlXGbRDg/inflynce",
+    "winner": "@inflynce",
+    "totalBidUSD": 1000,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:inflynce",
+    "favicon": "https://miniapp.inflynce.com/logo_200x200.png",
+    "date": "2025-07-22",
+    "contributors": [
+      {
+        "address": "@inflynce",
+        "amount": 1000,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 137,
+    "title": "cultscults.fun",
+    "url": "https://cultscults.fun",
+    "winner": "@gtm",
+    "totalBidUSD": 666,
+    "domain": "cultscults.fun",
+    "projectKey": "cultscults.fun",
+    "favicon": "https://www.google.com/s2/favicons?domain=cultscults.fun&sz=64",
+    "date": "2025-07-21",
+    "contributors": [
+      {
+        "address": "@gtm",
+        "amount": 666,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 136,
+    "title": "HashHorse",
+    "url": "https://farcaster.xyz/miniapps/fN556fxhC7ti/hashhorse0xFa...E170",
+    "winner": "",
+    "totalBidUSD": 510,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:hashhorse0xfa...e170",
+    "favicon": "https://hash.horse/logo_icon.png",
+    "date": "2025-07-20",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 135,
+    "title": "@blocktrader365's tweet",
+    "url": "https://x.com/blocktrader365/status/1946585869927776707",
+    "winner": "@blocktrader365",
+    "totalBidUSD": 365,
+    "domain": "x.com",
+    "projectKey": "x-account:blocktrader365",
+    "favicon": "https://unavatar.io/twitter/blocktrader365",
+    "date": "2025-07-19",
+    "contributors": [
+      {
+        "address": "@blocktrader365",
+        "amount": 365,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 134,
+    "title": "HashHorse",
+    "url": "https://farcaster.xyz/miniapps/fN556fxhC7ti/hashhorse0xFa...E170",
+    "winner": "",
+    "totalBidUSD": 941,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:hashhorse0xfa...e170",
+    "favicon": "https://hash.horse/logo_icon.png",
+    "date": "2025-07-18",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 133,
+    "title": "@bvdani_el's tweet",
+    "url": "https://x.com/bvdani_el/status/1945226782954684580",
+    "winner": "@bvdani_el",
+    "totalBidUSD": 870,
+    "domain": "x.com",
+    "projectKey": "x-account:bvdani_el",
+    "favicon": "https://pbs.twimg.com/profile_images/2021364635761508356/w9_saOcI_400x400.jpg",
+    "date": "2025-07-17",
+    "contributors": [
+      {
+        "address": "@bvdani_el",
+        "amount": 870,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 132,
+    "title": "@xicojam's tweet",
+    "url": "https://x.com/xicojam/status/1945509286345363856",
+    "winner": "@perl",
+    "totalBidUSD": 1869,
+    "domain": "x.com",
+    "projectKey": "x-account:xicojam",
+    "favicon": "https://unavatar.io/twitter/xicojam",
+    "date": "2025-07-16",
+    "contributors": [
+      {
+        "address": "@perl",
+        "amount": 1869,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 131,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xf02c421e15abdf2008bb6577336b0f3d7aec98f0",
+    "winner": "@qrcoindotfun",
+    "totalBidUSD": 500,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xf02c421e15",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-07-15",
+    "contributors": [
+      {
+        "address": "@qrcoindotfun",
+        "amount": 500,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 130,
+    "title": "indxsindxs.app",
+    "url": "https://indxsindxs.app",
+    "winner": "@indxsapp",
+    "totalBidUSD": 402,
+    "domain": "indxsindxs.app",
+    "projectKey": "indxsindxs.app",
+    "favicon": "https://www.google.com/s2/favicons?domain=indxsindxs.app&sz=64",
+    "date": "2025-07-14",
+    "contributors": [
+      {
+        "address": "@indxsapp",
+        "amount": 402,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 129,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xcc4511f3537fd598e00e7b676edf7818ce2ca43b174070de3ab8d95ddcc9a1e5",
+    "winner": "@_seehad",
+    "totalBidUSD": 421,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xcc4511f353",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-07-13",
+    "contributors": [
+      {
+        "address": "@_seehad",
+        "amount": 421,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 128,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xfb192c68dcdaee359a3f2b6d584ba3093883f525",
+    "winner": "@hammallama7",
+    "totalBidUSD": 305,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xfb192c68dc",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-07-12",
+    "contributors": [
+      {
+        "address": "@hammallama7",
+        "amount": 305,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 127,
+    "title": "YHSSmokers",
+    "url": "https://t.me/CircusDotFun",
+    "winner": "@nicky_sap",
+    "totalBidUSD": 303,
+    "domain": "t.me",
+    "projectKey": "t.me",
+    "favicon": "https://telegram.org/img/apple-touch-icon.png",
+    "date": "2025-07-11",
+    "contributors": [
+      {
+        "address": "@nicky_sap",
+        "amount": 303,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 126,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0x41b4439D518953B98cCce8Fa97942a43fEFFa90b",
+    "winner": "@clfx.eth",
+    "totalBidUSD": 338,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0x41b4439d51",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-07-10",
+    "contributors": [
+      {
+        "address": "@clfx.eth",
+        "amount": 338,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 125,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0x41b4439d518953b98ccce8fa97942a43feffa90b",
+    "winner": "@fffflood",
+    "totalBidUSD": 320,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0x41b4439d51",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-07-09",
+    "contributors": [
+      {
+        "address": "@fffflood",
+        "amount": 320,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 124,
+    "title": "@blocktrader365 on X",
+    "url": "https://x.com/blocktrader365",
+    "winner": "@blocktrader365",
+    "totalBidUSD": 250,
+    "domain": "x.com",
+    "projectKey": "x-account:blocktrader365",
+    "favicon": "https://unavatar.io/twitter/blocktrader365",
+    "date": "2025-07-08",
+    "contributors": [
+      {
+        "address": "@blocktrader365",
+        "amount": 250,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 123,
+    "title": "Log a",
+    "url": "https://Doglogadog.xyz",
+    "winner": "@mykcryptodev",
+    "totalBidUSD": 275,
+    "domain": "doglogadog.xyz",
+    "projectKey": "doglogadog.xyz",
+    "favicon": "https://www.google.com/s2/favicons?domain=doglogadog.xyz&sz=64",
+    "date": "2025-07-07",
+    "contributors": [
+      {
+        "address": "@mykcryptodev",
+        "amount": 275,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 122,
+    "title": "calendar3calendar.money",
+    "url": "https://Calendar3calendar.money",
+    "winner": "@YazhisaiSivanat",
+    "totalBidUSD": 300,
+    "domain": "calendar3calendar.money",
+    "projectKey": "calendar3calendar.money",
+    "favicon": "https://www.google.com/s2/favicons?domain=calendar3calendar.money&sz=64",
+    "date": "2025-07-06",
+    "contributors": [
+      {
+        "address": "@YazhisaiSivanat",
+        "amount": 300,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 121,
+    "title": "SongCast - Music Attention Markets",
+    "url": "https://songcast.xyz/passive-investment",
+    "winner": "@dabusthebuilder",
+    "totalBidUSD": 386,
+    "domain": "songcast.xyz",
+    "projectKey": "songcast.xyz",
+    "favicon": "https://songcast.xyz/favicon.ico",
+    "date": "2025-07-05",
+    "contributors": [
+      {
+        "address": "@dabusthebuilder",
+        "amount": 386,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 120,
+    "title": "Crypto Airdrop Checker - Check Any Wallet Address for Unclaimed Crypto Airdrops",
+    "url": "https://drops.bot",
+    "winner": "@dropsbothq",
+    "totalBidUSD": 277,
+    "domain": "drops.bot",
+    "projectKey": "drops.bot",
+    "favicon": "https://drops.bot/images/logos/app-icon-rounded.png",
+    "date": "2025-07-04",
+    "contributors": [
+      {
+        "address": "@dropsbothq",
+        "amount": 277,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 119,
+    "title": "Megapot",
+    "url": "https://farcaster.xyz/miniapps/HmVjqouHgnKx/megapot",
+    "winner": "@patrick_lung",
+    "totalBidUSD": 517,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:megapot",
+    "favicon": "https://frame.megapot.io/Frame_megapot-icon-large.png",
+    "date": "2025-07-03",
+    "contributors": [
+      {
+        "address": "@patrick_lung",
+        "amount": 517,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 118,
+    "title": "Reply",
+    "url": "https://farcaster.xyz/miniapps/ZuqxLQnWC2Nh/reply",
+    "winner": "@andreworix",
+    "totalBidUSD": 562,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:reply",
+    "favicon": "https://reply-app.vercel.app/reply-1024.png",
+    "date": "2025-07-02",
+    "contributors": [
+      {
+        "address": "@andreworix",
+        "amount": 562,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 117,
+    "title": "coinbase",
+    "url": "https://coinbase.com/onramp",
+    "winner": "@organ_danny",
+    "totalBidUSD": 628,
+    "domain": "coinbase.com",
+    "projectKey": "coinbase.com",
+    "favicon": "https://coinbase.com/favicon.ico",
+    "date": "2025-07-01",
+    "contributors": [
+      {
+        "address": "@organ_danny",
+        "amount": 628,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 116,
+    "title": "@sirsu.eth's cast",
+    "url": "https://farcaster.xyz/sirsu.eth/0x4dcfa244",
+    "winner": "@sirsuhayb",
+    "totalBidUSD": 400,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:sirsu.eth",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/927b65ff-f302-444e-9d56-b34a81ca0e00/original",
+    "date": "2025-06-30",
+    "contributors": [
+      {
+        "address": "@sirsuhayb",
+        "amount": 400,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 115,
+    "title": "flipskiflipski.xyz",
+    "url": "https://flipskiflipski.xyz/flipski",
+    "winner": "@nftkid23",
+    "totalBidUSD": 421,
+    "domain": "flipskiflipski.xyz",
+    "projectKey": "flipskiflipski.xyz",
+    "favicon": "https://www.google.com/s2/favicons?domain=flipskiflipski.xyz&sz=64",
+    "date": "2025-06-29",
+    "contributors": [
+      {
+        "address": "@nftkid23",
+        "amount": 421,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 114,
+    "title": "@sirsu.eth's cast",
+    "url": "https://farcaster.xyz/sirsu.eth/0x8833af5d",
+    "winner": "@sirsuhayb",
+    "totalBidUSD": 720,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:sirsu.eth",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/927b65ff-f302-444e-9d56-b34a81ca0e00/original",
+    "date": "2025-06-28",
+    "contributors": [
+      {
+        "address": "@sirsuhayb",
+        "amount": 720,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 113,
+    "title": "@GrindingPoet's tweet",
+    "url": "https://x.com/GrindingPoet/status/1938223960146122819defipolice.eth",
+    "winner": "",
+    "totalBidUSD": 800,
+    "domain": "x.com",
+    "projectKey": "x-account:grindingpoet",
+    "favicon": "https://unavatar.io/twitter/GrindingPoet",
+    "date": "2025-06-27",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 112,
+    "title": "@anoncoin_ on X",
+    "url": "https://x.com/anoncoin_",
+    "winner": "@0xchomu",
+    "totalBidUSD": 444,
+    "domain": "x.com",
+    "projectKey": "x-account:anoncoin_",
+    "favicon": "https://unavatar.io/twitter/anoncoin_",
+    "date": "2025-06-26",
+    "contributors": [
+      {
+        "address": "@0xchomu",
+        "amount": 444,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 111,
+    "title": "seeingbluemintoftheday.com",
+    "url": "https://seeingbluemintoftheday.com",
+    "winner": "@seeing_blue",
+    "totalBidUSD": 234,
+    "domain": "seeingbluemintoftheday.com",
+    "projectKey": "seeingbluemintoftheday.com",
+    "favicon": "https://www.google.com/s2/favicons?domain=seeingbluemintoftheday.com&sz=64",
+    "date": "2025-06-25",
+    "contributors": [
+      {
+        "address": "@seeing_blue",
+        "amount": 234,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 110,
+    "title": "L2 Marathon | Omnichain NFTs Powered by LayerZero",
+    "url": "https://l2marathon.com",
+    "winner": "@L2Marathon",
+    "totalBidUSD": 333,
+    "domain": "l2marathon.com",
+    "projectKey": "l2marathon.com",
+    "favicon": "https://l2marathon.com/marathon.png",
+    "date": "2025-06-24",
+    "contributors": [
+      {
+        "address": "@L2Marathon",
+        "amount": 333,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 109,
+    "title": "@anoncoin_ on X",
+    "url": "https://x.com/anoncoin_",
+    "winner": "@0xchomu",
+    "totalBidUSD": 750,
+    "domain": "x.com",
+    "projectKey": "x-account:anoncoin_",
+    "favicon": "https://unavatar.io/twitter/anoncoin_",
+    "date": "2025-06-23",
+    "contributors": [
+      {
+        "address": "@0xchomu",
+        "amount": 750,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 108,
+    "title": "@pawthereum's tweet",
+    "url": "https://x.com/pawthereum/status/1936070911465013468",
+    "winner": "@mykcryptodev",
+    "totalBidUSD": 825,
+    "domain": "x.com",
+    "projectKey": "x-account:pawthereum",
+    "favicon": "https://unavatar.io/twitter/pawthereum",
+    "date": "2025-06-22",
+    "contributors": [
+      {
+        "address": "@mykcryptodev",
+        "amount": 825,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 107,
+    "title": "@dubdub_tv on X",
+    "url": "https://x.com/dubdub_tv",
+    "winner": "@0xchomu",
+    "totalBidUSD": 750,
+    "domain": "x.com",
+    "projectKey": "x-account:dubdub_tv",
+    "favicon": "https://unavatar.io/twitter/dubdub_tv",
+    "date": "2025-06-21",
+    "contributors": [
+      {
+        "address": "@0xchomu",
+        "amount": 750,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 106,
+    "title": "ampsamps.fun",
+    "url": "https://Ampsamps.fun",
+    "winner": "@philmohun",
+    "totalBidUSD": 586,
+    "domain": "ampsamps.fun",
+    "projectKey": "ampsamps.fun",
+    "favicon": "https://www.google.com/s2/favicons?domain=ampsamps.fun&sz=64",
+    "date": "2025-06-20",
+    "contributors": [
+      {
+        "address": "@philmohun",
+        "amount": 586,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 105,
+    "title": "@intori on Farcaster",
+    "url": "https://farcaster.xyz/intori",
+    "winner": "@intorihq",
+    "totalBidUSD": 751,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-user:intori",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/62216a93-8f75-44f8-e6f6-b27cec75b500/original",
+    "date": "2025-06-19",
+    "contributors": [
+      {
+        "address": "@intorihq",
+        "amount": 751,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 104,
+    "title": "secondseconds.money",
+    "url": "https://SECONDseconds.money",
+    "winner": "@YazhisaiSivanat",
+    "totalBidUSD": 740,
+    "domain": "secondseconds.money",
+    "projectKey": "secondseconds.money",
+    "favicon": "https://www.google.com/s2/favicons?domain=secondseconds.money&sz=64",
+    "date": "2025-06-18",
+    "contributors": [
+      {
+        "address": "@YazhisaiSivanat",
+        "amount": 740,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 103,
+    "title": "@iownco on X",
+    "url": "https://x.com/iownco",
+    "winner": "@0xbhargav",
+    "totalBidUSD": 491,
+    "domain": "x.com",
+    "projectKey": "x-account:iownco",
+    "favicon": "https://unavatar.io/twitter/iownco",
+    "date": "2025-06-17",
+    "contributors": [
+      {
+        "address": "@0xbhargav",
+        "amount": 491,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 102,
+    "title": "coinbreadcoinbread.cash",
+    "url": "https://coinbreadcoinbread.cash",
+    "winner": "@CoinbreadCash",
+    "totalBidUSD": 807,
+    "domain": "coinbreadcoinbread.cash",
+    "projectKey": "coinbreadcoinbread.cash",
+    "favicon": "https://www.google.com/s2/favicons?domain=coinbreadcoinbread.cash&sz=64",
+    "date": "2025-06-16",
+    "contributors": [
+      {
+        "address": "@CoinbreadCash",
+        "amount": 807,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 101,
+    "title": "Base",
+    "url": "https://Colorsbasecolors.com",
+    "winner": "@jake",
+    "totalBidUSD": 1000,
+    "domain": "colorsbasecolors.com",
+    "projectKey": "colorsbasecolors.com",
+    "favicon": "https://www.google.com/s2/favicons?domain=colorsbasecolors.com&sz=64",
+    "date": "2025-06-15",
+    "contributors": [
+      {
+        "address": "@jake",
+        "amount": 1000,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 100,
+    "title": "@ChartCoinIntern on X",
+    "url": "https://x.com/ChartCoinIntern",
+    "winner": "@ChartCoinIntern",
+    "totalBidUSD": 689,
+    "domain": "x.com",
+    "projectKey": "x-account:chartcoinintern",
+    "favicon": "https://unavatar.io/twitter/ChartCoinIntern",
+    "date": "2025-06-14",
+    "contributors": [
+      {
+        "address": "@ChartCoinIntern",
+        "amount": 689,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 99,
+    "title": "@frocisbased's tweet",
+    "url": "https://x.com/frocisbased/status/1932791633919291634?s=46&t=A9lkaOF9ji0yIbctDEodrA",
+    "winner": "@based_froc",
+    "totalBidUSD": 820,
+    "domain": "x.com",
+    "projectKey": "x-account:frocisbased",
+    "favicon": "https://unavatar.io/twitter/frocisbased",
+    "date": "2025-06-13",
+    "contributors": [
+      {
+        "address": "@based_froc",
+        "amount": 820,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 98,
+    "title": "@procoin's cast",
+    "url": "https://farcaster.xyz/procoin/0x8be97def",
+    "winner": "@mjayceee",
+    "totalBidUSD": 2222,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:procoin",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/fa97b2f9-93e9-45ef-a175-f528d53ae800/rectcrop3",
+    "date": "2025-06-12",
+    "contributors": [
+      {
+        "address": "@mjayceee",
+        "amount": 2222,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 97,
+    "title": "cliptheclip.fun",
+    "url": "https://Cliptheclip.fun/post/0xb0766a10fb9c7ca14507a6ecde8cf07f4c1d423f",
+    "winner": "@theclipdotfun",
+    "totalBidUSD": 3500,
+    "domain": "cliptheclip.fun",
+    "projectKey": "cliptheclip.fun",
+    "favicon": "https://www.google.com/s2/favicons?domain=cliptheclip.fun&sz=64",
+    "date": "2025-06-11",
+    "contributors": [
+      {
+        "address": "@theclipdotfun",
+        "amount": 3500,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 96,
+    "title": "@theclipdotfun on X",
+    "url": "https://x.com/theclipdotfun",
+    "winner": "@theclipdotfun",
+    "totalBidUSD": 1200,
+    "domain": "x.com",
+    "projectKey": "x-account:theclipdotfun",
+    "favicon": "https://unavatar.io/twitter/theclipdotfun",
+    "date": "2025-06-10",
+    "contributors": [
+      {
+        "address": "@theclipdotfun",
+        "amount": 1200,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 95,
+    "title": "iowniown.co",
+    "url": "https://iowniown.co",
+    "winner": "@0xbhargav",
+    "totalBidUSD": 1100,
+    "domain": "iowniown.co",
+    "projectKey": "iowniown.co",
+    "favicon": "https://www.google.com/s2/favicons?domain=iowniown.co&sz=64",
+    "date": "2025-06-09",
+    "contributors": [
+      {
+        "address": "@0xbhargav",
+        "amount": 1100,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 94,
+    "title": "cliptheclip.fun",
+    "url": "https://Cliptheclip.fun",
+    "winner": "@0xchomu",
+    "totalBidUSD": 1000,
+    "domain": "cliptheclip.fun",
+    "projectKey": "cliptheclip.fun",
+    "favicon": "https://www.google.com/s2/favicons?domain=cliptheclip.fun&sz=64",
+    "date": "2025-06-08",
+    "contributors": [
+      {
+        "address": "@0xchomu",
+        "amount": 1000,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 93,
+    "title": "@thecabalcoin on X",
+    "url": "https://x.com/thecabalcoin",
+    "winner": "@rhynotic",
+    "totalBidUSD": 1100,
+    "domain": "x.com",
+    "projectKey": "x-account:thecabalcoin",
+    "favicon": "https://unavatar.io/twitter/thecabalcoin",
+    "date": "2025-06-07",
+    "contributors": [
+      {
+        "address": "@rhynotic",
+        "amount": 1100,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 92,
+    "title": "@Victor928 on X",
+    "url": "https://x.com/Victor928",
+    "winner": "@victor928",
+    "totalBidUSD": 667,
+    "domain": "x.com",
+    "projectKey": "x-account:victor928",
+    "favicon": "https://unavatar.io/twitter/Victor928",
+    "date": "2025-06-06",
+    "contributors": [
+      {
+        "address": "@victor928",
+        "amount": 667,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 91,
+    "title": "@thecryptos.eth on Farcaster",
+    "url": "https://farcaster.xyz/thecryptos.eth",
+    "winner": "@thecryptos.eth",
+    "totalBidUSD": 672,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-user:thecryptos.eth",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/f6be7311-f1ce-4725-6e73-7af2f2597700/original",
+    "date": "2025-06-05",
+    "contributors": [
+      {
+        "address": "@thecryptos.eth",
+        "amount": 672,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 90,
+    "title": "@thecabalcoin on X",
+    "url": "https://x.com/thecabalcoin",
+    "winner": "@rhynotic",
+    "totalBidUSD": 1000,
+    "domain": "x.com",
+    "projectKey": "x-account:thecabalcoin",
+    "favicon": "https://unavatar.io/twitter/thecabalcoin",
+    "date": "2025-06-04",
+    "contributors": [
+      {
+        "address": "@rhynotic",
+        "amount": 1000,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 89,
+    "title": "@defidough's tweet",
+    "url": "https://x.com/defidough/status/1929550225045086397",
+    "winner": "@defidough",
+    "totalBidUSD": 733,
+    "domain": "x.com",
+    "projectKey": "x-account:defidough",
+    "favicon": "https://pbs.twimg.com/profile_images/2023362319116345344/1_Zu6Oub_400x400.jpg",
+    "date": "2025-06-03",
+    "contributors": [
+      {
+        "address": "@defidough",
+        "amount": 733,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 88,
+    "title": "dropsdrops.bot",
+    "url": "https://dropsdrops.bot/lfg/twitter",
+    "winner": "@dropsbothq",
+    "totalBidUSD": 666,
+    "domain": "dropsdrops.bot",
+    "projectKey": "dropsdrops.bot",
+    "favicon": "https://www.google.com/s2/favicons?domain=dropsdrops.bot&sz=64",
+    "date": "2025-06-02",
+    "contributors": [
+      {
+        "address": "@dropsbothq",
+        "amount": 666,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 87,
+    "title": "dropsdrops.bot",
+    "url": "https://dropsdrops.bot/lfg/twitter",
+    "winner": "@dropsbothq",
+    "totalBidUSD": 969,
+    "domain": "dropsdrops.bot",
+    "projectKey": "dropsdrops.bot",
+    "favicon": "https://www.google.com/s2/favicons?domain=dropsdrops.bot&sz=64",
+    "date": "2025-06-01",
+    "contributors": [
+      {
+        "address": "@dropsbothq",
+        "amount": 969,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 86,
+    "title": "cultscults.fun",
+    "url": "https://cultscults.fun",
+    "winner": "@taydotfun",
+    "totalBidUSD": 1212,
+    "domain": "cultscults.fun",
+    "projectKey": "cultscults.fun",
+    "favicon": "https://www.google.com/s2/favicons?domain=cultscults.fun&sz=64",
+    "date": "2025-05-31",
+    "contributors": [
+      {
+        "address": "@taydotfun",
+        "amount": 1212,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 85,
+    "title": "@mjc716's cast",
+    "url": "https://farcaster.xyz/mjc716/0xde2f1d05",
+    "winner": "@mjc716",
+    "totalBidUSD": 1800,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-cast:mjc716",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/6c6aae1d-58f0-4f42-5628-06263e661100/original",
+    "date": "2025-05-30",
+    "contributors": [
+      {
+        "address": "@mjc716",
+        "amount": 1800,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 84,
+    "title": "@tryoharaAI's tweet",
+    "url": "https://x.com/tryoharaAI/status/1925643998279966730oharaai.base.eth",
+    "winner": "",
+    "totalBidUSD": 1431,
+    "domain": "x.com",
+    "projectKey": "x-account:tryoharaai",
+    "favicon": "https://unavatar.io/twitter/tryoharaAI",
+    "date": "2025-05-29",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 83,
+    "title": "@tator_trader's tweet",
+    "url": "https://x.com/tator_trader/status/1927372800718770382ninja-dev3-x.base.eth",
+    "winner": "",
+    "totalBidUSD": 1680,
+    "domain": "x.com",
+    "projectKey": "x-account:tator_trader",
+    "favicon": "https://unavatar.io/twitter/tator_trader",
+    "date": "2025-05-28",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 82,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0x294799c95eab673d44c37e96ce350ff9e66e6a700xb0...4C6F",
+    "winner": "",
+    "totalBidUSD": 760,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0x294799c95e",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-05-27",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 81,
+    "title": "@reserveprotocol's tweet",
+    "url": "https://x.com/reserveprotocol/status/1924842686588092439",
+    "winner": "@reserveprotocol",
+    "totalBidUSD": 775,
+    "domain": "x.com",
+    "projectKey": "x-account:reserveprotocol",
+    "favicon": "https://pbs.twimg.com/profile_images/1904558510601273344/O9MElJpi_400x400.jpg",
+    "date": "2025-05-26",
+    "contributors": [
+      {
+        "address": "@reserveprotocol",
+        "amount": 775,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 80,
+    "title": "$",
+    "url": "https://COATcoatdog.com/creator0x92...52d3",
+    "winner": "",
+    "totalBidUSD": 1999,
+    "domain": "coatcoatdog.com",
+    "projectKey": "coatcoatdog.com",
+    "favicon": "https://www.google.com/s2/favicons?domain=coatcoatdog.com&sz=64",
+    "date": "2025-05-25",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 79,
+    "title": "@heettike's tweet",
+    "url": "https://x.com/heettike/status/1925663270834176034?s=46",
+    "winner": "@srijancse",
+    "totalBidUSD": 1869,
+    "domain": "x.com",
+    "projectKey": "x-account:heettike",
+    "favicon": "https://unavatar.io/twitter/heettike",
+    "date": "2025-05-24",
+    "contributors": [
+      {
+        "address": "@srijancse",
+        "amount": 1869,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 78,
+    "title": "@srijan.eth's cast",
+    "url": "https://warpcast.com/srijan.eth/0x67516f67",
+    "winner": "@srijancse",
+    "totalBidUSD": 669,
+    "domain": "warpcast.com",
+    "projectKey": "wc-cast:srijan.eth",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/34aab6e6-015f-4363-98c4-a4abafecb800/rectcrop3",
+    "date": "2025-05-23",
+    "contributors": [
+      {
+        "address": "@srijancse",
+        "amount": 669,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 77,
+    "title": "noicenoice.so",
+    "url": "https://noicenoice.so",
+    "winner": "@srijancse",
+    "totalBidUSD": 222,
+    "domain": "noicenoice.so",
+    "projectKey": "noicenoice.so",
+    "favicon": "https://www.google.com/s2/favicons?domain=noicenoice.so&sz=64",
+    "date": "2025-05-22",
+    "contributors": [
+      {
+        "address": "@srijancse",
+        "amount": 222,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 76,
+    "title": "@noicedotso on X",
+    "url": "https://x.com/noicedotso",
+    "winner": "@srijancse",
+    "totalBidUSD": 420,
+    "domain": "x.com",
+    "projectKey": "x-account:noicedotso",
+    "favicon": "https://unavatar.io/twitter/noicedotso",
+    "date": "2025-05-21",
+    "contributors": [
+      {
+        "address": "@srijancse",
+        "amount": 420,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 75,
+    "title": "@noiceapp on Farcaster",
+    "url": "https://warpcast.com/noiceapp",
+    "winner": "@srijancse",
+    "totalBidUSD": 555,
+    "domain": "warpcast.com",
+    "projectKey": "warpcast.com",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0c9a45ce-af8f-446b-9dfe-378957a45a00/original",
+    "date": "2025-05-20",
+    "contributors": [
+      {
+        "address": "@srijancse",
+        "amount": 555,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 74,
+    "title": "@codeofcrypto's cast",
+    "url": "https://warpcast.com/codeofcrypto/0x48bb5a1d",
+    "winner": "@codeofcrypto",
+    "totalBidUSD": 256,
+    "domain": "warpcast.com",
+    "projectKey": "wc-cast:codeofcrypto",
+    "favicon": "https://arweave.net/Sy54hEt6gmPG5jOSqcRahs1Gjfv8q8sFhkgzzp_GkcQ/",
+    "date": "2025-05-19",
+    "contributors": [
+      {
+        "address": "@codeofcrypto",
+        "amount": 256,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 73,
+    "title": "@yes2crypto.eth on Farcaster",
+    "url": "https://warpcast.com/yes2crypto.eth",
+    "winner": "@yes2crypto1",
+    "totalBidUSD": 272,
+    "domain": "warpcast.com",
+    "projectKey": "warpcast.com",
+    "favicon": "https://i.imgur.com/dBoVmnG.jpg",
+    "date": "2025-05-18",
+    "contributors": [
+      {
+        "address": "@yes2crypto1",
+        "amount": 272,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 72,
+    "title": "@Victor928 on X",
+    "url": "https://x.com/Victor928",
+    "winner": "@victor928",
+    "totalBidUSD": 300,
+    "domain": "x.com",
+    "projectKey": "x-account:victor928",
+    "favicon": "https://unavatar.io/twitter/Victor928",
+    "date": "2025-05-17",
+    "contributors": [
+      {
+        "address": "@victor928",
+        "amount": 300,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 71,
+    "title": "@AInalyst_0xb0...4C6F on X",
+    "url": "https://x.com/AInalyst_0xb0...4C6F",
+    "winner": "",
+    "totalBidUSD": 400,
+    "domain": "x.com",
+    "projectKey": "x-account:ainalyst_0xb0...4c6f",
+    "favicon": "https://unavatar.io/twitter/AInalyst_0xb0...4C6F",
+    "date": "2025-05-16",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 70,
+    "title": "Collectr - Monthly art editions",
+    "url": "https://collectr.live/2025/may",
+    "winner": "@collectrs",
+    "totalBidUSD": 370,
+    "domain": "collectr.live",
+    "projectKey": "collectr.live",
+    "favicon": "https://collectr.live/favicon.ico?v=2",
+    "date": "2025-05-15",
+    "contributors": [
+      {
+        "address": "@collectrs",
+        "amount": 370,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 69,
+    "title": "@Rhynotic's tweet",
+    "url": "https://x.com/Rhynotic/status/1922044364575875530",
+    "winner": "@rhynotic",
+    "totalBidUSD": 165,
+    "domain": "x.com",
+    "projectKey": "x-account:rhynotic",
+    "favicon": "https://pbs.twimg.com/profile_images/1830262784287784960/KqZSwOTe_400x400.jpg",
+    "date": "2025-05-14",
+    "contributors": [
+      {
+        "address": "@rhynotic",
+        "amount": 165,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 68,
+    "title": "@intent on X",
+    "url": "https://x.com/intent/post",
+    "winner": "@basedfk",
+    "totalBidUSD": 87,
+    "domain": "x.com",
+    "projectKey": "x-account:intent",
+    "favicon": "https://unavatar.io/twitter/intent",
+    "date": "2025-05-13",
+    "contributors": [
+      {
+        "address": "@basedfk",
+        "amount": 87,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 67,
+    "title": "Zora",
+    "url": "https://zora.co/",
+    "winner": "@seeingblue",
+    "totalBidUSD": 44,
+    "domain": "zora.co",
+    "projectKey": "zora.co",
+    "favicon": "https://zora.co/assets/favicon/apple-touch-icon.png",
+    "date": "2025-05-12",
+    "contributors": [
+      {
+        "address": "@seeingblue",
+        "amount": 44,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 66,
+    "title": "@tipn's cast",
+    "url": "https://warpcast.com/tipn/0xccfc23fb",
+    "winner": "@niftytime",
+    "totalBidUSD": 69,
+    "domain": "warpcast.com",
+    "projectKey": "wc-cast:tipn",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2bc5eb2e-6115-490f-b98d-eebe5cc48200/rectcrop3",
+    "date": "2025-05-11",
+    "contributors": [
+      {
+        "address": "@niftytime",
+        "amount": 69,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 65,
+    "title": "Warp Ramp",
+    "url": "https://warpcast.com/miniapps/IicCFtcNbkXu/warp-ramp",
+    "winner": "@saltorious1",
+    "totalBidUSD": 75,
+    "domain": "warpcast.com",
+    "projectKey": "wc-miniapp:warp-ramp",
+    "favicon": "https://warpcast.com/og-logo-v3.png",
+    "date": "2025-05-10",
+    "contributors": [
+      {
+        "address": "@saltorious1",
+        "amount": 75,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 64,
+    "title": "songbirdzsongbirdz.cc",
+    "url": "https://Songbirdzsongbirdz.cc",
+    "winner": "@taydotfun",
+    "totalBidUSD": 42,
+    "domain": "songbirdzsongbirdz.cc",
+    "projectKey": "songbirdzsongbirdz.cc",
+    "favicon": "https://www.google.com/s2/favicons?domain=songbirdzsongbirdz.cc&sz=64",
+    "date": "2025-05-09",
+    "contributors": [
+      {
+        "address": "@taydotfun",
+        "amount": 42,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 63,
+    "title": "FLOC* | Web3 Strategic Design Studio",
+    "url": "https://wearefloc.com",
+    "winner": "@esdotge",
+    "totalBidUSD": 45,
+    "domain": "wearefloc.com",
+    "projectKey": "wearefloc.com",
+    "favicon": "https://framerusercontent.com/images/HKsAPaGBC7SjI4L1ml0AIswLk80.png",
+    "date": "2025-05-08",
+    "contributors": [
+      {
+        "address": "@esdotge",
+        "amount": 45,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 62,
+    "title": "clanker",
+    "url": "https://worldclanker.world",
+    "winner": "@david_tomu",
+    "totalBidUSD": 82,
+    "domain": "worldclanker.world",
+    "projectKey": "worldclanker.world",
+    "favicon": "https://www.google.com/s2/favicons?domain=worldclanker.world&sz=64",
+    "date": "2025-05-07",
+    "contributors": [
+      {
+        "address": "@david_tomu",
+        "amount": 82,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 61,
+    "title": "YouTube",
+    "url": "https://youtube.com/",
+    "winner": "@gmfarcaster",
+    "totalBidUSD": 64,
+    "domain": "youtube.com",
+    "projectKey": "youtube.com",
+    "favicon": "https://www.youtube.com/s/desktop/c9b3ffed/img/favicon.ico",
+    "date": "2025-05-06",
+    "contributors": [
+      {
+        "address": "@gmfarcaster",
+        "amount": 64,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 60,
+    "title": "warpswarps.fun",
+    "url": "https://Warpswarps.fun",
+    "winner": "@gskrovina",
+    "totalBidUSD": 47,
+    "domain": "warpswarps.fun",
+    "projectKey": "warpswarps.fun",
+    "favicon": "https://www.google.com/s2/favicons?domain=warpswarps.fun&sz=64",
+    "date": "2025-05-05",
+    "contributors": [
+      {
+        "address": "@gskrovina",
+        "amount": 47,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 59,
+    "title": "The Rise of Blus: A Nouns Movie",
+    "url": "https://nouns.movie",
+    "winner": "@anaroth__",
+    "totalBidUSD": 48,
+    "domain": "nouns.movie",
+    "projectKey": "nouns.movie",
+    "favicon": "https://nouns.movie/images/favicon.png",
+    "date": "2025-05-04",
+    "contributors": [
+      {
+        "address": "@anaroth__",
+        "amount": 48,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 58,
+    "title": "ticktockticktock.fun",
+    "url": "https://TickTockticktock.fun",
+    "winner": "@taydotfun",
+    "totalBidUSD": 68,
+    "domain": "ticktockticktock.fun",
+    "projectKey": "ticktockticktock.fun",
+    "favicon": "https://www.google.com/s2/favicons?domain=ticktockticktock.fun&sz=64",
+    "date": "2025-05-03",
+    "contributors": [
+      {
+        "address": "@taydotfun",
+        "amount": 68,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 57,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xf02c421e15abdf2008bb6577336b0f3d7aec98f0",
+    "winner": "@qrcoindotfun",
+    "totalBidUSD": 66,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xf02c421e15",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-05-02",
+    "contributors": [
+      {
+        "address": "@qrcoindotfun",
+        "amount": 66,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 56,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xf02c421e15abdf2008bb6577336b0f3d7aec98f0",
+    "winner": "@qrcoindotfun",
+    "totalBidUSD": 46,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xf02c421e15",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-05-01",
+    "contributors": [
+      {
+        "address": "@qrcoindotfun",
+        "amount": 46,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 55,
+    "title": "betrmintbetrmint.fun",
+    "url": "https://BETRMINTbetrmint.fun",
+    "winner": "@toady_hawk",
+    "totalBidUSD": 236,
+    "domain": "betrmintbetrmint.fun",
+    "projectKey": "betrmintbetrmint.fun",
+    "favicon": "https://www.google.com/s2/favicons?domain=betrmintbetrmint.fun&sz=64",
+    "date": "2025-04-30",
+    "contributors": [
+      {
+        "address": "@toady_hawk",
+        "amount": 236,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 54,
+    "title": "@mjayceee's tweet",
+    "url": "https://x.com/mjayceee/status/1915532105536372935",
+    "winner": "@mjc716",
+    "totalBidUSD": 52,
+    "domain": "x.com",
+    "projectKey": "x-account:mjayceee",
+    "favicon": "https://unavatar.io/twitter/mjayceee",
+    "date": "2025-04-29",
+    "contributors": [
+      {
+        "address": "@mjc716",
+        "amount": 52,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 53,
+    "title": "@zoiner's cast",
+    "url": "https://warpcast.com/zoiner/0x08092809",
+    "winner": "@thescoho",
+    "totalBidUSD": 55,
+    "domain": "warpcast.com",
+    "projectKey": "wc-cast:zoiner",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/94925e12-f299-4097-1842-a4c09532c000/rectcrop3",
+    "date": "2025-04-28",
+    "contributors": [
+      {
+        "address": "@thescoho",
+        "amount": 55,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 52,
+    "title": "@base_colors's tweet",
+    "url": "https://x.com/base_colors/status/1915244681278992878?s=46&t=FJ9Ia-2v_9ftxl0My0axTg",
+    "winner": "@mykcryptodev",
+    "totalBidUSD": 51,
+    "domain": "x.com",
+    "projectKey": "x-account:base_colors",
+    "favicon": "https://unavatar.io/twitter/base_colors",
+    "date": "2025-04-27",
+    "contributors": [
+      {
+        "address": "@mykcryptodev",
+        "amount": 51,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 51,
+    "title": "@frocisbased's tweet",
+    "url": "https://x.com/frocisbased/status/1914853564201247228?s=460x96...648E",
+    "winner": "",
+    "totalBidUSD": 188,
+    "domain": "x.com",
+    "projectKey": "x-account:frocisbased",
+    "favicon": "https://unavatar.io/twitter/frocisbased",
+    "date": "2025-04-26",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 50,
+    "title": "contentmentcoincontentment.fun",
+    "url": "https://Contentmentcoincontentment.fun",
+    "winner": "@rhynotic",
+    "totalBidUSD": 451,
+    "domain": "contentmentcoincontentment.fun",
+    "projectKey": "contentmentcoincontentment.fun",
+    "favicon": "https://www.google.com/s2/favicons?domain=contentmentcoincontentment.fun&sz=64",
+    "date": "2025-04-25",
+    "contributors": [
+      {
+        "address": "@rhynotic",
+        "amount": 451,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 49,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0x0d47db7fe2964d1e67268691138fc741f988ed430x81...E66C",
+    "winner": "",
+    "totalBidUSD": 834,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0x0d47db7fe2",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-04-24",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 48,
+    "title": "dickbuttdickbutt.site",
+    "url": "https://dickbuttdickbutt.site",
+    "winner": "@dickbuttbull",
+    "totalBidUSD": 276,
+    "domain": "dickbuttdickbutt.site",
+    "projectKey": "dickbuttdickbutt.site",
+    "favicon": "https://www.google.com/s2/favicons?domain=dickbuttdickbutt.site&sz=64",
+    "date": "2025-04-23",
+    "contributors": [
+      {
+        "address": "@dickbuttbull",
+        "amount": 276,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 47,
+    "title": "@panicdotfun on X",
+    "url": "https://x.com/panicdotfun",
+    "winner": "@taydotfun",
+    "totalBidUSD": 152,
+    "domain": "x.com",
+    "projectKey": "x-account:panicdotfun",
+    "favicon": "https://unavatar.io/twitter/panicdotfun",
+    "date": "2025-04-22",
+    "contributors": [
+      {
+        "address": "@taydotfun",
+        "amount": 152,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 46,
+    "title": "checkrcheckr.so",
+    "url": "https://Checkrcheckr.so",
+    "winner": "@david_tomu",
+    "totalBidUSD": 201,
+    "domain": "checkrcheckr.so",
+    "projectKey": "checkrcheckr.so",
+    "favicon": "https://www.google.com/s2/favicons?domain=checkrcheckr.so&sz=64",
+    "date": "2025-04-21",
+    "contributors": [
+      {
+        "address": "@david_tomu",
+        "amount": 201,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 45,
+    "title": "bigcoinbigcoin.tech",
+    "url": "https://BigCoinbigcoin.tech",
+    "winner": "@bowtiednt",
+    "totalBidUSD": 325,
+    "domain": "bigcoinbigcoin.tech",
+    "projectKey": "bigcoinbigcoin.tech",
+    "favicon": "https://www.google.com/s2/favicons?domain=bigcoinbigcoin.tech&sz=64",
+    "date": "2025-04-20",
+    "contributors": [
+      {
+        "address": "@bowtiednt",
+        "amount": 325,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 44,
+    "title": "@tipn's cast",
+    "url": "https://warpcast.com/tipn/0x0f1f47de",
+    "winner": "@kompreni",
+    "totalBidUSD": 277,
+    "domain": "warpcast.com",
+    "projectKey": "wc-cast:tipn",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2bc5eb2e-6115-490f-b98d-eebe5cc48200/rectcrop3",
+    "date": "2025-04-19",
+    "contributors": [
+      {
+        "address": "@kompreni",
+        "amount": 277,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 43,
+    "title": "@_seacasa's tweet",
+    "url": "https://x.com/_seacasa/status/1912230433649205396?s=46&t=N0Rb3EM92M7D0kdXCFZgWg",
+    "winner": "@_seacasa",
+    "totalBidUSD": 463,
+    "domain": "x.com",
+    "projectKey": "x-account:_seacasa",
+    "favicon": "https://pbs.twimg.com/profile_images/1590938848304844801/2BV_WAwd_400x400.jpg",
+    "date": "2025-04-18",
+    "contributors": [
+      {
+        "address": "@_seacasa",
+        "amount": 463,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 42,
+    "title": "@junglebayac's tweet",
+    "url": "https://x.com/junglebayac/status/1911902437402918956?s=46&t=N0Rb3EM92M7D0kdXCFZgWg",
+    "winner": "@_seacasa",
+    "totalBidUSD": 490,
+    "domain": "x.com",
+    "projectKey": "x-account:junglebayac",
+    "favicon": "https://unavatar.io/twitter/junglebayac",
+    "date": "2025-04-17",
+    "contributors": [
+      {
+        "address": "@_seacasa",
+        "amount": 490,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 41,
+    "title": "mirror",
+    "url": "https://mirror.xyz/sartoshi.eth",
+    "winner": "@_seacasa",
+    "totalBidUSD": 503,
+    "domain": "mirror.xyz",
+    "projectKey": "mirror.xyz",
+    "favicon": "https://mirror.xyz/favicon.ico",
+    "date": "2025-04-16",
+    "contributors": [
+      {
+        "address": "@_seacasa",
+        "amount": 503,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 40,
+    "title": "@junglebayac's tweet",
+    "url": "https://x.com/junglebayac/status/1896011339191238683?s=46&t=N0Rb3EM92M7D0kdXCFZgWg",
+    "winner": "@_seacasa",
+    "totalBidUSD": 597,
+    "domain": "x.com",
+    "projectKey": "x-account:junglebayac",
+    "favicon": "https://unavatar.io/twitter/junglebayac",
+    "date": "2025-04-15",
+    "contributors": [
+      {
+        "address": "@_seacasa",
+        "amount": 597,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 39,
+    "title": "@junglebayac's tweet",
+    "url": "https://x.com/junglebayac/status/1910696457604391332?s=46&t=N0Rb3EM92M7D0kdXCFZgWg",
+    "winner": "@_seacasa",
+    "totalBidUSD": 291,
+    "domain": "x.com",
+    "projectKey": "x-account:junglebayac",
+    "favicon": "https://unavatar.io/twitter/junglebayac",
+    "date": "2025-04-14",
+    "contributors": [
+      {
+        "address": "@_seacasa",
+        "amount": 291,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 38,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xc1a6fbedae68e1472dbb91fe29b51f7a0bd44f97",
+    "winner": "@proxystudio.eth",
+    "totalBidUSD": 333,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xc1a6fbedae",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-04-13",
+    "contributors": [
+      {
+        "address": "@proxystudio.eth",
+        "amount": 333,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 37,
+    "title": "Open to the",
+    "url": "https://Publicopentothepublic.org",
+    "winner": "@0xnaaate",
+    "totalBidUSD": 204,
+    "domain": "publicopentothepublic.org",
+    "projectKey": "publicopentothepublic.org",
+    "favicon": "https://www.google.com/s2/favicons?domain=publicopentothepublic.org&sz=64",
+    "date": "2025-04-12",
+    "contributors": [
+      {
+        "address": "@0xnaaate",
+        "amount": 204,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 36,
+    "title": "@joelkruger's tweet",
+    "url": "https://x.com/joelkruger/status/1910012522377207938?s=46",
+    "winner": "@joelkruger",
+    "totalBidUSD": 159,
+    "domain": "x.com",
+    "projectKey": "x-account:joelkruger",
+    "favicon": "https://pbs.twimg.com/profile_images/1928927619979857920/hLIpiGsC_400x400.jpg",
+    "date": "2025-04-11",
+    "contributors": [
+      {
+        "address": "@joelkruger",
+        "amount": 159,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 35,
+    "title": "Base | Jobs",
+    "url": "https://base.org/jobs",
+    "winner": "@mykcryptodev",
+    "totalBidUSD": 67,
+    "domain": "base.org",
+    "projectKey": "base.org",
+    "favicon": "https://base.org/document/apple-touch-icon.png",
+    "date": "2025-04-10",
+    "contributors": [
+      {
+        "address": "@mykcryptodev",
+        "amount": 67,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 34,
+    "title": "@vsck on Farcaster",
+    "url": "https://warpcast.com/vsck",
+    "winner": "@cdeburner",
+    "totalBidUSD": 88,
+    "domain": "warpcast.com",
+    "projectKey": "warpcast.com",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bafd4982-6c81-4e09-dfeb-d16c8b51a900/original",
+    "date": "2025-04-09",
+    "contributors": [
+      {
+        "address": "@cdeburner",
+        "amount": 88,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 33,
+    "title": "@MLeeJr's tweet",
+    "url": "https://x.com/MLeeJr/status/1906799328909250745",
+    "winner": "@mleejr",
+    "totalBidUSD": 70,
+    "domain": "x.com",
+    "projectKey": "x-account:mleejr",
+    "favicon": "https://pbs.twimg.com/profile_images/1601094719525855232/aOkAPHtC_200x200.png",
+    "date": "2025-04-08",
+    "contributors": [
+      {
+        "address": "@mleejr",
+        "amount": 70,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 32,
+    "title": "Bitcoin 2028",
+    "url": "https://zora.co/coin/base:0xd0d6b565637c846276a5017777c697c30463087f",
+    "winner": "@thecryptos.eth",
+    "totalBidUSD": 43,
+    "domain": "zora.co",
+    "projectKey": "zora-coin:0xd0d6b565",
+    "favicon": "https://zora.co/assets/favicon/apple-touch-icon.png",
+    "date": "2025-04-07",
+    "contributors": [
+      {
+        "address": "@thecryptos.eth",
+        "amount": 43,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 31,
+    "title": "@mleejr's tweet",
+    "url": "https://x.com/mleejr/status/1906799328909250745?s=46&t=K-K-XWNW7-zukEgbiC3E5w0xbf...bA30",
+    "winner": "",
+    "totalBidUSD": 22,
+    "domain": "x.com",
+    "projectKey": "x-account:mleejr",
+    "favicon": "https://pbs.twimg.com/profile_images/1601094719525855232/aOkAPHtC_200x200.png",
+    "date": "2025-04-06",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 30,
+    "title": "elon5050elon5050.com",
+    "url": "https://elon5050elon5050.com",
+    "winner": "0xbf...bA30",
+    "totalBidUSD": 28,
+    "domain": "elon5050elon5050.com",
+    "projectKey": "elon5050elon5050.com",
+    "favicon": "https://www.google.com/s2/favicons?domain=elon5050elon5050.com&sz=64",
+    "date": "2025-04-05",
+    "contributors": [
+      {
+        "address": "0xbf...bA30",
+        "amount": 28,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 29,
+    "title": "S.P.A.W.N.",
+    "url": "https://spawner.fun",
+    "winner": "@rhynotic",
+    "totalBidUSD": 67,
+    "domain": "spawner.fun",
+    "projectKey": "spawner.fun",
+    "favicon": "https://spawner.fun/images/favicon.png",
+    "date": "2025-04-04",
+    "contributors": [
+      {
+        "address": "@rhynotic",
+        "amount": 67,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 28,
+    "title": "Project EVMavericks&#x27; Doots Podcast",
+    "url": "https://giveth.io/project/evmavericks-doots-podcast",
+    "winner": "@bbroad25",
+    "totalBidUSD": 31,
+    "domain": "giveth.io",
+    "projectKey": "giveth.io",
+    "favicon": "https://giveth.io/favicon.svg",
+    "date": "2025-04-03",
+    "contributors": [
+      {
+        "address": "@bbroad25",
+        "amount": 31,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 27,
+    "title": "Custom Hangman",
+    "url": "https://Gamehangmanwords.com/play/custom",
+    "winner": "@facebucks.eth",
+    "totalBidUSD": 42,
+    "domain": "gamehangmanwords.com",
+    "projectKey": "gamehangmanwords.com",
+    "favicon": "https://www.google.com/s2/favicons?domain=gamehangmanwords.com&sz=64",
+    "date": "2025-04-02",
+    "contributors": [
+      {
+        "address": "@facebucks.eth",
+        "amount": 42,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 26,
+    "title": "@DanaBuidl's tweet",
+    "url": "https://x.com/DanaBuidl/status/1906256564018921663defipolice.eth",
+    "winner": "",
+    "totalBidUSD": 71,
+    "domain": "x.com",
+    "projectKey": "x-account:danabuidl",
+    "favicon": "https://unavatar.io/twitter/DanaBuidl",
+    "date": "2025-04-01",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 25,
+    "title": "opensea",
+    "url": "https://opensea.io/collection/based-fellas43things.eth",
+    "winner": "",
+    "totalBidUSD": 26,
+    "domain": "opensea.io",
+    "projectKey": "opensea.io",
+    "favicon": "https://opensea.io/favicon.ico",
+    "date": "2025-03-31",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 24,
+    "title": "@applefather.eth's cast",
+    "url": "https://warpcast.com/applefather.eth/0x912acd9e",
+    "winner": "@0xbamboostrong",
+    "totalBidUSD": 67,
+    "domain": "warpcast.com",
+    "projectKey": "wc-cast:applefather.eth",
+    "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/cc6716ae-c02a-4397-421c-97f96469c800/original",
+    "date": "2025-03-30",
+    "contributors": [
+      {
+        "address": "@0xbamboostrong",
+        "amount": 67,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 23,
+    "title": "@jestrbot on X",
+    "url": "https://x.com/jestrbot",
+    "winner": "@nicky_sap",
+    "totalBidUSD": 110,
+    "domain": "x.com",
+    "projectKey": "x-account:jestrbot",
+    "favicon": "https://unavatar.io/twitter/jestrbot",
+    "date": "2025-03-29",
+    "contributors": [
+      {
+        "address": "@nicky_sap",
+        "amount": 110,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 22,
+    "title": "Blockchain Education | Cryptocurrency Investing",
+    "url": "https://advantageblockchain.com",
+    "winner": "@whitetaillp",
+    "totalBidUSD": 49,
+    "domain": "advantageblockchain.com",
+    "projectKey": "advantageblockchain.com",
+    "favicon": "https://static.wixstatic.com/media/0c2fd8_c800924845344d44ab93bbc82a817279%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/0c2fd8_c800924845344d44ab93bbc82a817279%7Emv2.png",
+    "date": "2025-03-28",
+    "contributors": [
+      {
+        "address": "@whitetaillp",
+        "amount": 49,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 21,
+    "title": "gigabraingigabrain.gg",
+    "url": "https://Gigabraingigabrain.gg",
+    "winner": "",
+    "totalBidUSD": 103,
+    "domain": "gigabraingigabrain.gg",
+    "projectKey": "gigabraingigabrain.gg",
+    "favicon": "https://www.google.com/s2/favicons?domain=gigabraingigabrain.gg&sz=64",
+    "date": "2025-03-27",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 20,
+    "title": "punkpunk.town",
+    "url": "https://punkpunk.town",
+    "winner": "0x04...4543",
+    "totalBidUSD": 137,
+    "domain": "punkpunk.town",
+    "projectKey": "punkpunk.town",
+    "favicon": "https://www.google.com/s2/favicons?domain=punkpunk.town&sz=64",
+    "date": "2025-03-26",
+    "contributors": [
+      {
+        "address": "0x04...4543",
+        "amount": 137,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 19,
+    "title": "GiveDirectly: Send",
+    "url": "https://givedirectly.orgmrkibbles.base.eth",
+    "winner": "",
+    "totalBidUSD": 100,
+    "domain": "givedirectly.orgmrkibbles.base.eth",
+    "projectKey": "givedirectly.orgmrkibbles.base.eth",
+    "favicon": "https://www.google.com/s2/favicons?domain=givedirectly.orgmrkibbles.base.eth&sz=64",
+    "date": "2025-03-25",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 18,
+    "title": "Alpha One - Trading Terminal",
+    "url": "https://t.me/alpha_web3_bot?start=w4VbTY6s0x9B...1717",
+    "winner": "",
+    "totalBidUSD": 150,
+    "domain": "t.me",
+    "projectKey": "t.me",
+    "favicon": "https://telegram.org/img/apple-touch-icon.png",
+    "date": "2025-03-24",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 17,
+    "title": "Welcome to Hirechain - Crypto&#x27;s Leading Talent Network",
+    "url": "https://hirechain.io",
+    "winner": "@nocodejac",
+    "totalBidUSD": 190,
+    "domain": "hirechain.io",
+    "projectKey": "hirechain.io",
+    "favicon": "https://cdn.prod.website-files.com/637b5ca2ce9c0d5d4c2d1eb4/638495c82abcc71be7e13b37_256x256.png",
+    "date": "2025-03-23",
+    "contributors": [
+      {
+        "address": "@nocodejac",
+        "amount": 190,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 16,
+    "title": "Onchain March Madness | Linktree",
+    "url": "https://linktr.ee/onchainmarchmadness2025",
+    "winner": "@mykcryptodev",
+    "totalBidUSD": 60,
+    "domain": "linktr.ee",
+    "projectKey": "linktr.ee",
+    "favicon": "https://assets.production.linktr.ee/profiles/_next/static/logo-assets/apple-icon-180x180.png",
+    "date": "2025-03-22",
+    "contributors": [
+      {
+        "address": "@mykcryptodev",
+        "amount": 60,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 15,
+    "title": "dexscreener",
+    "url": "https://dexscreener.com/base/0xd6a4dac466fa6df5245726386c7300d0d133c15c",
+    "winner": "@ayushxgarg",
+    "totalBidUSD": 514,
+    "domain": "dexscreener.com",
+    "projectKey": "dex:0xd6a4dac466",
+    "favicon": "https://dexscreener.com/favicon.ico",
+    "date": "2025-03-21",
+    "contributors": [
+      {
+        "address": "@ayushxgarg",
+        "amount": 514,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 14,
+    "title": "@ripdotfun on X",
+    "url": "https://x.com/ripdotfun",
+    "winner": "@softwarecurator",
+    "totalBidUSD": 584,
+    "domain": "x.com",
+    "projectKey": "x-account:ripdotfun",
+    "favicon": "https://unavatar.io/twitter/ripdotfun",
+    "date": "2025-03-20",
+    "contributors": [
+      {
+        "address": "@softwarecurator",
+        "amount": 584,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 13,
+    "title": "Medium: Read and write stories.",
+    "url": "https://medium.com/",
+    "winner": "@basedfrocarmy0x02...Bfc8",
+    "totalBidUSD": 231,
+    "domain": "medium.com",
+    "projectKey": "medium.com",
+    "favicon": "https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156",
+    "date": "2025-03-19",
+    "contributors": [
+      {
+        "address": "@basedfrocarmy0x02...Bfc8",
+        "amount": 231,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 12,
+    "title": "zorazora.co",
+    "url": "https://Zorazora.co",
+    "winner": "@js_horne",
+    "totalBidUSD": 1047,
+    "domain": "zorazora.co",
+    "projectKey": "zorazora.co",
+    "favicon": "https://www.google.com/s2/favicons?domain=zorazora.co&sz=64",
+    "date": "2025-03-18",
+    "contributors": [
+      {
+        "address": "@js_horne",
+        "amount": 1047,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 11,
+    "title": "thevibecodedthevibecoded.xyz",
+    "url": "https://thevibecodedthevibecoded.xyz",
+    "winner": "@bbroad25",
+    "totalBidUSD": 90,
+    "domain": "thevibecodedthevibecoded.xyz",
+    "projectKey": "thevibecodedthevibecoded.xyz",
+    "favicon": "https://www.google.com/s2/favicons?domain=thevibecodedthevibecoded.xyz&sz=64",
+    "date": "2025-03-17",
+    "contributors": [
+      {
+        "address": "@bbroad25",
+        "amount": 90,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 10,
+    "title": "In",
+    "url": "https://Publicinpublic.fun",
+    "winner": "",
+    "totalBidUSD": 191,
+    "domain": "publicinpublic.fun",
+    "projectKey": "publicinpublic.fun",
+    "favicon": "https://www.google.com/s2/favicons?domain=publicinpublic.fun&sz=64",
+    "date": "2025-03-16",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 9,
+    "title": "Blockchain Education | Cryptocurrency Investing",
+    "url": "https://advantageblockchain.com",
+    "winner": "@whitetaillp",
+    "totalBidUSD": 82,
+    "domain": "advantageblockchain.com",
+    "projectKey": "advantageblockchain.com",
+    "favicon": "https://static.wixstatic.com/media/0c2fd8_c800924845344d44ab93bbc82a817279%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/0c2fd8_c800924845344d44ab93bbc82a817279%7Emv2.png",
+    "date": "2025-03-15",
+    "contributors": [
+      {
+        "address": "@whitetaillp",
+        "amount": 82,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 8,
+    "title": "veilveil.cash",
+    "url": "https://Veilveil.cash",
+    "winner": "@apex_ether",
+    "totalBidUSD": 229,
+    "domain": "veilveil.cash",
+    "projectKey": "veilveil.cash",
+    "favicon": "https://www.google.com/s2/favicons?domain=veilveil.cash&sz=64",
+    "date": "2025-03-14",
+    "contributors": [
+      {
+        "address": "@apex_ether",
+        "amount": 229,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 7,
+    "title": "How are you feeling?",
+    "url": "https://howareyoufeeling.xyz",
+    "winner": "@sushilathreya",
+    "totalBidUSD": 77,
+    "domain": "howareyoufeeling.xyz",
+    "projectKey": "howareyoufeeling.xyz",
+    "favicon": "https://howareyoufeeling.xyz/logo192.png",
+    "date": "2025-03-13",
+    "contributors": [
+      {
+        "address": "@sushilathreya",
+        "amount": 77,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 6,
+    "title": "avatrackeravatracker.xyz",
+    "url": "https://avatrackeravatracker.xyz",
+    "winner": "0xaa...5178",
+    "totalBidUSD": 279,
+    "domain": "avatrackeravatracker.xyz",
+    "projectKey": "avatrackeravatracker.xyz",
+    "favicon": "https://www.google.com/s2/favicons?domain=avatrackeravatracker.xyz&sz=64",
+    "date": "2025-03-12",
+    "contributors": [
+      {
+        "address": "0xaa...5178",
+        "amount": 279,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 5,
+    "title": "QRBase -$",
+    "url": "https://SCANqrbase.xyz",
+    "winner": "0x9C...503b",
+    "totalBidUSD": 121,
+    "domain": "scanqrbase.xyz",
+    "projectKey": "scanqrbase.xyz",
+    "favicon": "https://www.google.com/s2/favicons?domain=scanqrbase.xyz&sz=64",
+    "date": "2025-03-11",
+    "contributors": [
+      {
+        "address": "0x9C...503b",
+        "amount": 121,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 4,
+    "title": "13 - First Mover Advantage (remastered)",
+    "url": "https://zora.co/coin/base:0xb56c9af02832af6b135efd926612b94eec22037b",
+    "winner": "@thecryptos.eth",
+    "totalBidUSD": 440,
+    "domain": "zora.co",
+    "projectKey": "zora-coin:0xb56c9af0",
+    "favicon": "https://zora.co/assets/favicon/apple-touch-icon.png",
+    "date": "2025-03-10",
+    "contributors": [
+      {
+        "address": "@thecryptos.eth",
+        "amount": 440,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 3,
+    "title": "btc/acc - Bitcoin Accumulation",
+    "url": "https://btcacc.com",
+    "winner": "@rhynotic",
+    "totalBidUSD": 565,
+    "domain": "btcacc.com",
+    "projectKey": "btcacc.com",
+    "favicon": "https://btcacc.com/images/icon.png",
+    "date": "2025-03-09",
+    "contributors": [
+      {
+        "address": "@rhynotic",
+        "amount": 565,
+        "timestamp": 0
+      }
+    ],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 2,
+    "title": "Hyper Foundation",
+    "url": "https://hyperliquid.xyz/join/FORFRIENDSdefipolice.eth",
+    "winner": "",
+    "totalBidUSD": 3303,
+    "domain": "hyperliquid.xyz",
+    "projectKey": "hyperliquid.xyz",
+    "favicon": "https://hyperliquid.xyz/apple-touch-icon.png",
+    "date": "2025-03-08",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  }
+]
