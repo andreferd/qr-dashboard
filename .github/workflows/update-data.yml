@@ -1,67 +1,66 @@
-name: Update Auction Data
+name: Check for New Auctions
 
 on:
   schedule:
-    # Run daily at 2 AM UTC (8 hours after midnight auctions close)
-    - cron: '0 2 * * *'
+    # Run daily at 18:00 UTC (2 hours after auctions settle at 16:00 UTC)
+    - cron: '0 18 * * *'
   # Allow manual trigger from GitHub UI
   workflow_dispatch:
 
 jobs:
-  update-data:
+  check-auctions:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Run parse-winners script
-        run: npx ts-node scripts/parse-winners.ts
-
-      - name: Run research-projects script
-        run: npx ts-node scripts/research-projects.ts
-
-      - name: Configure git
+      - name: Check for new auctions via Base RPC
+        id: check
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          # Get current auction ID from contract
+          RESULT=$(curl -s -X POST https://1rpc.io/base \
+            -H "Content-Type: application/json" \
+            -d '{"jsonrpc":"2.0","method":"eth_call","params":[{"to":"0x7309779122069efa06ef71a45ae0db55a259a176","data":"0x7d9f6db5"},"latest"],"id":1}')
 
-      - name: Check for changes
-        id: changes
-        run: |
-          if git diff --quiet data/; then
-            echo "has_changes=false" >> $GITHUB_OUTPUT
+          # Parse auction ID (first 32 bytes = auction ID in hex)
+          HEX_ID=$(echo $RESULT | python3 -c "import json,sys; r=json.load(sys.stdin); print(int(r['result'][2:66], 16))" 2>/dev/null || echo "0")
+          echo "Current auction ID from blockchain: $HEX_ID"
+
+          # Get latest settled auction (current - 1)
+          LATEST_SETTLED=$((HEX_ID - 1))
+          echo "Latest settled: #$LATEST_SETTLED"
+
+          # Get our latest auction ID from the data file
+          OUR_LATEST=$(python3 -c "
+          import json
+          data = json.load(open('data/auctions.json'))
+          print(max(a['id'] for a in data))
+          ")
+          echo "Our latest: #$OUR_LATEST"
+
+          # Check if we're behind
+          if [ "$LATEST_SETTLED" -gt "$OUR_LATEST" ]; then
+            MISSING=$((LATEST_SETTLED - OUR_LATEST))
+            echo "⚠️  BEHIND by $MISSING auction(s)!"
+            echo "Missing: #$((OUR_LATEST + 1)) to #$LATEST_SETTLED"
+            echo "is_behind=true" >> $GITHUB_OUTPUT
+            echo "missing=$MISSING" >> $GITHUB_OUTPUT
+            echo "our_latest=$OUR_LATEST" >> $GITHUB_OUTPUT
+            echo "latest_settled=$LATEST_SETTLED" >> $GITHUB_OUTPUT
           else
-            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "✅ Up to date! Our latest: #$OUR_LATEST"
+            echo "is_behind=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Commit and push changes
-        if: steps.changes.outputs.has_changes == 'true'
+      - name: Report status
         run: |
-          git add data/auctions.json data/projects.json
-          git commit -m "chore: update auction data - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Create deployment
-        if: steps.changes.outputs.has_changes == 'true'
-        run: |
-          echo "✅ Data updated successfully"
-          echo "Changes pushed to GitHub - Vercel will auto-deploy"
-
-      - name: No changes
-        if: steps.changes.outputs.has_changes == 'false'
-        run: |
-          echo "ℹ️ No new auctions or data changes"
+          if [ "${{ steps.check.outputs.is_behind }}" == "true" ]; then
+            echo "🔴 Dashboard is behind!"
+            echo "Missing ${{ steps.check.outputs.missing }} auction(s)"
+            echo "Need to add: #${{ steps.check.outputs.our_latest }} → #${{ steps.check.outputs.latest_settled }}"
+            echo ""
+            echo "To update: open qrcoin.fun/winners and ask Claude to add missing auctions"
+          else
+            echo "🟢 Dashboard is up to date!"
+          fi
