@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { getAuctions, getProjectForAuction, formatUSD, getCategoryColor, formatDate } from "@/lib/data";
-import { ExternalLink, ChevronLeft, ChevronRight, ChevronsLeft, ChevronsRight } from "lucide-react";
+import { ExternalLink, ChevronLeft, ChevronRight, ChevronsLeft, ChevronsRight, Search, X } from "lucide-react";
 import CategoryFilter from "./CategoryFilter";
 import SafeLinkModal from "./SafeLinkModal";
 
@@ -12,18 +12,33 @@ const PAGE_SIZE = 20;
 export default function WinnersTable() {
   const router = useRouter();
   const [categoryFilter, setCategoryFilter] = useState<string | null>(null);
+  const [search, setSearch] = useState("");
   const [page, setPage] = useState(0);
   const [pendingUrl, setPendingUrl] = useState<string | null>(null);
 
   const allAuctions = getAuctions();
 
   // Filter by category
-  const filteredAuctions = categoryFilter
+  const categoryFiltered = categoryFilter
     ? allAuctions.filter((a) => {
         const project = getProjectForAuction(a);
         return project?.category === categoryFilter;
       })
     : allAuctions;
+
+  // Filter by search query
+  const q = search.toLowerCase().trim();
+  const filteredAuctions = q
+    ? categoryFiltered.filter((a) => {
+        const project = getProjectForAuction(a);
+        return (
+          a.title?.toLowerCase().includes(q) ||
+          a.domain?.toLowerCase().includes(q) ||
+          project?.name?.toLowerCase().includes(q) ||
+          project?.tagline?.toLowerCase().includes(q)
+        );
+      })
+    : categoryFiltered;
 
   const totalPages = Math.ceil(filteredAuctions.length / PAGE_SIZE);
   const pageAuctions = filteredAuctions.slice(
@@ -33,15 +48,42 @@ export default function WinnersTable() {
 
   return (
     <div>
-      <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4 mb-4">
-        <h2 className="text-xl font-bold">All Auction Winners</h2>
-        <CategoryFilter
-          selected={categoryFilter}
-          onSelect={(cat) => {
-            setCategoryFilter(cat);
-            setPage(0);
-          }}
-        />
+      <div className="flex flex-col gap-3 mb-4">
+        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3">
+          <h2 className="text-xl font-bold">All Auction Winners</h2>
+          <CategoryFilter
+            selected={categoryFilter}
+            onSelect={(cat) => {
+              setCategoryFilter(cat);
+              setPage(0);
+            }}
+          />
+        </div>
+        {/* Search bar */}
+        <div className="relative">
+          <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted" />
+          <input
+            type="text"
+            placeholder="Search by project name, domain..."
+            value={search}
+            onChange={(e) => { setSearch(e.target.value); setPage(0); }}
+            className="w-full bg-card-bg border border-card-border rounded-lg pl-9 pr-9 py-2 text-sm text-white placeholder:text-muted focus:outline-none focus:border-accent/50 transition-colors"
+          />
+          {search && (
+            <button
+              onClick={() => { setSearch(""); setPage(0); }}
+              className="absolute right-3 top-1/2 -translate-y-1/2 text-muted hover:text-white transition-colors"
+            >
+              <X className="w-4 h-4" />
+            </button>
+          )}
+        </div>
+        {/* Result count when filtering */}
+        {(search || categoryFilter) && (
+          <p className="text-sm text-muted">
+            Found <span className="text-white font-semibold">{filteredAuctions.length}</span> auction{filteredAuctions.length !== 1 ? "s" : ""}
+          </p>
+        )}
       </div>
 
       <div className="bg-card-bg border border-card-border rounded-xl overflow-hidden">
