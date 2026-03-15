@@ -115,7 +115,7 @@
   },
   {
     "id": 365,
-    "title": "Vercel: Build and deploy the best web experiences with the AI Cloud – Vercel",
+    "title": "Vercel: Build and deploy the best web experiences with the AI Cloud \u2013 Vercel",
     "url": "https://vercel.app",
     "winner": "+752 others",
     "totalBidUSD": 1772,
@@ -178,7 +178,7 @@
   },
   {
     "id": 362,
-    "title": "Yourviews — Onchain Journal of the Day",
+    "title": "Yourviews \u2014 Onchain Journal of the Day",
     "url": "https://yourviews.org/entry/20515/0",
     "winner": "",
     "totalBidUSD": 235,
@@ -307,7 +307,7 @@
   },
   {
     "id": 355,
-    "title": "DebtReliefBot — Grokipedia",
+    "title": "DebtReliefBot \u2014 Grokipedia",
     "url": "https://grokipedia.com/page/debtreliefbot",
     "winner": "",
     "totalBidUSD": 220,
@@ -403,7 +403,7 @@
   },
   {
     "id": 349,
-    "title": "Claim —  Fees are yours!",
+    "title": "Claim \u2014  Fees are yours!",
     "url": "https://farcaster.xyz/miniapps/MiAspAXiw6cZ/claim",
     "winner": "+563 others",
     "totalBidUSD": 1374,
@@ -517,7 +517,7 @@
   },
   {
     "id": 343,
-    "title": "Merkle 🌿 - Digital Familiar",
+    "title": "Merkle \ud83c\udf3f - Digital Familiar",
     "url": "https://merkle.bot",
     "winner": "",
     "totalBidUSD": 508,
@@ -1006,7 +1006,7 @@
   },
   {
     "id": 316,
-    "title": "DebtReliefBot — Grokipedia",
+    "title": "DebtReliefBot \u2014 Grokipedia",
     "url": "https://grokipedia.com/page/debtreliefbot",
     "winner": "+5 others",
     "totalBidUSD": 792,
@@ -1090,7 +1090,7 @@
   },
   {
     "id": 312,
-    "title": "Senpi — Mirror Trading",
+    "title": "Senpi \u2014 Mirror Trading",
     "url": "https://farcaster.xyz/miniapps/28xbPU0xYYK9/senpi--mirror-trading",
     "winner": "@senpi.eth",
     "totalBidUSD": 362,
@@ -1213,7 +1213,7 @@
   },
   {
     "id": 305,
-    "title": "Senpi — Mirror Trading",
+    "title": "Senpi \u2014 Mirror Trading",
     "url": "https://farcaster.xyz/miniapps/28xbPU0xYYK9/senpi--mirror-trading",
     "winner": "",
     "totalBidUSD": 353,
@@ -1270,7 +1270,7 @@
   },
   {
     "id": 302,
-    "title": "Let’s Have A Word!",
+    "title": "Let\u2019s Have A Word!",
     "url": "https://farcaster.xyz/miniapps/yzTRNYuz4cok/lets-have-a-word",
     "winner": "+2 others",
     "totalBidUSD": 525,
@@ -2929,7 +2929,7 @@
   },
   {
     "id": 213,
-    "title": "PunkStrategy™",
+    "title": "PunkStrategy\u2122",
     "url": "https://punkstrategy.fun/app",
     "winner": "",
     "totalBidUSD": 288,
@@ -3133,7 +3133,7 @@
   },
   {
     "id": 201,
-    "title": "Native • Chat, Play, Earn",
+    "title": "Native \u2022 Chat, Play, Earn",
     "url": "https://native.fun",
     "winner": "+1 others",
     "totalBidUSD": 365,
@@ -3154,7 +3154,7 @@
   },
   {
     "id": 200,
-    "title": "MintedMerch - Where…coin.",
+    "title": "MintedMerch - Where\u2026coin.",
     "url": "https://mintedmerch.sh",
     "winner": "+6 others",
     "totalBidUSD": 343,
@@ -3175,7 +3175,7 @@
   },
   {
     "id": 199,
-    "title": "PoolFans - Onchain …pool.fans+14 others",
+    "title": "PoolFans - Onchain \u2026pool.fans+14 others",
     "url": "",
     "winner": "",
     "totalBidUSD": 367,
@@ -3256,7 +3256,7 @@
   },
   {
     "id": 194,
-    "title": "Pigeon—Your AI quant for infinite markets",
+    "title": "Pigeon\u2014Your AI quant for infinite markets",
     "url": "https://pigeon.trade",
     "winner": "+1 others",
     "totalBidUSD": 1058,
@@ -3307,7 +3307,7 @@
   },
   {
     "id": 191,
-    "title": "Buy “VIBENZA” ($“VBN) on vibe.market",
+    "title": "Buy \u201cVIBENZA\u201d ($\u201cVBN) on vibe.market",
     "url": "https://vibechain.com/market/vibenza",
     "winner": "",
     "totalBidUSD": 431,
@@ -3466,7 +3466,7 @@
   },
   {
     "id": 182,
-    "title": "trifle ♧",
+    "title": "trifle \u2667",
     "url": "https://trifle.life/lottery",
     "winner": "",
     "totalBidUSD": 485,
@@ -3757,7 +3757,7 @@
   },
   {
     "id": 167,
-    "title": "$BUTTHOLE – Weaponised Humiliation Protocol",
+    "title": "$BUTTHOLE \u2013 Weaponised Humiliation Protocol",
     "url": "https://butthole.stream",
     "winner": "",
     "totalBidUSD": 666,
@@ -7098,6 +7098,36 @@
     "projectKey": "hyperliquid.xyz",
     "favicon": "https://hyperliquid.xyz/apple-touch-icon.png",
     "date": "2025-03-08",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 373,
+    "title": "@tryemerge's tweet",
+    "url": "https://x.com/tryemerge/status/2032531283046207594?s=46&t=0cRCShhDEbaldGWa6eVUUw",
+    "winner": "@atown",
+    "totalBidUSD": 175,
+    "domain": "x.com",
+    "projectKey": "x.com",
+    "favicon": "https://abs.twimg.com/favicons/twitter.3.ico",
+    "date": "2026-03-14",
+    "contributors": [],
+    "txHash": "",
+    "blockNumber": 0,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 372,
+    "title": "Teller",
+    "url": "https://farcaster.xyz/miniapps/2Ts-0TIKtjXW/teller",
+    "winner": "@teller",
+    "totalBidUSD": 180,
+    "domain": "farcaster.xyz",
+    "projectKey": "farcaster.xyz/miniapps/2Ts-0TIKtjXW/teller",
+    "favicon": "https://farcaster.xyz/favicon.ico",
+    "date": "2026-03-13",
     "contributors": [],
     "txHash": "",
     "blockNumber": 0,
