@@ -4,15 +4,22 @@ import { useEffect, useState } from "react";
 import { Clock } from "lucide-react";
 
 function getNextAuctionEnd(): Date {
-  // QR auction settles daily at ~00:00 UTC (midnight UTC)
+  // QR auction ends at 12:00 AM Mountain Time daily (America/Denver handles DST)
   const now = new Date();
-  const next = new Date();
-  next.setUTCHours(0, 0, 0, 0);
-  // If midnight has already passed today, target tomorrow
-  if (next <= now) {
-    next.setUTCDate(next.getUTCDate() + 1);
-  }
-  return next;
+
+  // Represent "now" as if it were local time in Mountain timezone
+  const mtNow = new Date(now.toLocaleString("en-US", { timeZone: "America/Denver" }));
+
+  // Find next midnight in that Mountain "local" representation
+  const mtMidnight = new Date(mtNow);
+  mtMidnight.setHours(0, 0, 0, 0);
+  mtMidnight.setDate(mtMidnight.getDate() + 1);
+
+  // The offset between real UTC and the MT pseudo-local date
+  const offsetMs = now.getTime() - mtNow.getTime();
+
+  // Convert MT midnight back to real UTC
+  return new Date(mtMidnight.getTime() + offsetMs);
 }
 
 export default function CountdownTimer() {
