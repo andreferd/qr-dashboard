@@ -17,10 +17,15 @@ export const metadata: Metadata = {
   title: "QR Auction Dashboard | Daily Onchain Attention Machine",
   description:
     "Explore every QR auction winner with AI-powered project summaries, bid analytics, and on-chain data from qrcoin.fun on Base.",
+  icons: {
+    icon: "https://qrcoin.fun/qrLogo.png",
+    apple: "https://qrcoin.fun/qrLogo.png",
+  },
   openGraph: {
     title: "QR Auction Dashboard",
     description: "Explore every QR auction winner with project summaries and bid analytics.",
     siteName: "QR Dashboard",
+    images: ["https://qrcoin.fun/qrLogo.png"],
   },
 };
 
@@ -36,15 +41,19 @@ export default function RootLayout({
       >
         <header className="border-b border-card-border bg-card-bg/80 backdrop-blur-sm sticky top-0 z-50">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-            <Link href="/" className="flex items-center gap-3 hover:opacity-80 transition-opacity">
-              <div className="w-8 h-8 rounded-lg bg-accent/20 flex items-center justify-center">
-                <span className="text-accent font-bold text-sm">QR</span>
+            <Link href="/" className="flex items-center gap-3 hover:opacity-80 transition-opacity group">
+              <div className="w-9 h-9 rounded-xl overflow-hidden ring-1 ring-accent/30 group-hover:ring-accent/60 transition-all flex-shrink-0 bg-black">
+                <img
+                  src="https://qrcoin.fun/qrLogo.png"
+                  alt="QR Coin Logo"
+                  className="w-full h-full object-cover"
+                />
               </div>
               <div>
-                <h1 className="text-lg font-bold text-foreground">
+                <h1 className="text-lg font-bold text-foreground leading-tight">
                   QR Auction Dashboard
                 </h1>
-                <p className="text-xs text-muted -mt-0.5">
+                <p className="text-xs text-muted">
                   The Onchain Attention Machine
                 </p>
               </div>
