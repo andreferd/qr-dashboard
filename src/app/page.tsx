@@ -5,25 +5,19 @@ import BidChart from "@/components/BidChart";
 import SafetyBanner from "@/components/SafetyBanner";
 import CountdownTimer from "@/components/CountdownTimer";
 import TopBids from "@/components/TopBids";
+import HeroBanner from "@/components/HeroBanner";
 
 export default function Home() {
   return (
     <div className="space-y-8">
+      {/* Hero banner with big QR logo */}
+      <HeroBanner />
+
       {/* Safety notice */}
       <SafetyBanner />
 
       {/* Countdown to next auction */}
       <CountdownTimer />
-
-      {/* About section */}
-      <div className="bg-card-bg/50 border border-card-border rounded-xl p-4 text-sm text-muted">
-        <p>
-          <span className="text-accent font-semibold">$QR</span> runs a daily
-          auction where the highest bidder controls where a permanent QR code
-          points for 24 hours. This dashboard tracks every winner with
-          AI-researched project summaries and on-chain bid data.
-        </p>
-      </div>
 
       {/* Latest winner hero */}
       <TodayWinner />
