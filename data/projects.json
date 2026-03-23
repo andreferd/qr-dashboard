@@ -1,4 +1,56 @@
 {
+  "buildinseven.com": {
+    "name": "BUILDINSEVEN",
+    "tagline": "Turn your idea into a product in 7 days",
+    "summary": "BUILDINSEVEN is an AI-accelerated development service that transforms ideas into fully built products in 7 days, with clients retaining full code ownership. Won 2 QR auctions ($267 total).",
+    "category": "Tool/Utility",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 267,
+    "firstWin": "2026-03-21",
+    "lastWin": "2026-03-22",
+    "auctionIds": [380, 381],
+    "favicon": "https://buildinseven.com/favicon.ico"
+  },
+  "fc-miniapp:surfin": {
+    "name": "Surfin",
+    "tagline": "Surfing mini app on Farcaster",
+    "summary": "Surfin is a Farcaster mini app with a surfing theme, letting users ride the onchain wave. Won 1 QR auction ($150).",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 150,
+    "firstWin": "2026-03-20",
+    "lastWin": "2026-03-20",
+    "auctionIds": [379],
+    "favicon": "https://farcaster.xyz/favicon.ico"
+  },
+  "fc-miniapp:vbms": {
+    "name": "$VBMS - Game and Wager",
+    "tagline": "Play-to-earn wager game on Farcaster",
+    "summary": "$VBMS is a Farcaster mini app combining gaming and wagering mechanics, letting users compete and bet with onchain tokens. Won 1 QR auction ($133).",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 133,
+    "firstWin": "2026-03-16",
+    "lastWin": "2026-03-16",
+    "auctionIds": [375],
+    "favicon": "https://farcaster.xyz/favicon.ico"
+  },
+  "gemminer.app": {
+    "name": "GEM Miner",
+    "tagline": "Mine deep, earn GEM tokens onchain",
+    "summary": "GEM Miner is a browser-based pixel-art mining game on Base where players dig procedurally generated caves to earn GEM tokens, upgrade gear, and compete on leaderboards. Won 1 QR auction ($206).",
+    "category": "Game",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 206,
+    "firstWin": "2026-03-17",
+    "lastWin": "2026-03-17",
+    "auctionIds": [376],
+    "favicon": "https://gemminer.app/favicon.ico"
+  },
   "opencredits.xyz": {
     "name": "OpenCredits - Wallet-native AI Credits",
     "tagline": "Wallet-native AI credits",
@@ -152,20 +204,16 @@
     "favicon": "https://apps.apple.com/assets/favicon/favicon-180.png"
   },
   "waligpt.com": {
-    "name": "WaliGPT - OpenClaw Launcher | Deploy and manage OpenClaw AI agents",
-    "tagline": "AI agent deployment platform",
-    "summary": "WaliGPT OpenClaw — a platform for deploying and managing AI agents onchain. Won 3 QR auctions ($838 total).",
-    "category": "Other",
+    "name": "WaliGPT | OpenClaw Launcher",
+    "tagline": "Deploy and manage AI agents onchain",
+    "summary": "WaliGPT is a platform for deploying and managing autonomous AI agents onchain with one-click setup, pre-built skills (trading, social automation, DeFi), and infrastructure hosting. Won 5 QR auctions ($1,158 total).",
+    "category": "Tool/Utility",
     "linkType": "web",
-    "totalAuctionWins": 3,
-    "totalSpentUSD": 838,
-    "firstWin": "2026-03-01",
-    "lastWin": "2026-02-06",
-    "auctionIds": [
-      360,
-      352,
-      337
-    ],
+    "totalAuctionWins": 5,
+    "totalSpentUSD": 1158,
+    "firstWin": "2026-02-06",
+    "lastWin": "2026-03-18",
+    "auctionIds": [337, 352, 360, 374, 377],
     "favicon": "https://waligpt.com/assets/wali-robot-logo-4x.png"
   },
   "truthpolltruthpoll.com": {
@@ -1526,17 +1574,15 @@
   },
   "fc-miniapp:rep": {
     "name": "REP",
-    "tagline": "Reputation scoring system",
-    "summary": "REP — a reputation scoring mini app that tracks and rewards engagement on Farcaster.",
+    "tagline": "Onchain reputation scoring on Farcaster",
+    "summary": "REP is a Farcaster mini app that tracks and scores user reputation onchain, rewarding consistent engagement and quality contributions in the ecosystem. Won 2 QR auctions ($551 total).",
     "category": "Farcaster Mini App",
     "linkType": "web",
-    "totalAuctionWins": 1,
-    "totalSpentUSD": 411,
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 551,
     "firstWin": "2025-11-07",
-    "lastWin": "2025-11-07",
-    "auctionIds": [
-      246
-    ],
+    "lastWin": "2026-03-19",
+    "auctionIds": [246, 378],
     "favicon": "https://app.r3p.xyz/img/icon.png"
   },
   "x-account:neet_sol": {
