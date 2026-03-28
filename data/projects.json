@@ -9,7 +9,10 @@
     "totalSpentUSD": 267,
     "firstWin": "2026-03-21",
     "lastWin": "2026-03-22",
-    "auctionIds": [380, 381],
+    "auctionIds": [
+      380,
+      381
+    ],
     "favicon": "https://buildinseven.com/favicon.ico"
   },
   "fc-miniapp:surfin": {
@@ -22,7 +25,9 @@
     "totalSpentUSD": 150,
     "firstWin": "2026-03-20",
     "lastWin": "2026-03-20",
-    "auctionIds": [379],
+    "auctionIds": [
+      379
+    ],
     "favicon": "https://farcaster.xyz/favicon.ico"
   },
   "fc-miniapp:vbms": {
@@ -35,7 +40,9 @@
     "totalSpentUSD": 133,
     "firstWin": "2026-03-16",
     "lastWin": "2026-03-16",
-    "auctionIds": [375],
+    "auctionIds": [
+      375
+    ],
     "favicon": "https://farcaster.xyz/favicon.ico"
   },
   "gemminer.app": {
@@ -48,13 +55,15 @@
     "totalSpentUSD": 206,
     "firstWin": "2026-03-17",
     "lastWin": "2026-03-17",
-    "auctionIds": [376],
+    "auctionIds": [
+      376
+    ],
     "favicon": "https://gemminer.app/favicon.ico"
   },
   "opencredits.xyz": {
     "name": "OpenCredits - Wallet-native AI Credits",
     "tagline": "Wallet-native AI credits",
-    "summary": "OpenCredits — a wallet-native system for purchasing and using AI credits.",
+    "summary": "OpenCredits \u2014 a wallet-native system for purchasing and using AI credits.",
     "category": "Tool/Utility",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -115,7 +124,7 @@
   "play.fun": {
     "name": "Bizarre Bounce - BizarreBeasts | Play.fun | Play to Earn Games on Solana",
     "tagline": "Web3 gaming platform",
-    "summary": "Play.fun — a Web3 gaming platform featuring casual games with crypto rewards.",
+    "summary": "Play.fun \u2014 a Web3 gaming platform featuring casual games with crypto rewards.",
     "category": "Game",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -130,7 +139,7 @@
   "calendarhigher.zip": {
     "name": "HIGHER.ZIP",
     "tagline": "HIGHER ecosystem calendar",
-    "summary": "HIGHER.ZIP Calendar — a calendar and event tool for the HIGHER token ecosystem.",
+    "summary": "HIGHER.ZIP Calendar \u2014 a calendar and event tool for the HIGHER token ecosystem.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -143,9 +152,9 @@
     "favicon": "https://www.google.com/s2/favicons?domain=calendarhigher.zip&sz=64"
   },
   "vercel.app": {
-    "name": "Vercel: Build and deploy the best web experiences with the AI Cloud – Vercel",
+    "name": "Vercel: Build and deploy the best web experiences with the AI Cloud \u2013 Vercel",
     "tagline": "Cloud deployment platform",
-    "summary": "Vercel — a cloud platform for deploying web applications with zero configuration.",
+    "summary": "Vercel \u2014 a cloud platform for deploying web applications with zero configuration.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -174,9 +183,9 @@
     "favicon": "https://pbs.twimg.com/profile_images/1911328923394158592/5bkopMI4_400x400.jpg"
   },
   "yourviews.org": {
-    "name": "Yourviews — Onchain Journal of the Day",
+    "name": "Yourviews \u2014 Onchain Journal of the Day",
     "tagline": "Onchain journaling platform",
-    "summary": "Yourviews — an onchain journaling platform for recording daily thoughts and experiences.",
+    "summary": "Yourviews \u2014 an onchain journaling platform for recording daily thoughts and experiences.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -213,13 +222,19 @@
     "totalSpentUSD": 1158,
     "firstWin": "2026-02-06",
     "lastWin": "2026-03-18",
-    "auctionIds": [337, 352, 360, 374, 377],
+    "auctionIds": [
+      337,
+      352,
+      360,
+      374,
+      377
+    ],
     "favicon": "https://waligpt.com/assets/wali-robot-logo-4x.png"
   },
   "truthpolltruthpoll.com": {
     "name": "truthpolltruthpoll.com",
     "tagline": "Onchain polling platform",
-    "summary": "TruthPoll — an onchain polling and voting platform for community decision-making.",
+    "summary": "TruthPoll \u2014 an onchain polling and voting platform for community decision-making.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -234,7 +249,7 @@
   "adverse.app": {
     "name": "Adverse - The World's First Advertising Marketplace You Own",
     "tagline": "Decentralized ad marketplace",
-    "summary": "Adverse — a decentralized advertising marketplace where users own their attention data.",
+    "summary": "Adverse \u2014 a decentralized advertising marketplace where users own their attention data.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -277,9 +292,9 @@
     "favicon": "https://dexscreener.com/favicon.ico"
   },
   "grokipedia.com": {
-    "name": "DebtReliefBot — Grokipedia",
+    "name": "DebtReliefBot \u2014 Grokipedia",
     "tagline": "AI-powered knowledge base",
-    "summary": "Grokipedia featuring DebtReliefBot — an AI-powered resource for financial information and debt relief guidance. Won 2 QR auctions ($1012 total).",
+    "summary": "Grokipedia featuring DebtReliefBot \u2014 an AI-powered resource for financial information and debt relief guidance. Won 2 QR auctions ($1012 total).",
     "category": "Tool/Utility",
     "linkType": "web",
     "totalAuctionWins": 2,
@@ -353,7 +368,7 @@
     "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/2556ed85-7b57-4f5a-c1c6-683a2477fe00/original"
   },
   "fc-miniapp:claim": {
-    "name": "Claim —  Fees are yours!",
+    "name": "Claim \u2014  Fees are yours!",
     "tagline": "Fee claiming tool",
     "summary": "A mini app that helps users claim their earned protocol fees and rewards on Farcaster.",
     "category": "Farcaster Mini App",
@@ -444,9 +459,9 @@
     "favicon": "https://app.teller.org/assets/app-icon.png"
   },
   "merkle.bot": {
-    "name": "Merkle 🌿 - Digital Familiar",
+    "name": "Merkle \ud83c\udf3f - Digital Familiar",
     "tagline": "Digital identity verification",
-    "summary": "Merkle — a digital identity and verification platform using merkle tree technology.",
+    "summary": "Merkle \u2014 a digital identity and verification platform using merkle tree technology.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -538,7 +553,7 @@
   "clawmegle.xyz": {
     "name": "Clawmegle - Talk to strangers!",
     "tagline": "Anonymous chat roulette",
-    "summary": "Clawmegle — a talk-to-strangers style anonymous chat platform for the Farcaster community.",
+    "summary": "Clawmegle \u2014 a talk-to-strangers style anonymous chat platform for the Farcaster community.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -600,7 +615,7 @@
   "clawcaster.com": {
     "name": "Clawcaster - Where agents go social",
     "tagline": "Farcaster client",
-    "summary": "Clawcaster — an alternative Farcaster client focused on discovery and engagement.",
+    "summary": "Clawcaster \u2014 an alternative Farcaster client focused on discovery and engagement.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -692,7 +707,7 @@
   "fc-miniapp:lotryfun": {
     "name": "Lotry.fun",
     "tagline": "Lottery game platform",
-    "summary": "Lotry.fun — a decentralized lottery game on Farcaster.",
+    "summary": "Lotry.fun \u2014 a decentralized lottery game on Farcaster.",
     "category": "Farcaster Mini App",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -812,7 +827,7 @@
     "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/0bf096ad-763e-4742-0749-f3333fd67900/original"
   },
   "fc-miniapp:senpi--mirror-trading": {
-    "name": "Senpi — Mirror Trading",
+    "name": "Senpi \u2014 Mirror Trading",
     "tagline": "Mirror trading social tool",
     "summary": "Senpi enables mirror trading on Farcaster, letting users follow and copy trading strategies. Won 2 QR auctions ($715 total).",
     "category": "Farcaster Mini App",
@@ -935,17 +950,18 @@
     "favicon": "https://fcweed-minikitapp.vercel.app/icon.png"
   },
   "fc-miniapp:lets-have-a-word": {
-    "name": "Let’s Have A Word!",
+    "name": "Let\u2019s Have A Word!",
     "tagline": "Word game challenge",
-    "summary": "Let's Have A Word — a collaborative word game on Farcaster.",
+    "summary": "Let's Have A Word \u2014 a collaborative word game on Farcaster.",
     "category": "Farcaster Mini App",
     "linkType": "web",
-    "totalAuctionWins": 1,
-    "totalSpentUSD": 525,
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 667,
     "firstWin": "2026-01-02",
-    "lastWin": "2026-01-02",
+    "lastWin": "2026-03-25",
     "auctionIds": [
-      302
+      302,
+      384
     ],
     "favicon": "https://letshaveaword.fun/LHAW-icon.png"
   },
@@ -1132,7 +1148,7 @@
   "fc-miniapp:x-quo": {
     "name": "unflat",
     "tagline": "Social quoting tool",
-    "summary": "Unflat — a social quoting and content curation mini app on Farcaster. Won 3 QR auctions ($1215 total).",
+    "summary": "Unflat \u2014 a social quoting and content curation mini app on Farcaster. Won 3 QR auctions ($1215 total).",
     "category": "Farcaster Mini App",
     "linkType": "web",
     "totalAuctionWins": 3,
@@ -1149,7 +1165,7 @@
   "fc-miniapp:tysm": {
     "name": "TYSM",
     "tagline": "Gratitude and tipping tool",
-    "summary": "TYSM (Thank You So Much) — a tipping and gratitude mini app for Farcaster.",
+    "summary": "TYSM (Thank You So Much) \u2014 a tipping and gratitude mini app for Farcaster.",
     "category": "Farcaster Mini App",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -1333,7 +1349,7 @@
   "fc-miniapp:farpixel-cats-minter-online": {
     "name": "Farpixel Cats Minter Online",
     "tagline": "Pixel cat NFT minter",
-    "summary": "Farpixel Cats — a pixel art cat NFT minting tool on Farcaster. Won 2 QR auctions ($631 total).",
+    "summary": "Farpixel Cats \u2014 a pixel art cat NFT minting tool on Farcaster. Won 2 QR auctions ($631 total).",
     "category": "Farcaster Mini App",
     "linkType": "web",
     "totalAuctionWins": 2,
@@ -1364,7 +1380,7 @@
   "gbm.auction": {
     "name": "GBM Auction",
     "tagline": "GBM incentivized auction protocol",
-    "summary": "GBM Auction (IDA) — an incentivized auction system where every bid is rewarded, even losing ones. Won 3 QR auctions ($2489 total).",
+    "summary": "GBM Auction (IDA) \u2014 an incentivized auction system where every bid is rewarded, even losing ones. Won 3 QR auctions ($2489 total).",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 3,
@@ -1462,7 +1478,7 @@
   "fc-miniapp:minted-merch": {
     "name": "Minted Merch",
     "tagline": "Onchain merchandise store",
-    "summary": "Minted Merch — a platform for creating and buying onchain-verified merchandise. Won 2 QR auctions ($1123 total).",
+    "summary": "Minted Merch \u2014 a platform for creating and buying onchain-verified merchandise. Won 2 QR auctions ($1123 total).",
     "category": "Farcaster Mini App",
     "linkType": "web",
     "totalAuctionWins": 2,
@@ -1497,7 +1513,7 @@
   "scanqrbase.xyz": {
     "name": "QRBase -$",
     "tagline": "$QR ecosystem scanner",
-    "summary": "QRBase — a scanning and analytics tool for the QR coin ecosystem on Base. Won 4 QR auctions ($2577 total).",
+    "summary": "QRBase \u2014 a scanning and analytics tool for the QR coin ecosystem on Base. Won 4 QR auctions ($2577 total).",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 4,
@@ -1545,7 +1561,7 @@
   "fc-miniapp:glazecorp": {
     "name": "GlazeCorp",
     "tagline": "GlazeCorp community game",
-    "summary": "GlazeCorp — a community-driven game and social platform on Farcaster.",
+    "summary": "GlazeCorp \u2014 a community-driven game and social platform on Farcaster.",
     "category": "Farcaster Mini App",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -1582,7 +1598,10 @@
     "totalSpentUSD": 551,
     "firstWin": "2025-11-07",
     "lastWin": "2026-03-19",
-    "auctionIds": [246, 378],
+    "auctionIds": [
+      246,
+      378
+    ],
     "favicon": "https://app.r3p.xyz/img/icon.png"
   },
   "x-account:neet_sol": {
@@ -1619,7 +1638,7 @@
   "fc-miniapp:creeper": {
     "name": "farcaster",
     "tagline": "Social exploration game",
-    "summary": "Creeper — a social exploration game on Farcaster.",
+    "summary": "Creeper \u2014 a social exploration game on Farcaster.",
     "category": "Farcaster Mini App",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -1664,7 +1683,7 @@
   "fc-miniapp:megaphone": {
     "name": "Megaphone",
     "tagline": "Message amplification tool",
-    "summary": "Megaphone — a mini app for amplifying important messages across Farcaster.",
+    "summary": "Megaphone \u2014 a mini app for amplifying important messages across Farcaster.",
     "category": "Farcaster Mini App",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -1786,7 +1805,7 @@
   "fc-miniapp:signet": {
     "name": "Signet",
     "tagline": "Digital signature tool",
-    "summary": "Signet — a digital signing and verification tool on Farcaster.",
+    "summary": "Signet \u2014 a digital signing and verification tool on Farcaster.",
     "category": "Farcaster Mini App",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -1801,7 +1820,7 @@
   "fc-miniapp:emerge": {
     "name": "Emerge",
     "tagline": "Project launch platform",
-    "summary": "Emerge — a platform for launching and discovering new projects on Farcaster.",
+    "summary": "Emerge \u2014 a platform for launching and discovering new projects on Farcaster.",
     "category": "Farcaster Mini App",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -1862,7 +1881,7 @@
   "fc-miniapp:take0ver-tv": {
     "name": "404: NOT_FOUND",
     "tagline": "Community TV takeover",
-    "summary": "Take0ver TV — a community-driven live streaming mini app on Farcaster.",
+    "summary": "Take0ver TV \u2014 a community-driven live streaming mini app on Farcaster.",
     "category": "Farcaster Mini App",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -1907,7 +1926,7 @@
   "fc-miniapp:pickem": {
     "name": "PICKEM",
     "tagline": "Sports prediction game",
-    "summary": "PICKEM — a sports pick'em prediction game on Farcaster.",
+    "summary": "PICKEM \u2014 a sports pick'em prediction game on Farcaster.",
     "category": "Farcaster Mini App",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -1922,7 +1941,7 @@
   "fc-miniapp:policast": {
     "name": "POLICAST",
     "tagline": "Political discussion tool",
-    "summary": "Policast — a mini app for structured political discussions on Farcaster.",
+    "summary": "Policast \u2014 a mini app for structured political discussions on Farcaster.",
     "category": "Farcaster Mini App",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -1998,9 +2017,9 @@
     "favicon": "https://pbs.twimg.com/profile_images/1968750129495564288/zNIfaWMA_400x400.jpg"
   },
   "punkstrategy.fun": {
-    "name": "PunkStrategy™",
+    "name": "PunkStrategy\u2122",
     "tagline": "Strategy game",
-    "summary": "PunkStrategy — a strategic gameplay experience with punk aesthetics.",
+    "summary": "PunkStrategy \u2014 a strategic gameplay experience with punk aesthetics.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -2105,9 +2124,9 @@
     "favicon": "https://unavatar.io/twitter/playminiapp"
   },
   "native.fun": {
-    "name": "Native • Chat, Play, Earn",
+    "name": "Native \u2022 Chat, Play, Earn",
     "tagline": "Chat and play platform",
-    "summary": "Native — a platform for chatting, playing games, and socializing in Web3.",
+    "summary": "Native \u2014 a platform for chatting, playing games, and socializing in Web3.",
     "category": "Game",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -2120,9 +2139,9 @@
     "favicon": "https://native.fun/apple-icon.png?d38e0d8a69d0c40f"
   },
   "mintedmerch.sh": {
-    "name": "MintedMerch - Where…coin.",
+    "name": "MintedMerch - Where\u2026coin.",
     "tagline": "mintedmerch.sh",
-    "summary": "MintedMerch - Where…coin. promoted through the QR auction. Won auction for $343.",
+    "summary": "MintedMerch - Where\u2026coin. promoted through the QR auction. Won auction for $343.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -2134,10 +2153,10 @@
     ],
     "favicon": "https://www.google.com/s2/favicons?domain=mintedmerch.sh&sz=64"
   },
-  "PoolFans - Onchain …pool.fans+14 others": {
-    "name": "PoolFans - Onchain …pool.fans+14 others",
+  "PoolFans - Onchain \u2026pool.fans+14 others": {
+    "name": "PoolFans - Onchain \u2026pool.fans+14 others",
     "tagline": "Web project",
-    "summary": "PoolFans - Onchain …pool.fans+14 others promoted through the QR auction. Won auction for $367.",
+    "summary": "PoolFans - Onchain \u2026pool.fans+14 others promoted through the QR auction. Won auction for $367.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -2212,9 +2231,9 @@
     "favicon": "https://vibechain.com/vibemarket/assets/logo/favicon.ico"
   },
   "pigeon.trade": {
-    "name": "Pigeon—Your AI quant for infinite markets",
+    "name": "Pigeon\u2014Your AI quant for infinite markets",
     "tagline": "AI-powered quant trading",
-    "summary": "Pigeon — an AI quantitative trading assistant for navigating crypto markets.",
+    "summary": "Pigeon \u2014 an AI quantitative trading assistant for navigating crypto markets.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -2229,7 +2248,7 @@
   "memeticsignalprotocol.com": {
     "name": "Memetic Signal Protocol - Tokens MC Prediction Reputation System",
     "tagline": "Meme signal analysis",
-    "summary": "Memetic Signal Protocol — a tool for analyzing meme trends and social signals in crypto.",
+    "summary": "Memetic Signal Protocol \u2014 a tool for analyzing meme trends and social signals in crypto.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -2244,7 +2263,7 @@
   "likes.fun": {
     "name": "likes.fun",
     "tagline": "Social engagement rewards",
-    "summary": "likes.fun — a platform that gamifies and rewards social media engagement.",
+    "summary": "likes.fun \u2014 a platform that gamifies and rewards social media engagement.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -2334,9 +2353,9 @@
     "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/28127d2b-84d5-4a36-38fc-59bb2dcebf00/original"
   },
   "trifle.life": {
-    "name": "trifle ♧",
+    "name": "trifle \u2667",
     "tagline": "trifle.life",
-    "summary": "trifle ♧ promoted through the QR auction. Won auction for $485.",
+    "summary": "trifle \u2667 promoted through the QR auction. Won auction for $485.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -2381,7 +2400,7 @@
   "pubhouse.xyz": {
     "name": "Pubhouse | Shake on Anything",
     "tagline": "Social pub platform",
-    "summary": "Pubhouse — a social 'shake on it' platform for making and tracking onchain agreements.",
+    "summary": "Pubhouse \u2014 a social 'shake on it' platform for making and tracking onchain agreements.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -2486,7 +2505,7 @@
   "drops.bot": {
     "name": "Crypto Airdrop Checker - Check Any Wallet Address for Unclaimed Crypto Airdrops",
     "tagline": "Airdrop discovery bot",
-    "summary": "Drops Bot — a tool for checking eligibility and claiming crypto airdrops. Won 2 QR auctions ($647 total).",
+    "summary": "Drops Bot \u2014 a tool for checking eligibility and claiming crypto airdrops. Won 2 QR auctions ($647 total).",
     "category": "Tool/Utility",
     "linkType": "web",
     "totalAuctionWins": 2,
@@ -2530,9 +2549,9 @@
     "favicon": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/85d094a5-f49d-405a-8a34-67d7dcde5700/original"
   },
   "butthole.stream": {
-    "name": "$BUTTHOLE – Weaponised Humiliation Protocol",
+    "name": "$BUTTHOLE \u2013 Weaponised Humiliation Protocol",
     "tagline": "butthole.stream",
-    "summary": "$BUTTHOLE – Weaponised Humiliation Protocol promoted through the QR auction. Won auction for $666.",
+    "summary": "$BUTTHOLE \u2013 Weaponised Humiliation Protocol promoted through the QR auction. Won auction for $666.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -2577,7 +2596,7 @@
   "opensea.io": {
     "name": "opensea",
     "tagline": "Leading NFT marketplace",
-    "summary": "OpenSea — the world's largest NFT marketplace for buying, selling, and discovering digital collectibles. Won 2 QR auctions ($2192 total).",
+    "summary": "OpenSea \u2014 the world's largest NFT marketplace for buying, selling, and discovering digital collectibles. Won 2 QR auctions ($2192 total).",
     "category": "NFT/Art",
     "linkType": "web",
     "totalAuctionWins": 2,
@@ -2644,7 +2663,7 @@
   "fc-miniapp:daily-poll": {
     "name": "Daily Questions",
     "tagline": "Daily community polls",
-    "summary": "Daily Questions — a polling mini app for community engagement on Farcaster.",
+    "summary": "Daily Questions \u2014 a polling mini app for community engagement on Farcaster.",
     "category": "Farcaster Mini App",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -2825,7 +2844,7 @@
   "cultscults.fun": {
     "name": "cultscults.fun",
     "tagline": "Community cult creation platform",
-    "summary": "Cults — a platform for creating and joining onchain community 'cults' with shared goals. Won 2 QR auctions ($1878 total).",
+    "summary": "Cults \u2014 a platform for creating and joining onchain community 'cults' with shared goals. Won 2 QR auctions ($1878 total).",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 2,
@@ -2841,7 +2860,7 @@
   "fc-miniapp:hashhorse0xfa...e170": {
     "name": "HashHorse",
     "tagline": "Farcaster mini app",
-    "summary": "HashHorse — a Farcaster mini app promoted through the QR auction. Appeared 2 times, $1451 total spent.",
+    "summary": "HashHorse \u2014 a Farcaster mini app promoted through the QR auction. Appeared 2 times, $1451 total spent.",
     "category": "Farcaster Mini App",
     "linkType": "web",
     "totalAuctionWins": 2,
@@ -2995,7 +3014,7 @@
   "songcast.xyz": {
     "name": "SongCast - Music Attention Markets",
     "tagline": "Music investment platform",
-    "summary": "SongCast — a platform for music discovery and passive investment in songs.",
+    "summary": "SongCast \u2014 a platform for music discovery and passive investment in songs.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -3040,7 +3059,7 @@
   "coinbase.com": {
     "name": "coinbase",
     "tagline": "Major crypto exchange",
-    "summary": "Coinbase — the largest US cryptocurrency exchange, used here for onramping.",
+    "summary": "Coinbase \u2014 the largest US cryptocurrency exchange, used here for onramping.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -3132,7 +3151,7 @@
   "l2marathon.com": {
     "name": "L2 Marathon | Omnichain NFTs Powered by LayerZero",
     "tagline": "L2 chain comparison tool",
-    "summary": "L2 Marathon — an omnichain analytics tool for comparing Layer 2 blockchain performance.",
+    "summary": "L2 Marathon \u2014 an omnichain analytics tool for comparing Layer 2 blockchain performance.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -3313,7 +3332,7 @@
   "cliptheclip.fun": {
     "name": "cliptheclip.fun",
     "tagline": "Viral clip sharing platform",
-    "summary": "Clip — a platform for creating, sharing, and trading viral video clips onchain. Won 2 QR auctions ($4500 total).",
+    "summary": "Clip \u2014 a platform for creating, sharing, and trading viral video clips onchain. Won 2 QR auctions ($4500 total).",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 2,
@@ -3421,7 +3440,7 @@
   "dropsdrops.bot": {
     "name": "dropsdrops.bot",
     "tagline": "Crypto airdrop checker",
-    "summary": "Drops — an airdrop checking bot that helps users discover and claim cryptocurrency airdrops. Won 2 QR auctions ($1635 total).",
+    "summary": "Drops \u2014 an airdrop checking bot that helps users discover and claim cryptocurrency airdrops. Won 2 QR auctions ($1635 total).",
     "category": "Tool/Utility",
     "linkType": "web",
     "totalAuctionWins": 2,
@@ -3619,7 +3638,7 @@
   "collectr.live": {
     "name": "Collectr - Monthly art editions",
     "tagline": "NFT collection tracker",
-    "summary": "Collectr — a monthly NFT and digital collectible tracking platform.",
+    "summary": "Collectr \u2014 a monthly NFT and digital collectible tracking platform.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -4103,7 +4122,7 @@
   "spawner.fun": {
     "name": "S.P.A.W.N.",
     "tagline": "Token launch platform",
-    "summary": "S.P.A.W.N. — a token spawning/launching platform on Base.",
+    "summary": "S.P.A.W.N. \u2014 a token spawning/launching platform on Base.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -4193,7 +4212,7 @@
   "advantageblockchain.com": {
     "name": "Blockchain Education | Cryptocurrency Investing",
     "tagline": "Blockchain education",
-    "summary": "Advantage Blockchain — an educational platform for learning blockchain technology. Won 2 QR auctions ($131 total).",
+    "summary": "Advantage Blockchain \u2014 an educational platform for learning blockchain technology. Won 2 QR auctions ($131 total).",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 2,
@@ -4254,7 +4273,7 @@
   "hirechain.io": {
     "name": "Welcome to Hirechain - Crypto&#x27;s Leading Talent Network",
     "tagline": "Web3 job board",
-    "summary": "Hirechain — a Web3-native job board connecting blockchain talent with opportunities.",
+    "summary": "Hirechain \u2014 a Web3-native job board connecting blockchain talent with opportunities.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -4389,7 +4408,7 @@
   "howareyoufeeling.xyz": {
     "name": "How are you feeling?",
     "tagline": "Mood tracking tool",
-    "summary": "How Are You Feeling — a community mood tracking and wellness check-in tool.",
+    "summary": "How Are You Feeling \u2014 a community mood tracking and wellness check-in tool.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -4434,7 +4453,7 @@
   "btcacc.com": {
     "name": "btc/acc - Bitcoin Accumulation",
     "tagline": "Bitcoin accumulation tracker",
-    "summary": "btc/acc — a Bitcoin accumulation philosophy and tracking platform.",
+    "summary": "btc/acc \u2014 a Bitcoin accumulation philosophy and tracking platform.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -4449,7 +4468,7 @@
   "hyperliquid.xyz": {
     "name": "Hyper Foundation",
     "tagline": "Decentralized perpetual exchange",
-    "summary": "Hyperliquid — a high-performance decentralized exchange for perpetual futures trading.",
+    "summary": "Hyperliquid \u2014 a high-performance decentralized exchange for perpetual futures trading.",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -4460,5 +4479,65 @@
       2
     ],
     "favicon": "https://hyperliquid.xyz/apple-touch-icon.png"
+  },
+  "webbbbbbb.com": {
+    "name": "WEBBBBBBB",
+    "tagline": "Onchain web experience",
+    "summary": "WEBBBBBBB is an onchain web project promoted through the QR auction. Won 1 QR auction ($200).",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 200,
+    "firstWin": "2026-03-23",
+    "lastWin": "2026-03-23",
+    "auctionIds": [
+      382
+    ],
+    "favicon": "https://webbbbbbb.com/apple-touch-icon.png"
+  },
+  "ns.com": {
+    "name": "Network School",
+    "tagline": "Live-and-learn community by Balaji Srinivasan",
+    "summary": "Network School (ns.com) is a live-and-learn community founded by Balaji Srinivasan where members study tech, health, and wealth together in a residential setting. Won 1 QR auction ($132).",
+    "category": "Tool/Utility",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 132,
+    "firstWin": "2026-03-24",
+    "lastWin": "2026-03-24",
+    "auctionIds": [
+      383
+    ],
+    "favicon": "https://ns.com/favicon.ico"
+  },
+  "x-account:TheFirmPressHQ": {
+    "name": "The Firm Press",
+    "tagline": "Crypto media and news outlet",
+    "summary": "The Firm Press (@TheFirmPressHQ) is a crypto media outlet covering Web3 news and culture. Won 1 QR auction ($175).",
+    "category": "Social",
+    "linkType": "social-media",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 175,
+    "firstWin": "2026-03-26",
+    "lastWin": "2026-03-26",
+    "auctionIds": [
+      385
+    ],
+    "favicon": "https://unavatar.io/twitter/TheFirmPressHQ"
+  },
+  "xerohuman.co": {
+    "name": "XeroHuman",
+    "tagline": "Build zero-human companies with AI agents",
+    "summary": "XeroHuman helps founders build fully autonomous, zero-human companies by deploying AI agents to handle operations, customer support, and business logic. Won 1 QR auction ($132).",
+    "category": "Tool/Utility",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 132,
+    "firstWin": "2026-03-27",
+    "lastWin": "2026-03-27",
+    "auctionIds": [
+      386
+    ],
+    "favicon": "https://xerohuman.co/apple-touch-icon.png"
   }
 }
