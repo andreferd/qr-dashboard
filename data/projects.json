@@ -4635,8 +4635,8 @@
   },
   "wyde.org": {
     "name": "WYDE",
-    "tagline": "Wyoming-based decentralized exchange",
-    "summary": "WYDE (Wyoming Decentralized Exchange) is a DEX focused on trading real-world assets and traditional markets onchain. Won 1 QR auction ($169).",
+    "tagline": "Trade crypto and fund real change",
+    "summary": "WYDE is a Wyoming-based 501(c)(4) nonprofit decentralized exchange whose flagship $EAT token directs a portion of every trade fee to verified nonprofits like Feed the Children, operating under Wyoming's DUNA legal framework. Won 1 QR auction ($169).",
     "category": "DeFi/Trading",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -4650,8 +4650,8 @@
   },
   "portal.linera.net": {
     "name": "Linera",
-    "tagline": "Low-latency multi-chain blockchain protocol",
-    "summary": "Linera is a blockchain protocol designed for low-latency, high-throughput decentralized applications using microchains. Won 1 QR auction ($200).",
+    "tagline": "Scalable microchain blockchain protocol",
+    "summary": "Linera is an a16z-backed blockchain using parallel microchains for sub-second finality, hosting real-time prediction markets and token trading to earn USDC prizes and Portal Points. Won 1 QR auction ($200).",
     "category": "Other",
     "linkType": "web",
     "totalAuctionWins": 1,
@@ -4680,8 +4680,8 @@
   },
   "spandex.sh": {
     "name": "spanDEX",
-    "tagline": "Developer-focused decentralized exchange",
-    "summary": "spanDEX is a developer-focused decentralized exchange platform at spandex.sh. Won 2 QR auctions ($802 total) \u2014 the highest combined spend among new projects this round.",
+    "tagline": "Open-source DEX meta-aggregator",
+    "summary": "spanDEX is a free, open-source DEX meta-aggregator library that searches across multiple decentralized exchanges to find optimal token swap routes, minimizing slippage and fees. Won 2 QR auctions ($802 total).",
     "category": "DeFi/Trading",
     "linkType": "web",
     "totalAuctionWins": 2,
@@ -4696,8 +4696,8 @@
   },
   "betrmint.fun": {
     "name": "BETRMINT",
-    "tagline": "Onchain betting and minting platform",
-    "summary": "BETRMINT is a crypto-native betting platform combining wagering mechanics with token minting. Won 1 QR auction ($269).",
+    "tagline": "Mint onchain art, spin to win",
+    "summary": "BETRMINT is a gamified onchain creator support app on Base where users mint featured creator editions for ~$1 and receive free spins on the Neon Flywheel to win up to 100x in tokens, with over $13K paid out in creator rewards. Won 1 QR auction ($269).",
     "category": "Game",
     "linkType": "web",
     "totalAuctionWins": 1,
