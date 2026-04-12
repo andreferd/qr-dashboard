@@ -7372,5 +7372,425 @@
     "txHash": "0xa21adbdfd605a74a3b1eb8c6f8235acfa8af6da4b451cad36c9312328bfafd98",
     "blockNumber": 43918930,
     "contractVersion": "v5"
+  },
+  {
+    "id": 387,
+    "title": "LearnAI \u2014 Learn Anything with AI | Your Personal AI Teacher",
+    "url": "https://uselearnai.com",
+    "winner": "",
+    "totalBidUSD": 135,
+    "domain": "uselearnai.com",
+    "projectKey": "uselearnai.com",
+    "favicon": "https://uselearnai.com/apple-touch-icon.png",
+    "date": "2026-03-28",
+    "contributors": [
+      {
+        "address": "0xdf2107aC1748d25b9dB0de55dF5ED13f12aB9846",
+        "amount": 130,
+        "timestamp": 1774629095
+      },
+      {
+        "address": "0x223fc8e819B9914DD5B333Ca17E064FE7CfB8662",
+        "amount": 5,
+        "timestamp": 1774710273
+      }
+    ],
+    "txHash": "0x6352969b69dc2d79fbc2902a5818848638bd898dff858487f77082b5956a02d0",
+    "blockNumber": 43962150,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 388,
+    "title": "Drops \u2014 Crypto Airdrop Checker",
+    "url": "https://drops.bot/r/QR",
+    "winner": "",
+    "totalBidUSD": 130.69,
+    "domain": "drops.bot",
+    "projectKey": "drops.bot",
+    "favicon": "https://www.drops.bot/favicon.ico",
+    "date": "2026-03-29",
+    "contributors": [
+      {
+        "address": "0x6f463D1A005f6271F616FeB96DA9f20FB0077964",
+        "amount": 129.691161,
+        "timestamp": 1774713753
+      },
+      {
+        "address": "0x1A4115380c495e7c85561E41c1ECdEeDf315d3E0",
+        "amount": 1,
+        "timestamp": 1774732977
+      }
+    ],
+    "txHash": "0xd8c975583cc110d869a8f70e2ca728c89ae66da604f1828078d5325dc43e896d",
+    "blockNumber": 44005331,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 389,
+    "title": "@WaveWarZ on X",
+    "url": "https://x.com/WaveWarZ",
+    "winner": "",
+    "totalBidUSD": 121,
+    "domain": "x.com",
+    "projectKey": "x-account:WaveWarZ",
+    "favicon": "https://unavatar.io/twitter/WaveWarZ",
+    "date": "2026-03-30",
+    "contributors": [
+      {
+        "address": "0xC007AA9E6c9769D3D39ECb0cd517EFDdC79dB045",
+        "amount": 121,
+        "timestamp": 1774886337
+      }
+    ],
+    "txHash": "0x29cab9c9ece26ecd9886e30740e7eb82292af979f690fe4afb9fcd3546e0d70b",
+    "blockNumber": 44048663,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 390,
+    "title": "@nexustradinglab on X",
+    "url": "https://x.com/nexustradinglab",
+    "winner": "",
+    "totalBidUSD": 150,
+    "domain": "x.com",
+    "projectKey": "x-account:nexustradinglab",
+    "favicon": "https://unavatar.io/twitter/nexustradinglab",
+    "date": "2026-03-31",
+    "contributors": [
+      {
+        "address": "0x839E48386367216f4D2cB19605e6E203949521ec",
+        "amount": 130,
+        "timestamp": 1774911421
+      },
+      {
+        "address": "0x41Dbdf08790aa8969355cAE0c6Ccb1F4723C33c6",
+        "amount": 20,
+        "timestamp": 1774929069
+      }
+    ],
+    "txHash": "0xabf58600338d452d221412a903fd6dda4602858bd81f35b688f0d9816beedcde",
+    "blockNumber": 44091737,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 391,
+    "title": "LearnAI \u2014 Learn Anything with AI | Your Personal AI Teacher",
+    "url": "https://uselearnai.com",
+    "winner": "",
+    "totalBidUSD": 132,
+    "domain": "uselearnai.com",
+    "projectKey": "uselearnai.com",
+    "favicon": "https://uselearnai.com/apple-touch-icon.png",
+    "date": "2026-04-01",
+    "contributors": [
+      {
+        "address": "0x223fc8e819B9914DD5B333Ca17E064FE7CfB8662",
+        "amount": 132,
+        "timestamp": 1774985573
+      }
+    ],
+    "txHash": "0xdfb5422e8b73cb30327d95bdd0940468d427669e912195f4f66a04bb9e5d1326",
+    "blockNumber": 44134949,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 392,
+    "title": "Among Traitors",
+    "url": "https://farcaster.xyz/miniapps/JtzwctOCJ1Xj/among-traitors",
+    "winner": "",
+    "totalBidUSD": 151,
+    "domain": "farcaster.xyz",
+    "projectKey": "fc-miniapp:among-traitors",
+    "favicon": "https://amongtraitors.gg/media/among_traitors_icon.png",
+    "date": "2026-04-02",
+    "contributors": [
+      {
+        "address": "0x463B1E8E78B28027b423Ea6f00695f01a84EFe72",
+        "amount": 151,
+        "timestamp": 1775094349
+      }
+    ],
+    "txHash": "0xa7ece9a84ff2d9122f8194b38c661a12492ca26642596e0f532e4ddcc9f7633f",
+    "blockNumber": 44178149,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 393,
+    "title": "TruthPoll",
+    "url": "https://truthpoll.com",
+    "winner": "",
+    "totalBidUSD": 131,
+    "domain": "truthpoll.com",
+    "projectKey": "truthpoll.com",
+    "favicon": "https://truthpoll.com/favicon.ico",
+    "date": "2026-04-03",
+    "contributors": [
+      {
+        "address": "0xDFAF62682ABf3363FEE8ff25Da619213C241dFaE",
+        "amount": 131,
+        "timestamp": 1775145727
+      }
+    ],
+    "txHash": "0x573287c9da2857509c41cc9ef4c94a3830d2489778814b8770ecd8866673c9f5",
+    "blockNumber": 44221347,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 394,
+    "title": "Engagemint \u2014 Earn Crypto by Supporting Streamers",
+    "url": "https://engagemint.tv/how-it-works",
+    "winner": "",
+    "totalBidUSD": 141,
+    "domain": "engagemint.tv",
+    "projectKey": "engagemint.tv",
+    "favicon": "https://engagemint.tv/logo.png",
+    "date": "2026-04-04",
+    "contributors": [
+      {
+        "address": "0xF6128c4C326d75a35dFD25D170B3547510E6C8B0",
+        "amount": 15,
+        "timestamp": 1775233749
+      },
+      {
+        "address": "0xF6128c4C326d75a35dFD25D170B3547510E6C8B0",
+        "amount": 115,
+        "timestamp": 1775235495
+      },
+      {
+        "address": "0x3C9e8699B74024fd7cdD7c2c685e8ad5F93494aA",
+        "amount": 1,
+        "timestamp": 1775282041
+      },
+      {
+        "address": "0xF6128c4C326d75a35dFD25D170B3547510E6C8B0",
+        "amount": 10,
+        "timestamp": 1775312733
+      }
+    ],
+    "txHash": "0x6c95da8548fab48881a3aa748d994243694be50e9427a9f208e135c7b03a87ea",
+    "blockNumber": 44264547,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 395,
+    "title": "WYDE - Wyoming Decentralized Exchange | Trade What Matters",
+    "url": "https://wyde.org/eat",
+    "winner": "",
+    "totalBidUSD": 169.0,
+    "domain": "wyde.org",
+    "projectKey": "wyde.org",
+    "favicon": "https://wyde.org/favicon.png",
+    "date": "2026-04-05",
+    "contributors": [
+      {
+        "address": "0xC7Ce845A3F2bBd337701Cbc1960Fc85D70770AE9",
+        "amount": 120.00288,
+        "timestamp": 1775318463
+      },
+      {
+        "address": "0x1fbbBb6bC0b66e9BCb4CbB4924F6f49C41f3cfD0",
+        "amount": 49,
+        "timestamp": 1775407485
+      }
+    ],
+    "txHash": "0xb33609ceb0d6f42900cf3ea333be2d6fa9fefbd9abb1304696b534bbc4583d7f",
+    "blockNumber": 44309247,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 396,
+    "title": "The Linera Portal",
+    "url": "https://portal.linera.net",
+    "winner": "",
+    "totalBidUSD": 200,
+    "domain": "portal.linera.net",
+    "projectKey": "portal.linera.net",
+    "favicon": "https://pulsarmoney.b-cdn.net/linera/linera_favicon.png",
+    "date": "2026-04-06",
+    "contributors": [
+      {
+        "address": "0x833d512c20b1E661E5aD4cD7F6f92F2bFaeF4d5c",
+        "amount": 200,
+        "timestamp": 1775438595
+      }
+    ],
+    "txHash": "0xddade9c848e59c009b06c14dea829bbbe3a971e301d9550decdabcaeaf925549",
+    "blockNumber": 44350937,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 397,
+    "title": "@yar0xslav's tweet",
+    "url": "https://x.com/yar0xslav/status/2041202644132262162?s=46",
+    "winner": "",
+    "totalBidUSD": 177,
+    "domain": "x.com",
+    "projectKey": "x-account:yar0xslav",
+    "favicon": "https://unavatar.io/twitter/yar0xslav",
+    "date": "2026-04-07",
+    "contributors": [
+      {
+        "address": "0x2A6B39A5747B2a2A900975A7199aBB3E537a68ED",
+        "amount": 150,
+        "timestamp": 1775495817
+      },
+      {
+        "address": "0x2A6B39A5747B2a2A900975A7199aBB3E537a68ED",
+        "amount": 20,
+        "timestamp": 1775533473
+      },
+      {
+        "address": "0x2A6B39A5747B2a2A900975A7199aBB3E537a68ED",
+        "amount": 7,
+        "timestamp": 1775577121
+      }
+    ],
+    "txHash": "0x01f54062f85166cc3383af4c0c199c32d3133cfc0d0bba9a73c0c70a1902f6c8",
+    "blockNumber": 44394132,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 398,
+    "title": "LearnAI \u2014 Learn Anything with AI | Your Personal AI Teacher",
+    "url": "https://uselearnai.com/chat?topic=DeFi&topics=Crypto,RWA",
+    "winner": "",
+    "totalBidUSD": 152.0,
+    "domain": "uselearnai.com",
+    "projectKey": "uselearnai.com",
+    "favicon": "https://uselearnai.com/apple-touch-icon.png",
+    "date": "2026-04-08",
+    "contributors": [
+      {
+        "address": "0x03536951E72200c43F2b8AD95cf7E816F40d0faA",
+        "amount": 102.000102,
+        "timestamp": 1775577731
+      },
+      {
+        "address": "0x223fc8e819B9914DD5B333Ca17E064FE7CfB8662",
+        "amount": 49,
+        "timestamp": 1775585525
+      },
+      {
+        "address": "0x30E7Fd297AE80582ab46FD638Ff6B55e398cb8eC",
+        "amount": 1,
+        "timestamp": 1775646761
+      }
+    ],
+    "txHash": "0x102784b142fa5d577099c3bf6d5748111214d6c71bcdd522f1e1361d73d2c758",
+    "blockNumber": 44437336,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 399,
+    "title": "spanDEX",
+    "url": "https://spandex.sh",
+    "winner": "",
+    "totalBidUSD": 241.9,
+    "domain": "spandex.sh",
+    "projectKey": "spandex.sh",
+    "favicon": "https://spandex.sh/sd.svg",
+    "date": "2026-04-09",
+    "contributors": [
+      {
+        "address": "0xb6f6Dce6000cA88cC936B450cEDB16a5c15f157f",
+        "amount": 115,
+        "timestamp": 1775669201
+      },
+      {
+        "address": "0xeaF650c612E8D0243dDBC15Fd15A85622013AF71",
+        "amount": 6.9,
+        "timestamp": 1775710207
+      },
+      {
+        "address": "0xb6f6Dce6000cA88cC936B450cEDB16a5c15f157f",
+        "amount": 120,
+        "timestamp": 1775750223
+      }
+    ],
+    "txHash": "0x1579453868ccdd12c67803d3d074aa06b9bc11e04c072285ba7eb735d6ca996c",
+    "blockNumber": 44480589,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 400,
+    "title": "spanDEX",
+    "url": "https://spandex.sh",
+    "winner": "",
+    "totalBidUSD": 560,
+    "domain": "spandex.sh",
+    "projectKey": "spandex.sh",
+    "favicon": "https://spandex.sh/sd.svg",
+    "date": "2026-04-10",
+    "contributors": [
+      {
+        "address": "0x2211d7ddfb078b025aC13F5D3D161030c789C1b1",
+        "amount": 210,
+        "timestamp": 1775837287
+      },
+      {
+        "address": "0xb6f6Dce6000cA88cC936B450cEDB16a5c15f157f",
+        "amount": 350,
+        "timestamp": 1775837891
+      }
+    ],
+    "txHash": "0x1ec10f6121a3566deb9594949b338c10d418d01f7ab90df39df25515d48e4580",
+    "blockNumber": 44524473,
+    "contractVersion": "v5"
+  },
+  {
+    "id": 401,
+    "title": "BETRMINT",
+    "url": "https://betrmint.fun",
+    "winner": "",
+    "totalBidUSD": 269.0,
+    "domain": "betrmint.fun",
+    "projectKey": "betrmint.fun",
+    "favicon": "https://betrmint.fun/favicon.ico",
+    "date": "2026-04-11",
+    "contributors": [
+      {
+        "address": "0x47F2f84F5ea39869F9F535077745d98606B41369",
+        "amount": 100.0024,
+        "timestamp": 1775838419
+      },
+      {
+        "address": "0xCBA18CB7e7c043B378E21607fa104F1767442348",
+        "amount": 1,
+        "timestamp": 1775839987
+      },
+      {
+        "address": "0x15E0C4889c515dD2c3bF54e711CDCE355Eac4205",
+        "amount": 1,
+        "timestamp": 1775840887
+      },
+      {
+        "address": "0x49Fcf7fD8bcEd178a3c65d3341F61821eef76423",
+        "amount": 69,
+        "timestamp": 1775840959
+      },
+      {
+        "address": "0x4d40dcBe5bC4ff6aD3c3425737291c7016A3e886",
+        "amount": 1,
+        "timestamp": 1775842105
+      },
+      {
+        "address": "0xE3b811AA0AC620dcc6a27B767eB0d73ae9C56d12",
+        "amount": 10,
+        "timestamp": 1775844041
+      },
+      {
+        "address": "0x49Fcf7fD8bcEd178a3c65d3341F61821eef76423",
+        "amount": 25,
+        "timestamp": 1775915219
+      },
+      {
+        "address": "0x49Fcf7fD8bcEd178a3c65d3341F61821eef76423",
+        "amount": 62,
+        "timestamp": 1775922945
+      }
+    ],
+    "txHash": "0x9e95cc529ced702303c3be77fa6fee21fcf4aabce3ddf9fce6898e9d060f4658",
+    "blockNumber": 44566953,
+    "contractVersion": "v5"
   }
 ]

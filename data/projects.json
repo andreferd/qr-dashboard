@@ -76,10 +76,10 @@
     "favicon": "https://opencredits.xyz/favicon.svg"
   },
   "traitorsamongtraitors.gg": {
-    "name": "Among",
-    "tagline": "traitorsamongtraitors.gg",
-    "summary": "Among promoted through the QR auction. Won auction for $157.",
-    "category": "Other",
+    "name": "Among Traitors",
+    "tagline": "Social deduction game",
+    "summary": "Among Traitors is a browser-based social deduction game where players work together while trying to identify hidden traitors. Won 1 QR auction ($157).",
+    "category": "Game",
     "linkType": "web",
     "totalAuctionWins": 1,
     "totalSpentUSD": 157,
@@ -2503,18 +2503,19 @@
     "favicon": "https://unavatar.io/twitter/joincreatordao"
   },
   "drops.bot": {
-    "name": "Crypto Airdrop Checker - Check Any Wallet Address for Unclaimed Crypto Airdrops",
+    "name": "Drops",
     "tagline": "Airdrop discovery bot",
-    "summary": "Drops Bot \u2014 a tool for checking eligibility and claiming crypto airdrops. Won 2 QR auctions ($647 total).",
+    "summary": "Drops is a privacy-first airdrop checker that scans wallet addresses across Ethereum, Base, Solana, and 10+ networks for unclaimed crypto airdrops \u2014 no wallet connection required. Won 3 QR auctions ($778 total).",
     "category": "Tool/Utility",
     "linkType": "web",
-    "totalAuctionWins": 2,
-    "totalSpentUSD": 647,
+    "totalAuctionWins": 3,
+    "totalSpentUSD": 777.69,
     "firstWin": "2025-08-24",
-    "lastWin": "2025-07-04",
+    "lastWin": "2026-03-29",
     "auctionIds": [
       171,
-      120
+      120,
+      388
     ],
     "favicon": "https://drops.bot/images/logos/app-icon-rounded.png"
   },
@@ -4539,5 +4540,173 @@
       386
     ],
     "favicon": "https://xerohuman.co/apple-touch-icon.png"
+  },
+  "uselearnai.com": {
+    "name": "LearnAI",
+    "tagline": "Learn anything with an AI tutor",
+    "summary": "LearnAI is a personalized AI tutoring platform that teaches users about any topic including crypto, DeFi, and RWA through interactive chat-based lessons. Won 3 QR auctions ($419 total).",
+    "category": "Tool/Utility",
+    "linkType": "web",
+    "totalAuctionWins": 3,
+    "totalSpentUSD": 419.0,
+    "firstWin": "2026-03-28",
+    "lastWin": "2026-04-08",
+    "auctionIds": [
+      387,
+      391,
+      398
+    ],
+    "favicon": "https://uselearnai.com/apple-touch-icon.png"
+  },
+  "x-account:WaveWarZ": {
+    "name": "WaveWarZ",
+    "tagline": "Live music battles on X Spaces",
+    "summary": "WaveWarZ hosts live music trading battles on X Spaces where artists compete song-vs-song, judged by AI and audience polls, with instant onchain payouts on Solana. Won 1 QR auction ($121).",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 121,
+    "firstWin": "2026-03-30",
+    "lastWin": "2026-03-30",
+    "auctionIds": [
+      389
+    ],
+    "favicon": "https://unavatar.io/twitter/WaveWarZ"
+  },
+  "x-account:nexustradinglab": {
+    "name": "Nexus Trading Lab",
+    "tagline": "Crypto trading tools and community",
+    "summary": "Nexus Trading Lab (@nexustradinglab) is a crypto trading tools and community account promoted through the QR auction. Won 1 QR auction ($150).",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 150,
+    "firstWin": "2026-03-31",
+    "lastWin": "2026-03-31",
+    "auctionIds": [
+      390
+    ],
+    "favicon": "https://unavatar.io/twitter/nexustradinglab"
+  },
+  "fc-miniapp:among-traitors": {
+    "name": "Among Traitors",
+    "tagline": "Social deduction game on Farcaster",
+    "summary": "Among Traitors is a Farcaster mini app version of the browser-based social deduction game where players work together while trying to identify hidden traitors. Won 1 QR auction ($151).",
+    "category": "Farcaster Mini App",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 151,
+    "firstWin": "2026-04-02",
+    "lastWin": "2026-04-02",
+    "auctionIds": [
+      392
+    ],
+    "favicon": "https://amongtraitors.gg/media/among_traitors_icon.png"
+  },
+  "truthpoll.com": {
+    "name": "TruthPoll",
+    "tagline": "Onchain polling and sentiment platform",
+    "summary": "TruthPoll is a polling platform for gauging community sentiment with onchain verification. Won 1 QR auction ($131).",
+    "category": "Tool/Utility",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 131,
+    "firstWin": "2026-04-03",
+    "lastWin": "2026-04-03",
+    "auctionIds": [
+      393
+    ],
+    "favicon": "https://truthpoll.com/favicon.ico"
+  },
+  "engagemint.tv": {
+    "name": "Engagemint",
+    "tagline": "Earn crypto by supporting streamers",
+    "summary": "Engagemint lets viewers earn crypto tokens by actively engaging with and supporting their favorite live streamers. Won 1 QR auction ($141).",
+    "category": "Tool/Utility",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 141,
+    "firstWin": "2026-04-04",
+    "lastWin": "2026-04-04",
+    "auctionIds": [
+      394
+    ],
+    "favicon": "https://engagemint.tv/logo.png"
+  },
+  "wyde.org": {
+    "name": "WYDE",
+    "tagline": "Wyoming-based decentralized exchange",
+    "summary": "WYDE (Wyoming Decentralized Exchange) is a DEX focused on trading real-world assets and traditional markets onchain. Won 1 QR auction ($169).",
+    "category": "DeFi/Trading",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 169.0,
+    "firstWin": "2026-04-05",
+    "lastWin": "2026-04-05",
+    "auctionIds": [
+      395
+    ],
+    "favicon": "https://wyde.org/favicon.png"
+  },
+  "portal.linera.net": {
+    "name": "Linera",
+    "tagline": "Low-latency multi-chain blockchain protocol",
+    "summary": "Linera is a blockchain protocol designed for low-latency, high-throughput decentralized applications using microchains. Won 1 QR auction ($200).",
+    "category": "Other",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 200,
+    "firstWin": "2026-04-06",
+    "lastWin": "2026-04-06",
+    "auctionIds": [
+      396
+    ],
+    "favicon": "https://pulsarmoney.b-cdn.net/linera/linera_favicon.png"
+  },
+  "x-account:yar0xslav": {
+    "name": "@yar0xslav",
+    "tagline": "Crypto developer and builder",
+    "summary": "@yar0xslav is a crypto builder whose tweet was promoted through the QR auction. Won 1 QR auction ($177).",
+    "category": "Social",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 177,
+    "firstWin": "2026-04-07",
+    "lastWin": "2026-04-07",
+    "auctionIds": [
+      397
+    ],
+    "favicon": "https://unavatar.io/twitter/yar0xslav"
+  },
+  "spandex.sh": {
+    "name": "spanDEX",
+    "tagline": "Developer-focused decentralized exchange",
+    "summary": "spanDEX is a developer-focused decentralized exchange platform at spandex.sh. Won 2 QR auctions ($802 total) \u2014 the highest combined spend among new projects this round.",
+    "category": "DeFi/Trading",
+    "linkType": "web",
+    "totalAuctionWins": 2,
+    "totalSpentUSD": 801.9,
+    "firstWin": "2026-04-09",
+    "lastWin": "2026-04-10",
+    "auctionIds": [
+      399,
+      400
+    ],
+    "favicon": "https://spandex.sh/sd.svg"
+  },
+  "betrmint.fun": {
+    "name": "BETRMINT",
+    "tagline": "Onchain betting and minting platform",
+    "summary": "BETRMINT is a crypto-native betting platform combining wagering mechanics with token minting. Won 1 QR auction ($269).",
+    "category": "Game",
+    "linkType": "web",
+    "totalAuctionWins": 1,
+    "totalSpentUSD": 269.0,
+    "firstWin": "2026-04-11",
+    "lastWin": "2026-04-11",
+    "auctionIds": [
+      401
+    ],
+    "favicon": "https://betrmint.fun/favicon.ico"
   }
 }
